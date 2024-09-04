@@ -73,7 +73,7 @@ Call every day.
 
 # Vocabulary
 ## Nouns
-### [木](Kanji/kanji-dict/木.md)
+### [木](../Kanji/kanji-dict/木.md)
 ### [ボール](ボール)
 ### [予習](予習)
 ### [塾](塾)
@@ -82,19 +82,19 @@ Call every day.
 ### [相手](相手)
 ### [復習](復習)
 ### [免許](免許)
-### [風](Kanji/kanji-dict/風.md)
+### [風](../Kanji/kanji-dict/風.md)
 ### [お嬢さん](お嬢さん)
 ### [神様](神様)
 ### [受付](受付)
 ### [無駄遣い](無駄遣い)
 ### [ヨーロッパ](ヨーロッパ)
-### [先輩](Vocabulary/先輩.md)
+### [先輩](../Vocabulary/先輩.md)
 ### [一人暮らし](一人暮らし)
 ### [後輩](後輩)
 ### [プロジェクト](プロジェクト)
 ### [書類](書類)
 ### [家事](家事)
-### [自由](Vocabulary/自由.md)
+### [自由](../Vocabulary/自由.md)
 ### [部下](部下)
 
 ## Adjectives and U-verbs
@@ -103,9 +103,9 @@ Call every day.
 ### [貧乏](貧乏)
 ### [ぺらぺら](ぺらぺら)（な）
 ### [心配](心配)
-### [楽](Vocabulary/楽.md)
+### [楽](../Vocabulary/楽.md)
 ### [勝つ](勝つ)
-### [変](Kanji/kanji-dict/変.md)
+### [変](../Kanji/kanji-dict/変.md)
 ### [風が吹く](風が吹く)
 ### [放っておく](放っておく)
 ### [拾う](拾う)

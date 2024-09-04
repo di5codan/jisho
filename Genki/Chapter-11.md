@@ -120,180 +120,180 @@ If asked a question using ことがありますか　you can just say ありま�
 
 # Vocabulary
 ## Nouns
-### [外国](Vocabulary/外国.md)
-### [オーストラリア](Vocabulary/オーストラリア.md)
-### [川](Vocabulary/川.md)
-### [温泉](Vocabulary/温泉.md)
-### [つり](Vocabulary/つり.md)
-### [湖](Vocabulary/湖.md)
-### [山](Vocabulary/山.md)
-### [キャンプ](Vocabulary/キャンプ.md)
-### [ドライブ](Vocabulary/ドライブ.md)
-### [神社](Vocabulary/神社.md)
-### [美術館](Vocabulary/美術館.md)
-### [社長](Vocabulary/社長.md)
-### [歌手](Vocabulary/歌手.md)
-### [ルームメイト](Vocabulary/ルームメイト.md)
-### [ホストファミリー](Vocabulary/ホストファミリー.md)
-### [将来](Vocabulary/将来.md)
-### [夢](Vocabulary/夢.md)
-### [お祭り](Vocabulary/お祭り.md)
-### [お正月](Vocabulary/お正月.md)
-### [お菓子](Vocabulary/お菓子.md)
-### [ビール](Vocabulary/ビール.md)
-### [おもちゃ](Vocabulary/おもちゃ.md)
-### [今学期](Vocabulary/今学期.md)
-### [来学期](Vocabulary/来学期.md)
-### [授業](Vocabulary/授業.md)
-### [こちら](Vocabulary/こちら.md)
-### [嘘をつく](Vocabulary/嘘をつく.md)
-### [お腹が空く](Vocabulary/お腹が空く.md)
+### [外国](../Vocabulary/外国.md)
+### [オーストラリア](../Vocabulary/オーストラリア.md)
+### [川](../Vocabulary/川.md)
+### [温泉](../Vocabulary/温泉.md)
+### [つり](../Vocabulary/つり.md)
+### [湖](../Vocabulary/湖.md)
+### [山](../Vocabulary/山.md)
+### [キャンプ](../Vocabulary/キャンプ.md)
+### [ドライブ](../Vocabulary/ドライブ.md)
+### [神社](../Vocabulary/神社.md)
+### [美術館](../Vocabulary/美術館.md)
+### [社長](../Vocabulary/社長.md)
+### [歌手](../Vocabulary/歌手.md)
+### [ルームメイト](../Vocabulary/ルームメイト.md)
+### [ホストファミリー](../Vocabulary/ホストファミリー.md)
+### [将来](../Vocabulary/将来.md)
+### [夢](../Vocabulary/夢.md)
+### [お祭り](../Vocabulary/お祭り.md)
+### [お正月](../Vocabulary/お正月.md)
+### [お菓子](../Vocabulary/お菓子.md)
+### [ビール](../Vocabulary/ビール.md)
+### [おもちゃ](../Vocabulary/おもちゃ.md)
+### [今学期](../Vocabulary/今学期.md)
+### [来学期](../Vocabulary/来学期.md)
+### [授業](../Vocabulary/授業.md)
+### [こちら](../Vocabulary/こちら.md)
+### [嘘をつく](../Vocabulary/嘘をつく.md)
+### [お腹が空く](../Vocabulary/お腹が空く.md)
 # Verbs
-### [走る](Vocabulary/走る.md)
-### [飼う](Vocabulary/飼う.md)
-### [サボる](Vocabulary/サボる.md)
-### [取る](Vocabulary/取る.md)
-### [習う](Vocabulary/習う.md)
-### [登る](Vocabulary/登る.md)
-### [走る](Vocabulary/走る.md)
-### [疲れる](Vocabulary/疲れる.md)
-### [やめる](Vocabulary/やめる.md)
-### [けんかする](Vocabulary/けんかする.md)
-### [紹介する](Vocabulary/紹介する.md)
-### [ダイエットする](Vocabulary/ダイエットする.md)
-### [遅刻する](Vocabulary/遅刻する.md)
-### [留学する](Vocabulary/留学する.md)
-### [出身](Vocabulary/出身.md)
-### [久しぶり](Vocabulary/久しぶり.md)
-### [まあまあ](Vocabulary/まあまあ.md)
+### [走る](../Vocabulary/走る.md)
+### [飼う](../Vocabulary/飼う.md)
+### [サボる](../Vocabulary/サボる.md)
+### [取る](../Vocabulary/取る.md)
+### [習う](../Vocabulary/習う.md)
+### [登る](../Vocabulary/登る.md)
+### [走る](../Vocabulary/走る.md)
+### [疲れる](../Vocabulary/疲れる.md)
+### [やめる](../Vocabulary/やめる.md)
+### [けんかする](../Vocabulary/けんかする.md)
+### [紹介する](../Vocabulary/紹介する.md)
+### [ダイエットする](../Vocabulary/ダイエットする.md)
+### [遅刻する](../Vocabulary/遅刻する.md)
+### [留学する](../Vocabulary/留学する.md)
+### [出身](../Vocabulary/出身.md)
+### [久しぶり](../Vocabulary/久しぶり.md)
+### [まあまあ](../Vocabulary/まあまあ.md)
 
-### [看護師](Vocabulary/看護師.md)
-### [もっと](Vocabulary/もっと.md)
-### [後](Vocabulary/後.md)
-### [そして](Vocabulary/そして.md)
-### [だけ](Vocabulary/だけ.md)
-### [点](Vocabulary/点.md)
-### [女優](Vocabulary/女優.md)
-### [俳優](Vocabulary/俳優.md)
-### [警察官](Vocabulary/警察官.md)
+### [看護師](../Vocabulary/看護師.md)
+### [もっと](../Vocabulary/もっと.md)
+### [後](../Vocabulary/後.md)
+### [そして](../Vocabulary/そして.md)
+### [だけ](../Vocabulary/だけ.md)
+### [点](../Vocabulary/点.md)
+### [女優](../Vocabulary/女優.md)
+### [俳優](../Vocabulary/俳優.md)
+### [警察官](../Vocabulary/警察官.md)
 
-### [消防士](Vocabulary/消防士.md)
-### [大統領](Vocabulary/大統領.md)
+### [消防士](../Vocabulary/消防士.md)
+### [大統領](../Vocabulary/大統領.md)
 
-### [宇宙飛行士](Vocabulary/宇宙飛行士.md)
+### [宇宙飛行士](../Vocabulary/宇宙飛行士.md)
 
-### [野球選手](Vocabulary/野球選手.md)
+### [野球選手](../Vocabulary/野球選手.md)
 
-### [作家](Vocabulary/作家.md)
+### [作家](../Vocabulary/作家.md)
 
 ## Kanji Practice
-### [手話](Vocabulary/手話.md)
-### [和紙](Vocabulary/和紙.md)
-### [表紙](Vocabulary/表紙.md)
-### [折り紙](Vocabulary/折り紙.md)
-### [好意](Vocabulary/好意.md)
-### [好み](Vocabulary/好み.md)
-### [好物](Vocabulary/好物.md)
-### [近所](Vocabulary/近所.md)
-### [最近](Vocabulary/最近.md)
-### [中近東](Vocabulary/中近東.md)
-### [明るい](Vocabulary/明るい.md)
-### [説明](Vocabulary/説明.md)
+### [手話](../Vocabulary/手話.md)
+### [和紙](../Vocabulary/和紙.md)
+### [表紙](../Vocabulary/表紙.md)
+### [折り紙](../Vocabulary/折り紙.md)
+### [好意](../Vocabulary/好意.md)
+### [好み](../Vocabulary/好み.md)
+### [好物](../Vocabulary/好物.md)
+### [近所](../Vocabulary/近所.md)
+### [最近](../Vocabulary/最近.md)
+### [中近東](../Vocabulary/中近東.md)
+### [明るい](../Vocabulary/明るい.md)
+### [説明](../Vocabulary/説明.md)
 explanation
 せつめい
 
-### [発明](Vocabulary/発明.md)
+### [発明](../Vocabulary/発明.md)
 invention
 はつめい
 
-### [文明](Vocabulary/文明.md)
+### [文明](../Vocabulary/文明.md)
 civilization
 ぶんめい
 
-### [重病](Vocabulary/重病.md)
+### [重病](../Vocabulary/重病.md)
 serious illness
 じゅうびょう
 
-### [急病](Vocabulary/急病.md)
+### [急病](../Vocabulary/急病.md)
 sudden illness
 きゅうびょう
 
-### [映る](Vocabulary/映る.md)
+### [映る](../Vocabulary/映る.md)
 to be reflected
 うつる
 
-### [画家](Vocabulary/画家.md)
+### [画家](../Vocabulary/画家.md)
 painter
 がか
 
-### [計画](Vocabulary/計画.md)
+### [計画](../Vocabulary/計画.md)
 plan
 けいかく
 
-### [国歌](Vocabulary/国歌.md)
+### [国歌](../Vocabulary/国歌.md)
 national anthem
 こっか
 
-### [歌詞](Vocabulary/歌詞.md)
+### [歌詞](../Vocabulary/歌詞.md)
 lyrics
 かし
 
-### [川口市](Vocabulary/川口市.md)
+### [川口市](../Vocabulary/川口市.md)
 Kawaguchi City
 かわぐちし
 
-### [市役所](Vocabulary/市役所.md)
+### [市役所](../Vocabulary/市役所.md)
 city hall
 しやくしょ
 
-### [市長](Vocabulary/市長.md)
+### [市長](../Vocabulary/市長.md)
 mayor
 しちょう
 
-### [市場](Vocabulary/市場.md)
+### [市場](../Vocabulary/市場.md)
 market
 いちば
 
-### [いろいろな所](Vocabulary/いろいろな所.md)
+### [いろいろな所](../Vocabulary/いろいろな所.md)
 various places
 いろいろなところ
 
-### [近所](Vocabulary/近所.md)
+### [近所](../Vocabulary/近所.md)
 neighborhood
 きんじょ
 
-### [台所](Vocabulary/台所.md)
+### [台所](../Vocabulary/台所.md)
 kitchen
 だいどころ
 
-### [住所](Vocabulary/住所.md)
+### [住所](../Vocabulary/住所.md)
 address
 じゅうしょ
 
-### [勤勉な](Vocabulary/勤勉な.md)
+### [勤勉な](../Vocabulary/勤勉な.md)
 diligent
 きんべんな
 
-### [強情な](Vocabulary/強情な.md)
+### [強情な](../Vocabulary/強情な.md)
 obstinate
 ごうじょうな
 
-### [強盗](Vocabulary/強盗.md)
+### [強盗](../Vocabulary/強盗.md)
 robbery
 ごうとう
 
-### [強力な](Vocabulary/強力な.md)
+### [強力な](../Vocabulary/強力な.md)
 powerful
 きょうりょくな
 
-### [有料](Vocabulary/有料.md)
+### [有料](../Vocabulary/有料.md)
 toll; fee
 ゆうりょう
 
-### [一人旅](Vocabulary/一人旅.md)
+### [一人旅](../Vocabulary/一人旅.md)
 traveling alone
 ひとりたび
 
-### [旅券](Vocabulary/旅券.md)
+### [旅券](../Vocabulary/旅券.md)
 passport
 りょけん

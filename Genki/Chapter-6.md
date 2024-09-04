@@ -149,186 +149,186 @@ https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/kara-genki
 https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/mashoka-genki-i-chapter-6/
 
 # Vocabulary
-### [漢字](Vocabulary/漢字.md)
-### [教科書](Vocabulary/教科書.md)
-### [ページ](Vocabulary/ページ.md)
-### [次](Vocabulary/次.md)
-### [お金](Vocabulary/お金.md)
-### [荷物](Vocabulary/荷物.md)
-### [パソコン](Vocabulary/パソコン.md)
-### [シャワー](Vocabulary/シャワー.md)
-### [エアコン](Vocabulary/エアコン.md)
-### [電気](Vocabulary/電気.md)
-### [窓](Vocabulary/窓.md)
-### [電車](Vocabulary/電車.md)
-### [国](Vocabulary/国.md)
-### [今週](Vocabulary/今週.md)
-### [来週](Vocabulary/来週.md)
-### [来年](Vocabulary/来年.md)
-### [大変](Vocabulary/大変.md)
+### [漢字](../Vocabulary/漢字.md)
+### [教科書](../Vocabulary/教科書.md)
+### [ページ](../Vocabulary/ページ.md)
+### [次](../Vocabulary/次.md)
+### [お金](../Vocabulary/お金.md)
+### [荷物](../Vocabulary/荷物.md)
+### [パソコン](../Vocabulary/パソコン.md)
+### [シャワー](../Vocabulary/シャワー.md)
+### [エアコン](../Vocabulary/エアコン.md)
+### [電気](../Vocabulary/電気.md)
+### [窓](../Vocabulary/窓.md)
+### [電車](../Vocabulary/電車.md)
+### [国](../Vocabulary/国.md)
+### [今週](../Vocabulary/今週.md)
+### [来週](../Vocabulary/来週.md)
+### [来年](../Vocabulary/来年.md)
+### [大変](../Vocabulary/大変.md)
 
 ## Verbs
-### [遊ぶ](Vocabulary/遊ぶ.md)
-### [急ぐ](Vocabulary/急ぐ.md)
-### [返す](Vocabulary/返す.md)
-### [消す](Vocabulary/消す.md)
-### [死ぬ](Vocabulary/死ぬ.md)
-### [座る](Vocabulary/座る.md)
-### [立つ](Vocabulary/立つ.md)
-### [使う](Vocabulary/使う.md)
-### [手伝う](Vocabulary/手伝う.md)
-### [忘れる](Vocabulary/忘れる.md)
-## [持つ](Vocabulary/持つ.md)
-### [借りる](Vocabulary/借りる.md)
-### [お風呂](Vocabulary/お風呂.md)
-### [持ってくる](Vocabulary/持ってくる.md)
-### [連れてくる](Vocabulary/連れてくる.md)
-## [結構](Vocabulary/結構.md)
+### [遊ぶ](../Vocabulary/遊ぶ.md)
+### [急ぐ](../Vocabulary/急ぐ.md)
+### [返す](../Vocabulary/返す.md)
+### [消す](../Vocabulary/消す.md)
+### [死ぬ](../Vocabulary/死ぬ.md)
+### [座る](../Vocabulary/座る.md)
+### [立つ](../Vocabulary/立つ.md)
+### [使う](../Vocabulary/使う.md)
+### [手伝う](../Vocabulary/手伝う.md)
+### [忘れる](../Vocabulary/忘れる.md)
+## [持つ](../Vocabulary/持つ.md)
+### [借りる](../Vocabulary/借りる.md)
+### [お風呂](../Vocabulary/お風呂.md)
+### [持ってくる](../Vocabulary/持ってくる.md)
+### [連れてくる](../Vocabulary/連れてくる.md)
+## [結構](../Vocabulary/結構.md)
 
 
 ## Kanji Practice
 
-### [東口](Vocabulary/東口.md)
+### [東口](../Vocabulary/東口.md)
 east exit 
 ひがしぐち
 
-### [関東](Vocabulary/関東.md)
+### [関東](../Vocabulary/関東.md)
 Kanto area 
 かんとう
 
-### [東洋](Vocabulary/東洋.md)
+### [東洋](../Vocabulary/東洋.md)
 the East  
 とうよう
 
-### [西口](Vocabulary/西口.md)
+### [西口](../Vocabulary/西口.md)
 west exit 
 にしぐち
 
-### [北西](Vocabulary/北西.md)
+### [北西](../Vocabulary/北西.md)
 northwest 
 ほくせい
  
-### [関西](Vocabulary/関西.md)
+### [関西](../Vocabulary/関西.md)
 Kansai area
 かんさい
 
-### [西洋](Vocabulary/西洋.md)
+### [西洋](../Vocabulary/西洋.md)
 the West 
 せいよう
 
-### [南口](Vocabulary/南口.md)
+### [南口](../Vocabulary/南口.md)
 south exit 
 みなみぐち
  
-### [南東](Vocabulary/南東.md)
+### [南東](../Vocabulary/南東.md)
 southeast
 なんとう
 
-### [南極](Vocabulary/南極.md)
+### [南極](../Vocabulary/南極.md)
 Antarctica  
 なんきょく
 
-### [東南](Vocabulary/東南.md)
+### [東南](../Vocabulary/東南.md)
 Southeast Asia  
 アジアとうなんアジア
 
-### [北口](Vocabulary/北口.md)
+### [北口](../Vocabulary/北口.md)
 north exit  
 きたぐち
 
-### [東北](Vocabulary/東北.md)
+### [東北](../Vocabulary/東北.md)
 Tohoku area  
 とうほく
 
-### [北極](Vocabulary/北極.md)
+### [北極](../Vocabulary/北極.md)
 North Pole  
 ほっきょく
 
-### [北海道](Vocabulary/北海道.md)
+### [北海道](../Vocabulary/北海道.md)
  
-### [人口](Vocabulary/人口.md)
+### [人口](../Vocabulary/人口.md)
 population 
 じんこう
 
-### [出す](Vocabulary/出す.md)
+### [出す](../Vocabulary/出す.md)
 to take something out  
 だす
 
-### [出席](Vocabulary/出席.md)
+### [出席](../Vocabulary/出席.md)
 attendance  
 しゅっせき
   
-### [輸出](Vocabulary/輸出.md)
+### [輸出](../Vocabulary/輸出.md)
 export
 ゆしゅつ
  
-### [右折](Vocabulary/右折.md)
+### [右折](../Vocabulary/右折.md)
 right turn 
 うせつ
 
-### [左右](Vocabulary/左右.md)
+### [左右](../Vocabulary/左右.md)
 right and left  
 さゆう
 
-### [右手](Vocabulary/右手.md)
+### [右手](../Vocabulary/右手.md)
 right hand 
 みぎて
 
-### [右側](Vocabulary/右側.md)
+### [右側](../Vocabulary/右側.md)
 right side 
 みぎがわ
 
-### [左折](Vocabulary/左折.md)
+### [左折](../Vocabulary/左折.md)
 left turn 
 させつ
 
-### [左手](Vocabulary/左手.md)
+### [左手](../Vocabulary/左手.md)
 left hand 
 ひだりて
 
-### [左利](Vocabulary/左利.md)
+### [左利](../Vocabulary/左利.md)
 left-handed 
 きひだりきき
   
-### [自分](Vocabulary/自分.md)
+### [自分](../Vocabulary/自分.md)
 oneself
 じぶん
 
-### [分ける](Vocabulary/分ける.md)
+### [分ける](../Vocabulary/分ける.md)
 to divide  
 わける
   
-### [先に](Vocabulary/先に.md)
+### [先に](../Vocabulary/先に.md)
 ahead
 さきに
 
-### [先輩](Vocabulary/先輩.md)
+### [先輩](../Vocabulary/先輩.md)
 senior member  
 せんぱい
 
-### [生まれる](Vocabulary/生まれる.md)
+### [生まれる](../Vocabulary/生まれる.md)
 to be born  
 うまれる
 
-### [一生に一度](Vocabulary/一生に一度.md)
+### [一生に一度](../Vocabulary/一生に一度.md)
 once in a life time  
 いっしょうにいちど
 
 
-### [大人](Vocabulary/大人.md) 
+### [大人](../Vocabulary/大人.md) 
 
-### [大使館](Vocabulary/大使館.md)
+### [大使館](../Vocabulary/大使館.md)
 embassy
 たいしかん
 
-### [学ぶ](Vocabulary/学ぶ.md)
+### [学ぶ](../Vocabulary/学ぶ.md)
 to study  
 まなぶ
 
-### [学部](Vocabulary/学部.md)
+### [学部](../Vocabulary/学部.md)
 department; faculty  
 がくぶ
   
-### [海外](Vocabulary/海外.md)
+### [海外](../Vocabulary/海外.md)
 overseas
 かいがい

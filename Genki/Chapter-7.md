@@ -157,69 +157,69 @@ https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/counting-p
 short hair/tall
 # Vocabulary
 ## Nouns
-### [家族](Vocabulary/家族.md)
-### [おじいさん](Vocabulary/おじいさん.md)
-### [おばあさん](Vocabulary/おばあさん.md)
-### [お兄さん](Vocabulary/お兄さん.md)
-### [お姉さん](Vocabulary/お姉さん.md)
-### [父](Vocabulary/父.md)
-### [母](Vocabulary/母.md)
-### [兄](Vocabulary/兄.md)
-### [姉](Vocabulary/姉.md)
-### [妹](Vocabulary/妹.md)
-### [弟](Vocabulary/弟.md)
-### [兄弟](Vocabulary/兄弟.md)
-### [男の人](Vocabulary/男の人.md)
-### [女の人](Vocabulary/女の人.md)
-### [会社](Vocabulary/会社.md)
-### [食堂](Vocabulary/食堂.md)
-### [デパート](Vocabulary/デパート.md)
-### [髪](Vocabulary/髪.md)
-### [口](Vocabulary/口.md)
-### [目](Vocabulary/目.md)
-### [眼鏡](Vocabulary/眼鏡.md)
-### [歌](Vocabulary/歌.md)
-### [サークル](Vocabulary/サークル.md)
-### [車](Vocabulary/車.md)
-### [鼻](Vocabulary/鼻.md)
+### [家族](../Vocabulary/家族.md)
+### [おじいさん](../Vocabulary/おじいさん.md)
+### [おばあさん](../Vocabulary/おばあさん.md)
+### [お兄さん](../Vocabulary/お兄さん.md)
+### [お姉さん](../Vocabulary/お姉さん.md)
+### [父](../Vocabulary/父.md)
+### [母](../Vocabulary/母.md)
+### [兄](../Vocabulary/兄.md)
+### [姉](../Vocabulary/姉.md)
+### [妹](../Vocabulary/妹.md)
+### [弟](../Vocabulary/弟.md)
+### [兄弟](../Vocabulary/兄弟.md)
+### [男の人](../Vocabulary/男の人.md)
+### [女の人](../Vocabulary/女の人.md)
+### [会社](../Vocabulary/会社.md)
+### [食堂](../Vocabulary/食堂.md)
+### [デパート](../Vocabulary/デパート.md)
+### [髪](../Vocabulary/髪.md)
+### [口](../Vocabulary/口.md)
+### [目](../Vocabulary/目.md)
+### [眼鏡](../Vocabulary/眼鏡.md)
+### [歌](../Vocabulary/歌.md)
+### [サークル](../Vocabulary/サークル.md)
+### [車](../Vocabulary/車.md)
+### [鼻](../Vocabulary/鼻.md)
 
-### [指](Vocabulary/指.md)
+### [指](../Vocabulary/指.md)
 
 ## Adjectives
-### [長い](Vocabulary/長い.md)
-### [短い](Vocabulary/短い.md)
+### [長い](../Vocabulary/長い.md)
+### [短い](../Vocabulary/短い.md)
 
-### [速い](Vocabulary/速い.md)
-### [背が高い](Vocabulary/背が高い.md)
-### [背が低い](Vocabulary/背が低い.md)
-### [頭がいい](Vocabulary/頭がいい.md)
-### [かわいい](Vocabulary/かわいい.md)
-### [親切](Vocabulary/親切.md)
-### [便利](Vocabulary/便利.md)
+### [速い](../Vocabulary/速い.md)
+### [背が高い](../Vocabulary/背が高い.md)
+### [背が低い](../Vocabulary/背が低い.md)
+### [頭がいい](../Vocabulary/頭がいい.md)
+### [かわいい](../Vocabulary/かわいい.md)
+### [親切](../Vocabulary/親切.md)
+### [便利](../Vocabulary/便利.md)
 
 ## Verbs
-### [歌う](Vocabulary/歌う.md)
-### [かぶる](Vocabulary/かぶる.md)
-### [履く](Vocabulary/履く.md)
-### [知る](Vocabulary/知る.md)
-### [住む](Vocabulary/住む.md)
-### [働く](Vocabulary/働く.md)
-### [太る](Vocabulary/太る.md)
-### [かける](Vocabulary/かける.md)
-### [着る](Vocabulary/着る.md)
-### [痩せる](Vocabulary/痩せる.md)
-### [結婚する](Vocabulary/結婚する.md)
-### [勤める](Vocabulary/勤める.md)
+### [歌う](../Vocabulary/歌う.md)
+### [かぶる](../Vocabulary/かぶる.md)
+### [履く](../Vocabulary/履く.md)
+### [知る](../Vocabulary/知る.md)
+### [住む](../Vocabulary/住む.md)
+### [働く](../Vocabulary/働く.md)
+### [太る](../Vocabulary/太る.md)
+### [かける](../Vocabulary/かける.md)
+### [着る](../Vocabulary/着る.md)
+### [痩せる](../Vocabulary/痩せる.md)
+### [結婚する](../Vocabulary/結婚する.md)
+### [勤める](../Vocabulary/勤める.md)
 
 ### が
 ## Adverbs
-### [何も](Vocabulary/何も.md)
-### [別に](Vocabulary/別に.md)
-### [もちろん](Vocabulary/もちろん.md)
-### [よかったら](Vocabulary/よかったら.md)
+### [何も](../Vocabulary/何も.md)
+### [別に](../Vocabulary/別に.md)
+### [もちろん](../Vocabulary/もちろん.md)
+### [よかったら](../Vocabulary/よかったら.md)
 
 
-### [胸](Vocabulary/胸.md)
+### [胸](../Vocabulary/胸.md)
 
 # Counters
 ## People
@@ -240,86 +240,86 @@ short hair/tall
 | 10人 | 十人  | ten...      |
 
 ## Kanji words  
-### [京子](Vocabulary/京子.md)
+### [京子](../Vocabulary/京子.md)
 Kyoko
 きょうこ
 
-### [上京する](Vocabulary/上京する.md)
+### [上京する](../Vocabulary/上京する.md)
 to go to the capital  
 じょうきょうする
 
-### [女子学生](Vocabulary/女子学生.md)
+### [女子学生](../Vocabulary/女子学生.md)
 femae student  
 じょしがくせい
 
-### [小学校](Vocabulary/小学校.md)
+### [小学校](../Vocabulary/小学校.md)
 elementary school  
 しょうがっこう
 
-### [小学生](Vocabulary/小学生.md)
+### [小学生](../Vocabulary/小学生.md)
 elementary school student  
 しょうがくせい
   
-### [会議](Vocabulary/会議.md)
+### [会議](../Vocabulary/会議.md)
 meeting
 かいぎ
   
-### [教会](Vocabulary/教会.md)
+### [教会](../Vocabulary/教会.md)
 church
 きょうかい
   
-### [社会](Vocabulary/社会.md)
+### [社会](../Vocabulary/社会.md)
 society
 しゃかい
 
-### [入社](Vocabulary/入社.md)
+### [入社](../Vocabulary/入社.md)
 entry to a company  
 にゅうしゃ
 
-### [母語](Vocabulary/母語.md)
+### [母語](../Vocabulary/母語.md)
 mother tongue 
 ぼご
   
-### [祖母](Vocabulary/祖母.md)
+### [祖母](../Vocabulary/祖母.md)
 grandmother
 そぼ
 
-### [最高](Vocabulary/最高.md)
+### [最高](../Vocabulary/最高.md)
 the best  
 さいこう
 
-### [中学校](Vocabulary/中学校.md)
+### [中学校](../Vocabulary/中学校.md)
 junior high school 
 ちゅうがっこう
 
-### [敬語](Vocabulary/敬語.md)
+### [敬語](../Vocabulary/敬語.md)
 honorific expressions  
 けいご
 
-### [文字](Vocabulary/文字.md)
+### [文字](../Vocabulary/文字.md)
 letter; character 
 もじ
 
-### [文化](Vocabulary/文化.md)
+### [文化](../Vocabulary/文化.md)
 culture 
 ぶんか
   
-### [文法](Vocabulary/文法.md)
+### [文法](../Vocabulary/文法.md)
 grammar
 ぶんぽう
 
-### [帰国](Vocabulary/帰国.md)
+### [帰国](../Vocabulary/帰国.md)
 returning to one's country 
 きこく
 
-### [帰宅](Vocabulary/帰宅.md)
+### [帰宅](../Vocabulary/帰宅.md)
 returning home 
 きたく
 
-### [入れる](Vocabulary/入れる.md)
+### [入れる](../Vocabulary/入れる.md)
 to put something in 
 いれる
   
-### [輸入](Vocabulary/輸入.md)
+### [輸入](../Vocabulary/輸入.md)
 import
 ゆにゅう

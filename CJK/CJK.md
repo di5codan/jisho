@@ -1,7 +1,7 @@
 https://808cjk.com/
 
 ## Hour
-### [時間](Vocabulary/時間.md) 【じかん jikan】
+### [時間](../Vocabulary/時間.md) 【じかん jikan】
 ### 时间 【shíjiān】
 ### 時間 【시간 sigan】
 
@@ -11,13 +11,13 @@ https://808cjk.com/
 ### 價格 【가격 gagyeok】
 
 ## Telephone
-### [電話](Vocabulary/電話.md) 【でんわ denwa】
+### [電話](../Vocabulary/電話.md) 【でんわ denwa】
 ### 电话 【diànhuà】
 ### 電話 【전화 jeonhwa】
 
 
 ## World
-### [世界](Vocabulary/世界.md) 【せかい sekai】
+### [世界](../Vocabulary/世界.md) 【せかい sekai】
 ### 世界 【shìjiè】
 ### 世界 【세계 segye】
 
@@ -38,7 +38,7 @@ https://808cjk.com/
 
 ## Work
 e.g. book, film, composition, etc.
-### [作品](Vocabulary/作品.md) 【さくひん sakuhin】
+### [作品](../Vocabulary/作品.md) 【さくひん sakuhin】
 ### 作品 【zuòpǐn】
 ### 作品 【작품 jakpum】
 
@@ -48,7 +48,7 @@ e.g. book, film, composition, etc.
 ### 必要 【필요 piryo】
 
 ## Nature
-### [自然](Vocabulary/自然.md) 【しぜん shizen】
+### [自然](../Vocabulary/自然.md) 【しぜん shizen】
 ### 自然 【zìrán】
 ### 自然 【자연 jayeon】
 
@@ -58,12 +58,12 @@ e.g. book, film, composition, etc.
 ### 使用 【사용 sayong】
 
 ## Music
-### [音楽](Vocabulary/音楽.md) 【おんがく ongaku】
+### [音楽](../Vocabulary/音楽.md) 【おんがく ongaku】
 ### 音乐 【yīnyuè】
 ### 音樂 【음악 eumak】
 
 ## Life, living, livelihood
-### [生活](Vocabulary/生活.md) 【せいかつ seikatsu】
+### [生活](../Vocabulary/生活.md) 【せいかつ seikatsu】
 ### 生活 【shēnghuó】
 ### 生活 【생활 saenghwal】
 
@@ -88,7 +88,7 @@ e.g. book, film, composition, etc.
 ### 現在 【현재 hyeonjae】
 
 ## University
-### [大学](Vocabulary/大学.md) 【だいがく daigaku】
+### [大学](../Vocabulary/大学.md) 【だいがく daigaku】
 ### 大学 【dàxué】
 ### 大學 【대학 daehak】
 
@@ -133,7 +133,7 @@ e.g. book, film, composition, etc.
 ### 希望 【희망 huimang】
 
 
-### [文化](Vocabulary/文化.md) 【ぶんか bunka】
+### [文化](../Vocabulary/文化.md) 【ぶんか bunka】
 ### 文化 【wénhuà】
 ### 文化 【문화 munhwa】
 
@@ -149,7 +149,7 @@ e.g. book, film, composition, etc.
 
 
 ## Meaning
-### [意味](Vocabulary/意味.md) 【いみ imi】
+### [意味](../Vocabulary/意味.md) 【いみ imi】
 ### 意味 【yìwèi】
 ### 意味 【의미 uimi】
 
@@ -1024,7 +1024,7 @@ e.g. book, film, composition, etc.
 ### 國民 【국민 gungmin】
 
 
-### [文学](Vocabulary/文学.md) 【ぶんがく bungaku】
+### [文学](../Vocabulary/文学.md) 【ぶんがく bungaku】
 ### 文学 【wénxué】
 ### 文學 【문학 munhak】
 
@@ -1124,7 +1124,7 @@ e.g. book, film, composition, etc.
 ### 參考 【참고 chamgo】
 
 
-### [性格](Vocabulary/性格.md) 【せいかく seikaku】
+### [性格](../Vocabulary/性格.md) 【せいかく seikaku】
 ### 性格 【xìnggé】
 ### 性格 【성격 seonggyeok】
 
@@ -1160,7 +1160,7 @@ e.g. book, film, composition, etc.
 ### 出發 【출발 chulbal】
 
 ## Plant
-### [植物](Vocabulary/植物.md) 【しょくぶつ shokubutsu】
+### [植物](../Vocabulary/植物.md) 【しょくぶつ shokubutsu】
 ### 植物 【zhíwù】
 ### 植物 【식물 singmul】
 
@@ -1230,7 +1230,7 @@ e.g. book, film, composition, etc.
 ### 知识 【shàonǚ】
 ### 知識 【지식 jisik】
 
-### [土地](Vocabulary/土地.md) 【とち tochi】
+### [土地](../Vocabulary/土地.md) 【とち tochi】
 ### 土地 【tǔdì】
 ### 土地 【토지 toji】
 

@@ -8,16 +8,16 @@ other verbs describe changes that happen to things or people(intransitive verbs)
 
 | Transitive |                      | Intransitive |                         |
 | ---------- | -------------------- | ------------ | ----------------------- |
-| [開ける](Vocabulary/開ける.md)    | open something       | [開く](Vocabulary/開く.md)       | something opens         |
-| [閉める](Vocabulary/閉める.md)    | close something      | [閉まる](Vocabulary/閉まる.md)      | something closes        |
-| [入れる](Vocabulary/入れる.md)    | put something in     | [入る](Vocabulary/入る.md)       | something goes inside   |
-| [出す](Vocabulary/出す.md)     | take something out   | [出る](Vocabulary/出る.md)       | something goes out      |
-| [つける](Vocabulary/つける.md)    | turn something on    | [つく](Vocabulary/つく.md)       | something goes on       |
-| [消す](Vocabulary/消す.md)     | turn something off   | [消える](Vocabulary/消える.md)      | something goes off      |
-| [壊す](Vocabulary/壊す.md)     | break something      | [壊れる](Vocabulary/壊れる.md)      | something breaks        |
-| [汚す](Vocabulary/汚す.md)     | make something dirty | [汚れる](Vocabulary/汚れる.md)      | something becomes dirty |
-| [落とす](Vocabulary/落とす.md)    | drop something       | [落ちる](Vocabulary/落ちる.md)      | something drops         |
-| [沸かす](Vocabulary/沸かす.md)    | boil water           | [沸く](Vocabulary/沸く.md)       | water boils             |
+| [開ける](../Vocabulary/開ける.md)    | open something       | [開く](../Vocabulary/開く.md)       | something opens         |
+| [閉める](../Vocabulary/閉める.md)    | close something      | [閉まる](../Vocabulary/閉まる.md)      | something closes        |
+| [入れる](../Vocabulary/入れる.md)    | put something in     | [入る](../Vocabulary/入る.md)       | something goes inside   |
+| [出す](../Vocabulary/出す.md)     | take something out   | [出る](../Vocabulary/出る.md)       | something goes out      |
+| [つける](../Vocabulary/つける.md)    | turn something on    | [つく](../Vocabulary/つく.md)       | something goes on       |
+| [消す](../Vocabulary/消す.md)     | turn something off   | [消える](../Vocabulary/消える.md)      | something goes off      |
+| [壊す](../Vocabulary/壊す.md)     | break something      | [壊れる](../Vocabulary/壊れる.md)      | something breaks        |
+| [汚す](../Vocabulary/汚す.md)     | make something dirty | [汚れる](../Vocabulary/汚れる.md)      | something becomes dirty |
+| [落とす](../Vocabulary/落とす.md)    | drop something       | [落ちる](../Vocabulary/落ちる.md)      | something drops         |
+| [沸かす](../Vocabulary/沸かす.md)    | boil water           | [沸く](../Vocabulary/沸く.md)       | water boils             |
 
 Transive verbs call for both the subject and the object
 
@@ -189,68 +189,68 @@ Drop the final い and add ければ:　
 
 # Vocabulary
 ## Nouns
-### [シャンプー](Vocabulary/シャンプー.md)
-### [ソファ](Vocabulary/ソファ.md)
-### [タオル](Vocabulary/タオル.md)
-### [バナナ](Vocabulary/バナナ.md)
-### [ろうそく](Vocabulary/ろうそく.md)
-### [しょう油](Vocabulary/しょう油.md)
-### [カーテン](Vocabulary/カーテン.md)
-### [ポップコーン](Vocabulary/ポップコーン.md)
-### [スイッチ](Vocabulary/スイッチ.md)
-### [スープ](Vocabulary/スープ.md)
-### [日記](Vocabulary/日記.md)
-### [冷蔵庫](Vocabulary/冷蔵庫.md)
-### [スカート](Vocabulary/スカート.md)
+### [シャンプー](../Vocabulary/シャンプー.md)
+### [ソファ](../Vocabulary/ソファ.md)
+### [タオル](../Vocabulary/タオル.md)
+### [バナナ](../Vocabulary/バナナ.md)
+### [ろうそく](../Vocabulary/ろうそく.md)
+### [しょう油](../Vocabulary/しょう油.md)
+### [カーテン](../Vocabulary/カーテン.md)
+### [ポップコーン](../Vocabulary/ポップコーン.md)
+### [スイッチ](../Vocabulary/スイッチ.md)
+### [スープ](../Vocabulary/スープ.md)
+### [日記](../Vocabulary/日記.md)
+### [冷蔵庫](../Vocabulary/冷蔵庫.md)
+### [スカート](../Vocabulary/スカート.md)
 
 ## Nouns + Adjectives
-### [虫](Vocabulary/虫.md)
-### [家賃](Vocabulary/家賃.md)
-### [外](Vocabulary/外.md)
+### [虫](../Vocabulary/虫.md)
+### [家賃](../Vocabulary/家賃.md)
+### [外](../Vocabulary/外.md)
 ### [桜](Vocabulary/桜)
-### [暗い](Vocabulary/暗い.md)
-### [大切](Vocabulary/大切.md)
-### [無理](Vocabulary/無理.md)
-### [携帯](Vocabulary/携帯.md)（[電話](Vocabulary/電話.md)）
-### [後](Vocabulary/後.md)
-### [明るい](Vocabulary/明るい.md)
-### [不安](Vocabulary/不安.md)
-### [恥ずかしい](Vocabulary/恥ずかしい.md)
-### [夕方](Vocabulary/夕方.md)
+### [暗い](../Vocabulary/暗い.md)
+### [大切](../Vocabulary/大切.md)
+### [無理](../Vocabulary/無理.md)
+### [携帯](../Vocabulary/携帯.md)（[電話](../Vocabulary/電話.md)）
+### [後](../Vocabulary/後.md)
+### [明るい](../Vocabulary/明るい.md)
+### [不安](../Vocabulary/不安.md)
+### [恥ずかしい](../Vocabulary/恥ずかしい.md)
+### [夕方](../Vocabulary/夕方.md)
 
-### [気分が悪い](Vocabulary/気分が悪い.md)
+### [気分が悪い](../Vocabulary/気分が悪い.md)
 
 ## U Verbs
-### [転ぶ](Vocabulary/転ぶ.md)
-### [落とす](Vocabulary/落とす.md)
-### [つく](Vocabulary/つく.md)
-### [お湯が沸く](Vocabulary/お湯が沸く.md)
-### [押す](Vocabulary/押す.md)
-### [頼む](Vocabulary/頼む.md)
-### [謝る](Vocabulary/謝る.md)
-### [壊す](Vocabulary/壊す.md)
-### [開く](Vocabulary/開く.md)
-### [閉まる](Vocabulary/閉まる.md)
-### [咲く](Vocabulary/咲く.md)
-### [汚す](Vocabulary/汚す.md)
-### [助かる](Vocabulary/助かる.md)
+### [転ぶ](../Vocabulary/転ぶ.md)
+### [落とす](../Vocabulary/落とす.md)
+### [つく](../Vocabulary/つく.md)
+### [お湯が沸く](../Vocabulary/お湯が沸く.md)
+### [押す](../Vocabulary/押す.md)
+### [頼む](../Vocabulary/頼む.md)
+### [謝る](../Vocabulary/謝る.md)
+### [壊す](../Vocabulary/壊す.md)
+### [開く](../Vocabulary/開く.md)
+### [閉まる](../Vocabulary/閉まる.md)
+### [咲く](../Vocabulary/咲く.md)
+### [汚す](../Vocabulary/汚す.md)
+### [助かる](../Vocabulary/助かる.md)
 
 ## Ru + Irregular Verbs
-### [考える](Vocabulary/考える.md)
-### [消える](Vocabulary/消える.md)
-### [注文する](Vocabulary/注文する.md)
-### [片付ける](Vocabulary/片付ける.md)
-### [壊れる](Vocabulary/壊れる.md)
-### [汚れる](Vocabulary/汚れる.md)
-### [落ちる](Vocabulary/落ちる.md)
+### [考える](../Vocabulary/考える.md)
+### [消える](../Vocabulary/消える.md)
+### [注文する](../Vocabulary/注文する.md)
+### [片付ける](../Vocabulary/片付ける.md)
+### [壊れる](../Vocabulary/壊れる.md)
+### [汚れる](../Vocabulary/汚れる.md)
+### [落ちる](../Vocabulary/落ちる.md)
 
 ## Adverbs + Expressions
-### [どうしよう](Vocabulary/どうしよう.md)
-### [今すぐ](Vocabulary/今すぐ.md)
-### ～[までに](Vocabulary/までに.md)
-### [まず](Vocabulary/まず.md)
-### [本当に](Vocabulary/本当に.md)
+### [どうしよう](../Vocabulary/どうしよう.md)
+### [今すぐ](../Vocabulary/今すぐ.md)
+### ～[までに](../Vocabulary/までに.md)
+### [まず](../Vocabulary/まず.md)
+### [本当に](../Vocabulary/本当に.md)
 ### ～（ん）[だろう](だろう)
-### [おかげで](Vocabulary/おかげで.md)
-### [お疲れ様でした](Vocabulary/お疲れ様でした.md)
-### [お先に失礼します](Vocabulary/お先に失礼します.md)
+### [おかげで](../Vocabulary/おかげで.md)
+### [お疲れ様でした](../Vocabulary/お疲れ様でした.md)
+### [お先に失礼します](../Vocabulary/お先に失礼します.md)

@@ -1,28 +1,28 @@
 #  Vocab 
 
 ## Greetings/Expressions
-### [おはよう](Vocabulary/おはよう.md)
-### [おはようございます](Vocabulary/おはようございます.md)
-### [こんにちは](Vocabulary/こんにちは.md)
-### [こんばんは](Vocabulary/こんばんは.md)
-### [さようなら](Vocabulary/さようなら.md)
-### [おやすみ](Vocabulary/おやすみ.md)
-### [おやすみなさい](Vocabulary/おやすみなさい.md)
-### [ありがとう](Vocabulary/ありがとう.md)
-### [ありがとうございます](Vocabulary/ありがとうございます.md)
-### [すみません](Vocabulary/すみません.md)
-### [はい](Vocabulary/はい.md)
-### [いいえ](Vocabulary/いいえ.md)
-### [行ってきます](Vocabulary/行ってきます.md)
-### [行ってらっしゃい](Vocabulary/行ってらっしゃい.md)
-### [ただいま](Vocabulary/ただいま.md)
-### [おかえり](Vocabulary/おかえり.md)
-### [おかえりなさい](Vocabulary/おかえりなさい.md)
-### [いただきます](Vocabulary/いただきます.md)
-### [ごちそうさま](Vocabulary/ごちそうさま.md)
-### [ごちそうさまでした](Vocabulary/ごちそうさまでした.md)
-### [はじめまして](Vocabulary/はじめまして.md)
-### [よろしくおねがいします](Vocabulary/よろしくおねがいします.md)
+### [おはよう](../Vocabulary/おはよう.md)
+### [おはようございます](../Vocabulary/おはようございます.md)
+### [こんにちは](../Vocabulary/こんにちは.md)
+### [こんばんは](../Vocabulary/こんばんは.md)
+### [さようなら](../Vocabulary/さようなら.md)
+### [おやすみ](../Vocabulary/おやすみ.md)
+### [おやすみなさい](../Vocabulary/おやすみなさい.md)
+### [ありがとう](../Vocabulary/ありがとう.md)
+### [ありがとうございます](../Vocabulary/ありがとうございます.md)
+### [すみません](../Vocabulary/すみません.md)
+### [はい](../Vocabulary/はい.md)
+### [いいえ](../Vocabulary/いいえ.md)
+### [行ってきます](../Vocabulary/行ってきます.md)
+### [行ってらっしゃい](../Vocabulary/行ってらっしゃい.md)
+### [ただいま](../Vocabulary/ただいま.md)
+### [おかえり](../Vocabulary/おかえり.md)
+### [おかえりなさい](../Vocabulary/おかえりなさい.md)
+### [いただきます](../Vocabulary/いただきます.md)
+### [ごちそうさま](../Vocabulary/ごちそうさま.md)
+### [ごちそうさまでした](../Vocabulary/ごちそうさまでした.md)
+### [はじめまして](../Vocabulary/はじめまして.md)
+### [よろしくおねがいします](../Vocabulary/よろしくおねがいします.md)
 
 
 ## General Context notes
@@ -42,17 +42,17 @@
 
 |     |       |        |
 | --- | ----- | ------ |
-| 0   | [零](Kanji/kanji-dict/零.md) | ゼロ／れい  |
-| 1   | [一](Vocabulary/一.md) | いち     |
-| 2   | [二](Kanji/kanji-dict/二.md) | に      |
-| 3   | [三](Vocabulary/三.md) | さん     |
-| 4   | [四](Kanji/kanji-dict/四.md) | よん／し   |
-| 5   | [五](Kanji/kanji-dict/五.md) | ご      |
-| 6   | [六](Kanji/kanji-dict/六.md) | ろく     |
-| 7   | [七](Kanji/kanji-dict/七.md) | なな／しち  |
-| 8   | [八](Vocabulary/八.md) | はち     |
-| 9   | [九](Vocabulary/九.md) | きゅう／く  |
-| 10  | [十](Vocabulary/十.md) | じゅう    |
+| 0   | [零](../Kanji/kanji-dict/零.md) | ゼロ／れい  |
+| 1   | [一](../Vocabulary/一.md) | いち     |
+| 2   | [二](../Kanji/kanji-dict/二.md) | に      |
+| 3   | [三](../Vocabulary/三.md) | さん     |
+| 4   | [四](../Kanji/kanji-dict/四.md) | よん／し   |
+| 5   | [五](../Kanji/kanji-dict/五.md) | ご      |
+| 6   | [六](../Kanji/kanji-dict/六.md) | ろく     |
+| 7   | [七](../Kanji/kanji-dict/七.md) | なな／しち  |
+| 8   | [八](../Vocabulary/八.md) | はち     |
+| 9   | [九](../Vocabulary/九.md) | きゅう／く  |
+| 10  | [十](../Vocabulary/十.md) | じゅう    |
 | 20  | 二十    | にじゅう   |
 | 30  | 三十    | さんじゅう  |
 | 40  | 四十    | よんじゅう  |

@@ -1,19 +1,19 @@
 # Vocab 
-## [古い](Vocabulary/古い.md)
-## [財布](Vocabulary/財布.md)
-## [ダサい](Vocabulary/ダサい.md)
+## [古い](../../Vocabulary/古い.md)
+## [財布](../../Vocabulary/財布.md)
+## [ダサい](../../Vocabulary/ダサい.md)
 ## [Vocabulary/Nouns/服](Vocabulary/Nouns/服)
 ## Tシャツ
 T-shirt 
-## [新](Kanji/kanji-dict/新.md)しい
+## [新](../../Kanji/kanji-dict/新.md)しい
 New
 あたらしい
-## [スカート](Vocabulary/スカート.md)
+## [スカート](../../Vocabulary/スカート.md)
 ## [デレス](デレス)
 Dress
-## [いい](Vocabulary/いい.md)
+## [いい](../../Vocabulary/いい.md)
 Good
-## [青](Kanji/kanji-dict/青.md)い
+## [青](../../Kanji/kanji-dict/青.md)い
 Blue
 あおい
 ## あの
@@ -21,15 +21,15 @@ That...(over there)
 ## [Vocabulary/Nouns/百](Vocabulary/Nouns/百)
 Hundred
 ひゃく
-## [安](Kanji/kanji-dict/安.md)い
+## [安](../../Kanji/kanji-dict/安.md)い
 Cheap
 やすい
 ## [Vocabulary/Nouns/円](Vocabulary/Nouns/円)
 Yen
 えん
-## [ネクタイ](Vocabulary/ネクタイ.md)
+## [ネクタイ](../../Vocabulary/ネクタイ.md)
 Tie
-## [いくら](Vocabulary/いくら.md)
+## [いくら](../../Vocabulary/いくら.md)
 How much 
 
 ## [Vocabulary/Nouns/千](Vocabulary/Nouns/千)
@@ -40,34 +40,34 @@ Thousand
 Shop
 みせ
 
-## [黒](Kanji/temp-kanji/黒.md)い
+## [黒](../../Kanji/temp-kanji/黒.md)い
 Black
 くろい
 
-## [高](Kanji/kanji-dict/高.md)い
+## [高](../../Kanji/kanji-dict/高.md)い
 Expensive/tall/high
 たかい
 
-## [ジャケット](Vocabulary/ジャケット.md)
+## [ジャケット](../../Vocabulary/ジャケット.md)
 Jacket
 
-## [天ぷら](Vocabulary/天ぷら.md)
+## [天ぷら](../../Vocabulary/天ぷら.md)
 
 ## どん
 Udon (noodles)
 
-## [レストラン](Vocabulary/レストラン.md)
+## [レストラン](../../Vocabulary/レストラン.md)
 Restaurant 
 
 ## [Vocabulary/Nouns/水](Vocabulary/Nouns/水)
 Water
 みず
 
-## [一](Vocabulary/一.md)つ
+## [一](../../Vocabulary/一.md)つ
 One thing
 ひとつ
 
-## [二](Kanji/kanji-dict/二.md)つ
+## [二](../../Kanji/kanji-dict/二.md)つ
 Two things
 ふたつ
 
@@ -77,24 +77,24 @@ Onigiri (rice balls)
 ## そば
 Soba (noodles)
 
-## [大](Kanji/kanji-dict/大.md)きい
+## [大](../../Kanji/kanji-dict/大.md)きい
 Big
 おおきい
 
 ## [サラダ](サラダ)
 Salad
 
-## [少](Kanji/kanji-dict/少.md)し
+## [少](../../Kanji/kanji-dict/少.md)し
 A little 
 すこし
 
-## [小](Kanji/kanji-dict/小.md)さい
+## [小](../../Kanji/kanji-dict/小.md)さい
 Small
 ちいさい
 
 ## あ
 
-## [紅茶](Vocabulary/紅茶.md)
+## [紅茶](../../Vocabulary/紅茶.md)
 
 ## [アイスコーヒー](アイスコーヒー)
 Iced coffee

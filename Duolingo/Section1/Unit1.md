@@ -1,16 +1,16 @@
 # Vocab
-## [先生](Vocabulary/先生.md)
-## [寿司](Vocabulary/寿司.md)
-## [ください](Vocabulary/ください.md)
-## [お茶](Vocabulary/お茶.md)
-## [ご飯](Vocabulary/ご飯.md)
+## [先生](../../Vocabulary/先生.md)
+## [寿司](../../Vocabulary/寿司.md)
+## [ください](../../Vocabulary/ください.md)
+## [お茶](../../Vocabulary/お茶.md)
+## [ご飯](../../Vocabulary/ご飯.md)
 ## [水](Nouns/水)
-## [医者](Vocabulary/医者.md)
-## [かっこいい](Vocabulary/かっこいい.md)
-## [弁護士](Vocabulary/弁護士.md)
-## [やさしい](Vocabulary/やさしい.md)
+## [医者](../../Vocabulary/医者.md)
+## [かっこいい](../../Vocabulary/かっこいい.md)
+## [弁護士](../../Vocabulary/弁護士.md)
+## [やさしい](../../Vocabulary/やさしい.md)
 ## [人](Vocabulary/Nouns/人)
-## [学生](Vocabulary/学生.md)
+## [学生](../../Vocabulary/学生.md)
 
 # Particles/Copula
 と

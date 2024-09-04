@@ -1,1 +1,1 @@
-## [月](Vocabulary/月.md)
+## [月](../../Vocabulary/月.md)

@@ -1,1 +1,1 @@
-![4c](Kanji/kanji-colorize/4c.svg)
+![4c](../kanji-colorize/4c.svg)

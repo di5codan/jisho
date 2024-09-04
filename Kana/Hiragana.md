@@ -1,20 +1,20 @@
 # Characters
-|  | [あ](Kana/kana-characters/あ.md) | [い](Kana/kana-characters/い.md) | [う](Kana/kana-characters/う.md) | [え](Kana/kana-characters/え.md) | [お](Vocabulary/お.md) |
+|  | [あ](kana-characters/あ.md) | [い](kana-characters/い.md) | [う](kana-characters/う.md) | [え](kana-characters/え.md) | [お](../Vocabulary/お.md) |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| K | [か](Kana/kana-characters/か.md) | [き](Kana/kana-characters/き.md) | [く](Kana/kana-characters/く.md) | [け](Kana/kana-characters/け.md) | [こ](Kana/kana-characters/こ.md) |
-| S | [さ](Kana/kana-characters/さ.md) | [し](Kana/kana-characters/し.md) | [す](Kana/kana-characters/す.md) | [せ](Kana/kana-characters/せ.md) | [そ](Kana/kana-characters/そ.md) |
-| T | [た](Kana/kana-characters/た.md) | [ち](Kana/kana-characters/ち.md) | [つ](Kana/kana-characters/つ.md) | [て](Kana/kana-characters/て.md) | [と](Kana/kana-characters/と.md) |
-| N | [な](Kana/kana-characters/な.md) | [に](Kana/kana-characters/に.md) | [ぬ](Kana/kana-characters/ぬ.md) | [ね](Kana/kana-characters/ね.md) | [の](Kana/kana-characters/の.md) |
-| H | [は](Kana/kana-characters/は.md) | [ひ](Kana/kana-characters/ひ.md) | [ふ](Kana/kana-characters/ふ.md) | [へ](Kana/kana-characters/へ.md) | [ほ](Kana/kana-characters/ほ.md) |
-| M | [ま](Kana/kana-characters/ま.md) | [み](Kana/kana-characters/み.md) | [む](Kana/kana-characters/む.md) | [め](Kana/kana-characters/め.md) | [も](Kana/kana-characters/も.md) |
-| Y | [や](Kana/kana-characters/や.md) |  | [ゆ](Kana/kana-characters/ゆ.md) |  | [よ](Kana/kana-characters/よ.md) |
-| R | [ら](Kana/kana-characters/ら.md) | [り](Kana/kana-characters/り.md) | [る](Kana/kana-characters/る.md) | [れ](Kana/kana-characters/れ.md) | [ろ](Kana/kana-characters/ろ.md) |
+| K | [か](kana-characters/か.md) | [き](kana-characters/き.md) | [く](kana-characters/く.md) | [け](kana-characters/け.md) | [こ](kana-characters/こ.md) |
+| S | [さ](kana-characters/さ.md) | [し](kana-characters/し.md) | [す](kana-characters/す.md) | [せ](kana-characters/せ.md) | [そ](kana-characters/そ.md) |
+| T | [た](kana-characters/た.md) | [ち](kana-characters/ち.md) | [つ](kana-characters/つ.md) | [て](kana-characters/て.md) | [と](kana-characters/と.md) |
+| N | [な](kana-characters/な.md) | [に](kana-characters/に.md) | [ぬ](kana-characters/ぬ.md) | [ね](kana-characters/ね.md) | [の](kana-characters/の.md) |
+| H | [は](kana-characters/は.md) | [ひ](kana-characters/ひ.md) | [ふ](kana-characters/ふ.md) | [へ](kana-characters/へ.md) | [ほ](kana-characters/ほ.md) |
+| M | [ま](kana-characters/ま.md) | [み](kana-characters/み.md) | [む](kana-characters/む.md) | [め](kana-characters/め.md) | [も](kana-characters/も.md) |
+| Y | [や](kana-characters/や.md) |  | [ゆ](kana-characters/ゆ.md) |  | [よ](kana-characters/よ.md) |
+| R | [ら](kana-characters/ら.md) | [り](kana-characters/り.md) | [る](kana-characters/る.md) | [れ](kana-characters/れ.md) | [ろ](kana-characters/ろ.md) |
 |  |  |  |  |  |  |
-| G | [が](Kana/kana-characters/が.md) | [ぎ](Kana/kana-characters/ぎ.md) | [ぐ](Kana/kana-characters/ぐ.md) | [げ](Kana/kana-characters/げ.md) | [ご](Kana/kana-characters/ご.md) |
-| Z | [ざ](Kana/kana-characters/ざ.md) | [じ](Kana/kana-characters/じ.md) | [ず](Kana/kana-characters/ず.md) | [ぜ](Kana/kana-characters/ぜ.md) | [ぞ](Kana/kana-characters/ぞ.md) |
-| B | [ば](Kana/kana-characters/ば.md) | [び](Kana/kana-characters/び.md) | [ぶ](Kana/kana-characters/ぶ.md) | [べ](Kana/kana-characters/べ.md) | [ぼ](Kana/kana-characters/ぼ.md) |
+| G | [が](kana-characters/が.md) | [ぎ](kana-characters/ぎ.md) | [ぐ](kana-characters/ぐ.md) | [げ](kana-characters/げ.md) | [ご](kana-characters/ご.md) |
+| Z | [ざ](kana-characters/ざ.md) | [じ](kana-characters/じ.md) | [ず](kana-characters/ず.md) | [ぜ](kana-characters/ぜ.md) | [ぞ](kana-characters/ぞ.md) |
+| B | [ば](kana-characters/ば.md) | [び](kana-characters/び.md) | [ぶ](kana-characters/ぶ.md) | [べ](kana-characters/べ.md) | [ぼ](kana-characters/ぼ.md) |
 |  |  |  |  |  |  |
-| P | [ぱ](Kana/kana-characters/ぱ.md) | [ぴ](Kana/kana-characters/ぴ.md) | [ぷ](Kana/kana-characters/ぷ.md) | [ぺ](Kana/kana-characters/ぺ.md) | [ぽ](Kana/kana-characters/ぽ.md) |
+| P | [ぱ](kana-characters/ぱ.md) | [ぴ](kana-characters/ぴ.md) | [ぷ](kana-characters/ぷ.md) | [ぺ](kana-characters/ぺ.md) | [ぽ](kana-characters/ぽ.md) |
 # ?
 ## [わ](わ)[を](を)[ん](ん)
 

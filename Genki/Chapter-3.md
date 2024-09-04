@@ -231,79 +231,79 @@ The particle は presents the topic of one’s utterance (“As for item X, it i
 https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/particle-wa-genki-i-chapter-3/
 # Vocabulary 
 ## Entertainment/Sports
-### [映画](Vocabulary/映画.md)
-### [音楽](Vocabulary/音楽.md)
-### [雑誌](Vocabulary/雑誌.md)
-### [スポーツ](Vocabulary/スポーツ.md)
-### [デート](Vocabulary/デート.md)
-### [テニス](Vocabulary/テニス.md)
-### [テレビ](Vocabulary/テレビ.md)
+### [映画](../Vocabulary/映画.md)
+### [音楽](../Vocabulary/音楽.md)
+### [雑誌](../Vocabulary/雑誌.md)
+### [スポーツ](../Vocabulary/スポーツ.md)
+### [デート](../Vocabulary/デート.md)
+### [テニス](../Vocabulary/テニス.md)
+### [テレビ](../Vocabulary/テレビ.md)
 
 ## Food and Drinks
-### [アイスクリーム](Vocabulary/アイスクリーム.md)
-### [ハンバーガー](Vocabulary/ハンバーガー.md)
-### [お酒](Vocabulary/お酒.md)
-### [お茶](Vocabulary/お茶.md)
-### [コーヒー](Vocabulary/コーヒー.md)
-### [水](Vocabulary/水.md)
-### [朝ご飯](Vocabulary/朝ご飯.md)
-### [昼ご飯](Vocabulary/昼ご飯.md)
-### [晩ご飯](Vocabulary/晩ご飯.md)
+### [アイスクリーム](../Vocabulary/アイスクリーム.md)
+### [ハンバーガー](../Vocabulary/ハンバーガー.md)
+### [お酒](../Vocabulary/お酒.md)
+### [お茶](../Vocabulary/お茶.md)
+### [コーヒー](../Vocabulary/コーヒー.md)
+### [水](../Vocabulary/水.md)
+### [朝ご飯](../Vocabulary/朝ご飯.md)
+### [昼ご飯](../Vocabulary/昼ご飯.md)
+### [晩ご飯](../Vocabulary/晩ご飯.md)
 
 ## Places
-### [家](Vocabulary/家.md)
-### [学校](Vocabulary/学校.md)
-### [カフェ](Vocabulary/カフェ.md)
+### [家](../Vocabulary/家.md)
+### [学校](../Vocabulary/学校.md)
+### [カフェ](../Vocabulary/カフェ.md)
 
 ## Time
-### [明日](Vocabulary/明日.md)
-### [今日](Vocabulary/今日.md)
-### [朝](Vocabulary/朝.md)
-### [今晩](Vocabulary/今晩.md)
-### [毎日](Vocabulary/毎日.md)
-### [週末](Vocabulary/週末.md)
-### [土曜日](Vocabulary/土曜日.md)
-### [日曜日](Vocabulary/日曜日.md)
-### [いつ](Vocabulary/いつ.md)
-### [ごろ](Vocabulary/ごろ.md)
+### [明日](../Vocabulary/明日.md)
+### [今日](../Vocabulary/今日.md)
+### [朝](../Vocabulary/朝.md)
+### [今晩](../Vocabulary/今晩.md)
+### [毎日](../Vocabulary/毎日.md)
+### [週末](../Vocabulary/週末.md)
+### [土曜日](../Vocabulary/土曜日.md)
+### [日曜日](../Vocabulary/日曜日.md)
+### [いつ](../Vocabulary/いつ.md)
+### [ごろ](../Vocabulary/ごろ.md)
 
 
 ## Godan (U) Verbs 
-### [行く](Vocabulary/行く.md)
-### [帰る](Vocabulary/帰る.md)
-### [聞く](Vocabulary/聞く.md)
-### [飲む](Vocabulary/飲む.md)
-### [話す](Vocabulary/話す.md)
-### [読む](Vocabulary/読む.md)
+### [行く](../Vocabulary/行く.md)
+### [帰る](../Vocabulary/帰る.md)
+### [聞く](../Vocabulary/聞く.md)
+### [飲む](../Vocabulary/飲む.md)
+### [話す](../Vocabulary/話す.md)
+### [読む](../Vocabulary/読む.md)
 
 ## Ichidan (Ru) Verbs
-### [起きる](Vocabulary/起きる.md)
-### [食べる](Vocabulary/食べる.md)
-### [寝る](Vocabulary/寝る.md)
-### [見る](Vocabulary/見る.md)
+### [起きる](../Vocabulary/起きる.md)
+### [食べる](../Vocabulary/食べる.md)
+### [寝る](../Vocabulary/寝る.md)
+### [見る](../Vocabulary/見る.md)
 
 ## Irregular Verbs
-### [来る](Vocabulary/来る.md)
-### [する](Vocabulary/する.md)
+### [来る](../Vocabulary/来る.md)
+### [する](../Vocabulary/する.md)
 
-### [勉強する](Vocabulary/勉強する.md)
+### [勉強する](../Vocabulary/勉強する.md)
 
 ## Adjectives
-### [いい](Vocabulary/いい.md)
-### [早い](Vocabulary/早い.md)
+### [いい](../Vocabulary/いい.md)
+### [早い](../Vocabulary/早い.md)
 ## Adverbs
-### [あまり](Vocabulary/あまり.md)
-### [全然](Vocabulary/全然.md)
-### [大抵](Vocabulary/大抵.md)
-### [ちょっと](Vocabulary/ちょっと.md)
-### [時々](Vocabulary/時々.md)
-### [よく](Vocabulary/よく.md)
+### [あまり](../Vocabulary/あまり.md)
+### [全然](../Vocabulary/全然.md)
+### [大抵](../Vocabulary/大抵.md)
+### [ちょっと](../Vocabulary/ちょっと.md)
+### [時々](../Vocabulary/時々.md)
+### [よく](../Vocabulary/よく.md)
 
 ## Expressions
-### [そうですね](Vocabulary/そうですね.md)
-### [でも](Vocabulary/でも.md)
-### [どうですか](Vocabulary/どうですか.md)
-### [ええ](Vocabulary/ええ.md)
+### [そうですね](../Vocabulary/そうですね.md)
+### [でも](../Vocabulary/でも.md)
+### [どうですか](../Vocabulary/どうですか.md)
+### [ええ](../Vocabulary/ええ.md)
 
 
 

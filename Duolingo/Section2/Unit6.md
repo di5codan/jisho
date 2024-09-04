@@ -1,1 +1,1 @@
-## [物](Kanji/kanji-dict/物.md)
+## [物](../../Kanji/kanji-dict/物.md)

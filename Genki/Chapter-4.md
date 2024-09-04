@@ -154,114 +154,114 @@ https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/particle-t
 # Vocabulary
 Nouns
 Activities
-### [ゲーム](Vocabulary/ゲーム.md)
-### [アルバイト](Vocabulary/アルバイト.md)
-### [買い物](Vocabulary/買い物.md)
-### [クラス](Vocabulary/クラス.md)
+### [ゲーム](../Vocabulary/ゲーム.md)
+### [アルバイト](../Vocabulary/アルバイト.md)
+### [買い物](../Vocabulary/買い物.md)
+### [クラス](../Vocabulary/クラス.md)
 
 ## People and things
-###  [犬](Vocabulary/犬.md)
-### [猫](Vocabulary/猫.md)
-### [人](Vocabulary/人.md)
-### [子供](Vocabulary/子供.md)
-### [あなた](Vocabulary/あなた.md)
-### [椅子](Vocabulary/椅子.md)
-### [机](Vocabulary/机.md)
-### [写真](Vocabulary/写真.md)
-### [花](Vocabulary/花.md)
-### [ご飯](Vocabulary/ご飯.md)
-### [パン](Vocabulary/パン.md)
-### [お寺](Vocabulary/お寺.md)
-### [公園](Vocabulary/公園.md)
-### [スーパー](Vocabulary/スーパー.md)
-### [バス停](Vocabulary/バス停.md)
-### [病院](Vocabulary/病院.md)
-### [ホテル](Vocabulary/ホテル.md)
-### [本屋](Vocabulary/本屋.md)
-### [町](Vocabulary/町.md)
-### [レストラン](Vocabulary/レストラン.md)
-### [昨日](Vocabulary/昨日.md)
-### [時間](Vocabulary/時間.md)
-### [先週](Vocabulary/先週.md)
-### [時](Vocabulary/時.md)
-### [月曜日](Vocabulary/月曜日.md)
-### [火曜日](Vocabulary/火曜日.md)
-### [水曜日](Vocabulary/水曜日.md)
-### [木曜日](Vocabulary/木曜日.md)
-### [金曜日](Vocabulary/金曜日.md)
-### [会う](Vocabulary/会う.md)
-### [ある](Vocabulary/ある.md)
-### [買う](Vocabulary/買う.md)
-### [書く](Vocabulary/書く.md)
-### [撮る](Vocabulary/撮る.md)
-### [待つ](Vocabulary/待つ.md)
-### [わかる](Vocabulary/わかる.md)
-### [いる](Vocabulary/いる.md)
+###  [犬](../Vocabulary/犬.md)
+### [猫](../Vocabulary/猫.md)
+### [人](../Vocabulary/人.md)
+### [子供](../Vocabulary/子供.md)
+### [あなた](../Vocabulary/あなた.md)
+### [椅子](../Vocabulary/椅子.md)
+### [机](../Vocabulary/机.md)
+### [写真](../Vocabulary/写真.md)
+### [花](../Vocabulary/花.md)
+### [ご飯](../Vocabulary/ご飯.md)
+### [パン](../Vocabulary/パン.md)
+### [お寺](../Vocabulary/お寺.md)
+### [公園](../Vocabulary/公園.md)
+### [スーパー](../Vocabulary/スーパー.md)
+### [バス停](../Vocabulary/バス停.md)
+### [病院](../Vocabulary/病院.md)
+### [ホテル](../Vocabulary/ホテル.md)
+### [本屋](../Vocabulary/本屋.md)
+### [町](../Vocabulary/町.md)
+### [レストラン](../Vocabulary/レストラン.md)
+### [昨日](../Vocabulary/昨日.md)
+### [時間](../Vocabulary/時間.md)
+### [先週](../Vocabulary/先週.md)
+### [時](../Vocabulary/時.md)
+### [月曜日](../Vocabulary/月曜日.md)
+### [火曜日](../Vocabulary/火曜日.md)
+### [水曜日](../Vocabulary/水曜日.md)
+### [木曜日](../Vocabulary/木曜日.md)
+### [金曜日](../Vocabulary/金曜日.md)
+### [会う](../Vocabulary/会う.md)
+### [ある](../Vocabulary/ある.md)
+### [買う](../Vocabulary/買う.md)
+### [書く](../Vocabulary/書く.md)
+### [撮る](../Vocabulary/撮る.md)
+### [待つ](../Vocabulary/待つ.md)
+### [わかる](../Vocabulary/わかる.md)
+### [いる](../Vocabulary/いる.md)
 
 ## Adverbs
-### [ぐらい](Vocabulary/ぐらい.md)
-### [それから](Vocabulary/それから.md)
-### [だから](Vocabulary/だから.md)
-### [たくさん](Vocabulary/たくさん.md)
-### [どうして](Vocabulary/どうして.md)
-### [一人で](Vocabulary/一人で.md)
+### [ぐらい](../Vocabulary/ぐらい.md)
+### [それから](../Vocabulary/それから.md)
+### [だから](../Vocabulary/だから.md)
+### [たくさん](../Vocabulary/たくさん.md)
+### [どうして](../Vocabulary/どうして.md)
+### [一人で](../Vocabulary/一人で.md)
 
 
 ### もしもし
-### [ごめんなさい](Vocabulary/ごめんなさい.md)
+### [ごめんなさい](../Vocabulary/ごめんなさい.md)
 
-### [右](Vocabulary/右.md)
-### [左](Vocabulary/左.md)
+### [右](../Vocabulary/右.md)
+### [左](../Vocabulary/左.md)
 
 ## Prepositions
-### [前](Vocabulary/前.md)
-### [後ろ](Vocabulary/後ろ.md)
-### [中](Vocabulary/中.md)
-### [上](Vocabulary/上.md)
-### [下](Vocabulary/下.md)
-### [近く](Vocabulary/近く.md)
-### [隣](Vocabulary/隣.md)
-### [間](Vocabulary/間.md)
-### [と](Kana/kana-characters/と.md)
+### [前](../Vocabulary/前.md)
+### [後ろ](../Vocabulary/後ろ.md)
+### [中](../Vocabulary/中.md)
+### [上](../Vocabulary/上.md)
+### [下](../Vocabulary/下.md)
+### [近く](../Vocabulary/近く.md)
+### [隣](../Vocabulary/隣.md)
+### [間](../Vocabulary/間.md)
+### [と](../Kana/kana-characters/と.md)
 
 ## Kanji Vocab
-### [お土産](Vocabulary/お土産.md)
-### [母の日](Vocabulary/母の日.md)  
-### [日記](Vocabulary/日記.md)  
-### [火山](Vocabulary/火山.md)  
-### [花火](Vocabulary/花火.md)  
-### [火星](Vocabulary/火星.md)  
-### [月](Vocabulary/月.md)
-### [火](Vocabulary/火.md)  
-### [水泳](Vocabulary/水泳.md)
-### [水道](Vocabulary/水道.md)
-### [水着](Vocabulary/水着.md) 
-### [土](Vocabulary/土.md) 
-### [土地](Vocabulary/土地.md)  
-### [粘土](Vocabulary/粘土.md)
-### [上る](Vocabulary/上る.md)
-### [中学](Vocabulary/中学.md)
-### [一年中](Vocabulary/一年中.md)
-### [半年](Vocabulary/半年.md)
-### [半額](Vocabulary/半額.md)
+### [お土産](../Vocabulary/お土産.md)
+### [母の日](../Vocabulary/母の日.md)  
+### [日記](../Vocabulary/日記.md)  
+### [火山](../Vocabulary/火山.md)  
+### [花火](../Vocabulary/花火.md)  
+### [火星](../Vocabulary/火星.md)  
+### [月](../Vocabulary/月.md)
+### [火](../Vocabulary/火.md)  
+### [水泳](../Vocabulary/水泳.md)
+### [水道](../Vocabulary/水道.md)
+### [水着](../Vocabulary/水着.md) 
+### [土](../Vocabulary/土.md) 
+### [土地](../Vocabulary/土地.md)  
+### [粘土](../Vocabulary/粘土.md)
+### [上る](../Vocabulary/上る.md)
+### [中学](../Vocabulary/中学.md)
+### [一年中](../Vocabulary/一年中.md)
+### [半年](../Vocabulary/半年.md)
+### [半額](../Vocabulary/半額.md)
 # Numbers
 ## Months
 月
 
 |     |         |         |
 | --- | ------- | ------- |
-| １月  | [一月](Vocabulary/一月.md)  | いちがつ    |
-| ２月  | [二月](Vocabulary/二月.md)  | にがつ     |
-| ３月  | [三月](Vocabulary/三月.md)  | さんがつ    |
-| ４月  | [四月](Vocabulary/四月.md)  | しがつ     |
-| ５月  | [五月](Vocabulary/五月.md)  | ごがつ     |
-| ６月  | [六月](Vocabulary/六月.md)  | ろくがつ    |
-| ７月  | [七月](Vocabulary/七月.md)  | しちがつ    |
-| ８月  | [八月](Vocabulary/八月.md)  | はちがつ    |
-| ９月  | [九月](Vocabulary/九月.md)  | くがつ     |
-| １０月 | [十月](Vocabulary/十月.md)  | じゅうがつ   |
-| １１月 | [十一月](Vocabulary/十一月.md) | じゅういちがつ |
-| １２月 | [十二月](Vocabulary/十二月.md) | じゅうにがつ  |
+| １月  | [一月](../Vocabulary/一月.md)  | いちがつ    |
+| ２月  | [二月](../Vocabulary/二月.md)  | にがつ     |
+| ３月  | [三月](../Vocabulary/三月.md)  | さんがつ    |
+| ４月  | [四月](../Vocabulary/四月.md)  | しがつ     |
+| ５月  | [五月](../Vocabulary/五月.md)  | ごがつ     |
+| ６月  | [六月](../Vocabulary/六月.md)  | ろくがつ    |
+| ７月  | [七月](../Vocabulary/七月.md)  | しちがつ    |
+| ８月  | [八月](../Vocabulary/八月.md)  | はちがつ    |
+| ９月  | [九月](../Vocabulary/九月.md)  | くがつ     |
+| １０月 | [十月](../Vocabulary/十月.md)  | じゅうがつ   |
+| １１月 | [十一月](../Vocabulary/十一月.md) | じゅういちがつ |
+| １２月 | [十二月](../Vocabulary/十二月.md) | じゅうにがつ  |
 
 ## Days of the month
 日

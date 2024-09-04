@@ -164,173 +164,173 @@ explanation から, situation.
 # Vocabulary
 
 ## Nouns
-### [単語](Vocabulary/単語.md)
-### [作文](Vocabulary/作文.md)
-### [試験](Vocabulary/試験.md)
-### [手紙](Vocabulary/手紙.md)
-### [メール](Vocabulary/メール.md)
-### [ギター](Vocabulary/ギター.md)
-### [ピアノ](Vocabulary/ピアノ.md)
-### [コンサート](Vocabulary/コンサート.md)
-### [チケット](Vocabulary/チケット.md)
-### [歌舞伎](Vocabulary/歌舞伎.md)
-### [スキー](Vocabulary/スキー.md)
-### [お弁当](Vocabulary/お弁当.md)
-### [ピザ](Vocabulary/ピザ.md)
-### [病気](Vocabulary/病気.md)
-### [薬](Vocabulary/薬.md)
-### [いい子](Vocabulary/いい子.md)
-### [色](Vocabulary/色.md)
-### [今度](Vocabulary/今度.md)
-### [先月](Vocabulary/先月.md)
-### [去年](Vocabulary/去年.md)
-### [新幹線](Vocabulary/新幹線.md)
+### [単語](../Vocabulary/単語.md)
+### [作文](../Vocabulary/作文.md)
+### [試験](../Vocabulary/試験.md)
+### [手紙](../Vocabulary/手紙.md)
+### [メール](../Vocabulary/メール.md)
+### [ギター](../Vocabulary/ギター.md)
+### [ピアノ](../Vocabulary/ピアノ.md)
+### [コンサート](../Vocabulary/コンサート.md)
+### [チケット](../Vocabulary/チケット.md)
+### [歌舞伎](../Vocabulary/歌舞伎.md)
+### [スキー](../Vocabulary/スキー.md)
+### [お弁当](../Vocabulary/お弁当.md)
+### [ピザ](../Vocabulary/ピザ.md)
+### [病気](../Vocabulary/病気.md)
+### [薬](../Vocabulary/薬.md)
+### [いい子](../Vocabulary/いい子.md)
+### [色](../Vocabulary/色.md)
+### [今度](../Vocabulary/今度.md)
+### [先月](../Vocabulary/先月.md)
+### [去年](../Vocabulary/去年.md)
+### [新幹線](../Vocabulary/新幹線.md)
 
 ## Adjectives
-### [青い](Vocabulary/青い.md)
-### [赤い](Vocabulary/赤い.md)
-### [黒い](Vocabulary/黒い.md)
-### [白い](Vocabulary/白い.md)
-### [寂しい](Vocabulary/寂しい.md)
-### [意地悪](Vocabulary/意地悪.md)
+### [青い](../Vocabulary/青い.md)
+### [赤い](../Vocabulary/赤い.md)
+### [黒い](../Vocabulary/黒い.md)
+### [白い](../Vocabulary/白い.md)
+### [寂しい](../Vocabulary/寂しい.md)
+### [意地悪](../Vocabulary/意地悪.md)
 
 ## Verbs
-### [踊る](Vocabulary/踊る.md)
-### [終わる](Vocabulary/終わる.md)
-### [薬を飲む](Vocabulary/薬を飲む.md)
-### [人気がある](Vocabulary/人気がある.md)
-### [始まる](Vocabulary/始まる.md)
-### [弾く](Vocabulary/弾く.md)
-### [もらう](Vocabulary/もらう.md)
-### [覚える](Vocabulary/覚える.md)
-### [出る](Vocabulary/出る.md)
-### [運動する](Vocabulary/運動する.md)
-### [散歩する](Vocabulary/散歩する.md)
+### [踊る](../Vocabulary/踊る.md)
+### [終わる](../Vocabulary/終わる.md)
+### [薬を飲む](../Vocabulary/薬を飲む.md)
+### [人気がある](../Vocabulary/人気がある.md)
+### [始まる](../Vocabulary/始まる.md)
+### [弾く](../Vocabulary/弾く.md)
+### [もらう](../Vocabulary/もらう.md)
+### [覚える](../Vocabulary/覚える.md)
+### [出る](../Vocabulary/出る.md)
+### [運動する](../Vocabulary/運動する.md)
+### [散歩する](../Vocabulary/散歩する.md)
 
 ## Adverbs
-### [そう](Vocabulary/そう.md)
-### [から](Vocabulary/から.md)
-### [まで](Vocabulary/まで.md)
-### [是非](Vocabulary/是非.md)
-### [ところで](Vocabulary/ところで.md)
+### [そう](../Vocabulary/そう.md)
+### [から](../Vocabulary/から.md)
+### [まで](../Vocabulary/まで.md)
+### [是非](../Vocabulary/是非.md)
+### [ところで](../Vocabulary/ところで.md)
 
-### [みんな](Vocabulary/みんな.md)
-### [もう](Vocabulary/もう.md)
+### [みんな](../Vocabulary/みんな.md)
+### [もう](../Vocabulary/もう.md)
 
 ## Counters
-### [一つ](Vocabulary/Counters/一つ.md)
-### [二つ](Vocabulary/Counters/二つ.md)
-### [三つ](Vocabulary/Counters/三つ.md)
+### [一つ](../Vocabulary/Counters/一つ.md)
+### [二つ](../Vocabulary/Counters/二つ.md)
+### [三つ](../Vocabulary/Counters/三つ.md)
 ### [四つ](四つ)
-### [五つ](Vocabulary/Counters/五つ.md)
-### [六つ](Vocabulary/Counters/六つ.md)
-### [七つ](Vocabulary/Counters/七つ.md)
-### [八つ](Vocabulary/Counters/八つ.md)
-### [九つ](Vocabulary/Counters/九つ.md)
-### [十](Vocabulary/十.md)
+### [五つ](../Vocabulary/Counters/五つ.md)
+### [六つ](../Vocabulary/Counters/六つ.md)
+### [七つ](../Vocabulary/Counters/七つ.md)
+### [八つ](../Vocabulary/Counters/八つ.md)
+### [九つ](../Vocabulary/Counters/九つ.md)
+### [十](../Vocabulary/十.md)
 とお
 
-### [温泉](Vocabulary/温泉.md)
+### [温泉](../Vocabulary/温泉.md)
 
-### [若い](Vocabulary/若い.md)
+### [若い](../Vocabulary/若い.md)
 
 ## Counters
 
 |        |     |      |
 | ------ | --- | ---- |
-| [一つ](Vocabulary/Counters/一つ.md) | １つ  | ひとつ  |
-| [二つ](Vocabulary/Counters/二つ.md) | ２つ  | につ   |
-| [三つ](Vocabulary/Counters/三つ.md) | ３つ  | みっつ  |
+| [一つ](../Vocabulary/Counters/一つ.md) | １つ  | ひとつ  |
+| [二つ](../Vocabulary/Counters/二つ.md) | ２つ  | につ   |
+| [三つ](../Vocabulary/Counters/三つ.md) | ３つ  | みっつ  |
 | [四つ](四つ) | ４つ  | よっつ  |
-| [五つ](Vocabulary/Counters/五つ.md) | ５つ  | いつつ  |
-| [六つ](Vocabulary/Counters/六つ.md) | ６つ  | むっつ  |
-| [七つ](Vocabulary/Counters/七つ.md) | ７つ  | ななつ  |
-| [八つ](Vocabulary/Counters/八つ.md) | ８つ  | やっつ  |
-| [九つ](Vocabulary/Counters/九つ.md) | ９つ  | ここのつ |
+| [五つ](../Vocabulary/Counters/五つ.md) | ５つ  | いつつ  |
+| [六つ](../Vocabulary/Counters/六つ.md) | ６つ  | むっつ  |
+| [七つ](../Vocabulary/Counters/七つ.md) | ７つ  | ななつ  |
+| [八つ](../Vocabulary/Counters/八つ.md) | ８つ  | やっつ  |
+| [九つ](../Vocabulary/Counters/九つ.md) | ９つ  | ここのつ |
 | 十      |     | とお   |
 
 ## Kanji Practice
 
-### [午前中](Vocabulary/午前中.md)
+### [午前中](../Vocabulary/午前中.md)
 in the morning 
 ごぜんちゅう
 
-### [正午](Vocabulary/正午.md)
+### [正午](../Vocabulary/正午.md)
 noon 
 しょうご
   
-### [最後に](Vocabulary/最後に.md)
+### [最後に](../Vocabulary/最後に.md)
 lastly
 さいごに
 
-### [名刺](Vocabulary/名刺.md)
+### [名刺](../Vocabulary/名刺.md)
 name card 
 めいし
   
-### [氏名](Vocabulary/氏名.md)
+### [氏名](../Vocabulary/氏名.md)
 full name
 しめい
   
-### [名字](Vocabulary/名字.md)
+### [名字](../Vocabulary/名字.md)
 family name
 みょうじ
  
-### [白紙](Vocabulary/白紙.md)
+### [白紙](../Vocabulary/白紙.md)
 blank sheet
 はくし
   
-### [白鳥](Vocabulary/白鳥.md)
+### [白鳥](../Vocabulary/白鳥.md)
 swan
 はくちょう
   
-### [雨期](Vocabulary/雨期.md)
+### [雨期](../Vocabulary/雨期.md)
 rainy season
 うき
 
-### [梅雨](Vocabulary/梅雨.md)
+### [梅雨](../Vocabulary/梅雨.md)
 rainy season (East Asia) 
 つゆ
 
-### [大雨](Vocabulary/大雨.md)
+### [大雨](../Vocabulary/大雨.md)
 heavy rain
 おおあめ
 
-### [親友](Vocabulary/親友.md)
+### [親友](../Vocabulary/親友.md)
 best friend
 しんゆう
 
-### [友人](Vocabulary/友人.md)
+### [友人](../Vocabulary/友人.md)
 friend (formal)
 ゆうじん
 
-### [友情](Vocabulary/友情.md)
+### [友情](../Vocabulary/友情.md)
 friendship
 ゆうじょう
 
-### [人間](Vocabulary/人間.md)
+### [人間](../Vocabulary/人間.md)
 human being
 にんげん
 
-### [会話](Vocabulary/会話.md)
+### [会話](../Vocabulary/会話.md)
 conversation
 かいわ
 
-### [少々](Vocabulary/少々.md)
+### [少々](../Vocabulary/少々.md)
 a little
 しょうしょう
 
-### [中古](Vocabulary/中古.md)
+### [中古](../Vocabulary/中古.md)
 secondhand
 ちゅうこ
 
-### [古代](Vocabulary/古代.md)
+### [古代](../Vocabulary/古代.md)
 ancient times
 こだい
 
-### [知人](Vocabulary/知人.md)
+### [知人](../Vocabulary/知人.md)
 acquaintance (formal)
 ちじん
 
-### [知り合](Vocabulary/知り合.md)
+### [知り合](../Vocabulary/知り合.md)
 acquaintance
 いしりあい

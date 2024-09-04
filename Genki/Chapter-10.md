@@ -205,126 +205,126 @@ You can use the particle で with nouns that describe the means of transportatio
 | Q   | 家から駅までどのぐらいかかりますか |     |
 | A   | 家から駅まで十分かかります。    |     |
 
-[横浜](Vocabulary/横浜.md)
-[名古屋](Vocabulary/名古屋.md)
+[横浜](../Vocabulary/横浜.md)
+[名古屋](../Vocabulary/名古屋.md)
 # Vocabulary
 ## Nouns
-### [季節](Vocabulary/季節.md)
-### [春](Vocabulary/春.md)
-### [秋](Vocabulary/秋.md)
-### [牛乳](Vocabulary/牛乳.md)
-### [ケーキ](Vocabulary/ケーキ.md)
-### [寿司](Vocabulary/寿司.md)
-### [天ぷら](Vocabulary/天ぷら.md)
-### [りんご](Vocabulary/りんご.md)
-### [料理](Vocabulary/料理.md)
-### [サッカー](Vocabulary/サッカー.md)
-### [野球](Vocabulary/野球.md)
-### [医者](Vocabulary/医者.md)
-### [お金持ち](Vocabulary/お金持ち.md)
-### [有名人](Vocabulary/有名人.md)
-### [顔](Vocabulary/顔.md)
-### [年上](Vocabulary/年上.md)
-### [駅](Vocabulary/駅.md)
-### [新幹線](Vocabulary/新幹線.md)
-### [地下鉄](Vocabulary/地下鉄.md)
-### [船](Vocabulary/船.md)
-### [飛行機](Vocabulary/飛行機.md)
-### [予約](Vocabulary/予約.md)
-### [ツアー](Vocabulary/ツアー.md)
-### [動物園](Vocabulary/動物園.md)
-### [時間](Vocabulary/時間.md)
-### [世界](Vocabulary/世界.md)
-### [美容院](Vocabulary/美容院.md)
-### [手袋](Vocabulary/手袋.md)
-### [生活](Vocabulary/生活.md)
-### [今年](Vocabulary/今年.md)
+### [季節](../Vocabulary/季節.md)
+### [春](../Vocabulary/春.md)
+### [秋](../Vocabulary/秋.md)
+### [牛乳](../Vocabulary/牛乳.md)
+### [ケーキ](../Vocabulary/ケーキ.md)
+### [寿司](../Vocabulary/寿司.md)
+### [天ぷら](../Vocabulary/天ぷら.md)
+### [りんご](../Vocabulary/りんご.md)
+### [料理](../Vocabulary/料理.md)
+### [サッカー](../Vocabulary/サッカー.md)
+### [野球](../Vocabulary/野球.md)
+### [医者](../Vocabulary/医者.md)
+### [お金持ち](../Vocabulary/お金持ち.md)
+### [有名人](../Vocabulary/有名人.md)
+### [顔](../Vocabulary/顔.md)
+### [年上](../Vocabulary/年上.md)
+### [駅](../Vocabulary/駅.md)
+### [新幹線](../Vocabulary/新幹線.md)
+### [地下鉄](../Vocabulary/地下鉄.md)
+### [船](../Vocabulary/船.md)
+### [飛行機](../Vocabulary/飛行機.md)
+### [予約](../Vocabulary/予約.md)
+### [ツアー](../Vocabulary/ツアー.md)
+### [動物園](../Vocabulary/動物園.md)
+### [時間](../Vocabulary/時間.md)
+### [世界](../Vocabulary/世界.md)
+### [美容院](../Vocabulary/美容院.md)
+### [手袋](../Vocabulary/手袋.md)
+### [生活](../Vocabulary/生活.md)
+### [今年](../Vocabulary/今年.md)
 
 ## I adjectives
-### [暖かい](Vocabulary/暖かい.md)
-### [涼しい](Vocabulary/涼しい.md)
-### [冷たい](Vocabulary/冷たい.md)
-### [遅い](Vocabulary/遅い.md)
-### [眠い](Vocabulary/眠い.md)
+### [暖かい](../Vocabulary/暖かい.md)
+### [涼しい](../Vocabulary/涼しい.md)
+### [冷たい](../Vocabulary/冷たい.md)
+### [遅い](../Vocabulary/遅い.md)
+### [眠い](../Vocabulary/眠い.md)
 
 ## Na adjectives
-### [簡単](Vocabulary/簡単.md)
+### [簡単](../Vocabulary/簡単.md)
 
 ## U Verbs
-### [架かる](Vocabulary/架かる.md)
-### [泊まる](Vocabulary/泊まる.md)
-### [なる](Vocabulary/なる.md)
+### [架かる](../Vocabulary/架かる.md)
+### [泊まる](../Vocabulary/泊まる.md)
+### [なる](../Vocabulary/なる.md)
 
 ## Ru Verbs
-### [決める](Vocabulary/決める.md)
+### [決める](../Vocabulary/決める.md)
 
 ## Irregular Verbs
-### [ごろごろする](Vocabulary/ごろごろする.md)
-### [旅行する](Vocabulary/旅行する.md)
-### [練習する](Vocabulary/練習する.md)
+### [ごろごろする](../Vocabulary/ごろごろする.md)
+### [旅行する](../Vocabulary/旅行する.md)
+### [練習する](../Vocabulary/練習する.md)
 
 ## Adverbs
-### [一番](Vocabulary/一番.md)
-### [どっち](Vocabulary/どっち.md)　
-### [どちら](Vocabulary/どちら.md)
-### [早く](Vocabulary/早く.md)　
-### [速く](Vocabulary/速く.md)
-### [歩いて](Vocabulary/歩いて.md)
+### [一番](../Vocabulary/一番.md)
+### [どっち](../Vocabulary/どっち.md)　
+### [どちら](../Vocabulary/どちら.md)
+### [早く](../Vocabulary/早く.md)　
+### [速く](../Vocabulary/速く.md)
+### [歩いて](../Vocabulary/歩いて.md)
 ### で
-### [どうやって](Vocabulary/どうやって.md)
-### [どのくらい](Vocabulary/どのくらい.md)
-### [週間](Vocabulary/週間.md)
-### [か月](Vocabulary/か月.md)
-### [年](Kanji/kanji-dict/年.md)
-### [このごろ](Vocabulary/このごろ.md)
-### [後](Vocabulary/後.md)
+### [どうやって](../Vocabulary/どうやって.md)
+### [どのくらい](../Vocabulary/どのくらい.md)
+### [週間](../Vocabulary/週間.md)
+### [か月](../Vocabulary/か月.md)
+### [年](../Kanji/kanji-dict/年.md)
+### [このごろ](../Vocabulary/このごろ.md)
+### [後](../Vocabulary/後.md)
 ### か
 
-### [便](Vocabulary/便.md)
+### [便](../Vocabulary/便.md)
 
-### [床屋](Vocabulary/床屋.md)
+### [床屋](../Vocabulary/床屋.md)
 
-### [来学期](Vocabulary/来学期.md)
+### [来学期](../Vocabulary/来学期.md)
 
-### [年上](Vocabulary/年上.md)
+### [年上](../Vocabulary/年上.md)
 
 ## Main Islands
-### [本州](Vocabulary/本州.md)
-### [北海道](Vocabulary/北海道.md)
-### [九州](Vocabulary/九州.md)
-### [四国](Vocabulary/四国.md)
+### [本州](../Vocabulary/本州.md)
+### [北海道](../Vocabulary/北海道.md)
+### [九州](../Vocabulary/九州.md)
+### [四国](../Vocabulary/四国.md)
 
 ## Station terms
-### [普通](Vocabulary/普通.md)
-### [急行](Vocabulary/急行.md)
-### [特急](Vocabulary/特急.md)
-### [行き](Vocabulary/行き.md)
-### [方面](Vocabulary/方面.md)
-### [乗車券](Vocabulary/乗車券.md)
-### [定期券](Vocabulary/定期券.md)
-### [学割](Vocabulary/学割.md)
-### [指定席](Vocabulary/指定席.md)
-### [自由席](Vocabulary/自由席.md)
-### [一号車](Vocabulary/一号車.md)
-### [往復](Vocabulary/往復.md)
-### [片道](Vocabulary/片道.md)
-### [交通系ICカード](Vocabulary/交通系ICカード.md)
-### [番線](Vocabulary/番線.md)
-### [切符売り場](Vocabulary/切符売り場.md)
-### [改札](Vocabulary/改札.md)
-### [ホーム](Vocabulary/ホーム.md)
+### [普通](../Vocabulary/普通.md)
+### [急行](../Vocabulary/急行.md)
+### [特急](../Vocabulary/特急.md)
+### [行き](../Vocabulary/行き.md)
+### [方面](../Vocabulary/方面.md)
+### [乗車券](../Vocabulary/乗車券.md)
+### [定期券](../Vocabulary/定期券.md)
+### [学割](../Vocabulary/学割.md)
+### [指定席](../Vocabulary/指定席.md)
+### [自由席](../Vocabulary/自由席.md)
+### [一号車](../Vocabulary/一号車.md)
+### [往復](../Vocabulary/往復.md)
+### [片道](../Vocabulary/片道.md)
+### [交通系ICカード](../Vocabulary/交通系ICカード.md)
+### [番線](../Vocabulary/番線.md)
+### [切符売り場](../Vocabulary/切符売り場.md)
+### [改札](../Vocabulary/改札.md)
+### [ホーム](../Vocabulary/ホーム.md)
 
 
 
-### [売店](Vocabulary/売店.md)
-### [出口](Vocabulary/出口.md)
-### [入口](Vocabulary/入口.md)
-### [階段](Vocabulary/階段.md)
-### [乗り換え](Vocabulary/乗り換え.md)
-### [次は](Vocabulary/次は.md)
-### [先発](Vocabulary/先発.md)
-### [次発](Vocabulary/次発.md)
-### [終電](Vocabulary/終電.md)
+### [売店](../Vocabulary/売店.md)
+### [出口](../Vocabulary/出口.md)
+### [入口](../Vocabulary/入口.md)
+### [階段](../Vocabulary/階段.md)
+### [乗り換え](../Vocabulary/乗り換え.md)
+### [次は](../Vocabulary/次は.md)
+### [先発](../Vocabulary/先発.md)
+### [次発](../Vocabulary/次発.md)
+### [終電](../Vocabulary/終電.md)
 
 まもなく発車します
 We will be leaving soon.
@@ -360,100 +360,100 @@ Can I get a student discount?
 
 ## Kanji Vocab
   
-### [住所](Vocabulary/住所.md)
+### [住所](../Vocabulary/住所.md)
 address
 じゅうしょ
 
-### [移住する](Vocabulary/移住する.md)
+### [移住する](../Vocabulary/移住する.md)
 to immigrate  
 いじゅうする
 
-### [正しい](Vocabulary/正しい.md)
+### [正しい](../Vocabulary/正しい.md)
 right  
 ただしい
 
-### [正午](Vocabulary/正午.md)
+### [正午](../Vocabulary/正午.md)
 noon  
 しょうご
 
-### [正解](Vocabulary/正解.md)
+### [正解](../Vocabulary/正解.md)
 correct answer 
 せいかい
 
 
-### [売店](Vocabulary/売店.md)
+### [売店](../Vocabulary/売店.md)
 stand; stall 
 ばいてん
 
-### [自動販売機](Vocabulary/自動販売機.md)
+### [自動販売機](../Vocabulary/自動販売機.md)
 vending machine  
 じどうはんばいき
 
-### [売買](Vocabulary/売買.md)
+### [売買](../Vocabulary/売買.md)
 selling and buying  
 ばいばい
 
-### [北山町](Vocabulary/北山町.md)
+### [北山町](../Vocabulary/北山町.md)
 Kitayama town  
 きたやまちょう
 
-### [町長](Vocabulary/町長.md)
+### [町長](../Vocabulary/町長.md)
 mayor of a town  
 ちょうちょう
 
-### [長男](Vocabulary/長男.md)
+### [長男](../Vocabulary/長男.md)
 the eldest son  
 ちょうなん
 
-### [書道](Vocabulary/書道.md)
+### [書道](../Vocabulary/書道.md)
 calligraphy  
 しょどう
 
-### [柔道](Vocabulary/柔道.md)
+### [柔道](../Vocabulary/柔道.md)
 judo 
 じゅうどう
 
-### [北海道](Vocabulary/北海道.md)
+### [北海道](../Vocabulary/北海道.md)
 
-### [新雪](Vocabulary/新雪.md)
+### [新雪](../Vocabulary/新雪.md)
 new snow  
 しんせつ
 
-### [雪だるま](Vocabulary/雪だるま.md)
+### [雪だるま](../Vocabulary/雪だるま.md)
 snowman  
 ゆきだるま
 
-### [国立大学](Vocabulary/国立大学.md)
+### [国立大学](../Vocabulary/国立大学.md)
 national university  
 こくりつだいがく
 
-### [私立高校](Vocabulary/私立高校.md)
+### [私立高校](../Vocabulary/私立高校.md)
 private high school  
 しりつこうこう
   
-### [自分](Vocabulary/自分.md)
+### [自分](../Vocabulary/自分.md)
 oneself
 じぶん
 
-### [自動車](Vocabulary/自動車.md)
+### [自動車](../Vocabulary/自動車.md)
 automobile  
 じどうしゃ
   
-### [自由](Vocabulary/自由.md)
+### [自由](../Vocabulary/自由.md)
 freedom
 じゆう
 
-### [夜中](Vocabulary/夜中.md)
+### [夜中](../Vocabulary/夜中.md)
 middle of night; midnight 
 よなか
-### [夜明](Vocabulary/夜明.md)
+### [夜明](../Vocabulary/夜明.md)
 dawn 
 けよあけ
 
-### [所持品](Vocabulary/所持品.md)
+### [所持品](../Vocabulary/所持品.md)
 belongings 
 しょじひん
 
-### [気持](Vocabulary/気持.md)
+### [気持](../Vocabulary/気持.md)
 feeling  
 ちきもち

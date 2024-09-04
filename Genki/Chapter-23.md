@@ -104,18 +104,18 @@ Note: The ても clause itself does not have tense. It can be followed either by
 
 # Vocabulary
 ## Nouns
-### [袋](Kanji/kanji-dict/袋.md)
+### [袋](../Kanji/kanji-dict/袋.md)
 ### [夕食](夕食)
 ### [場所](場所)
-### [小学校](Vocabulary/小学校.md)
+### [小学校](../Vocabulary/小学校.md)
 ### [健康](健康)
 ### [靴下](靴下)
 ### [ただ](ただ)
 ### [面接](面接)
-### [階段](Vocabulary/階段.md)
+### [階段](../Vocabulary/階段.md)
 ### [休講](休講)
-### [社会](Vocabulary/社会.md)
-### [思い出](Vocabulary/思い出.md)
+### [社会](../Vocabulary/社会.md)
+### [思い出](../Vocabulary/思い出.md)
 ### [調査](調査)
 ### [留守番](留守番)
 ### [盆踊り](盆踊り)
@@ -156,4 +156,4 @@ Note: The ても clause itself does not have tense. It can be followed either by
 ### [元気でね](元気でね)
 ### [そんな](そんな)～
 ### [ものすごく](ものすごく)
-### [最後に](Vocabulary/最後に.md)
+### [最後に](../Vocabulary/最後に.md)

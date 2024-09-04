@@ -197,68 +197,68 @@ It may also follow な-adjective bases and nouns. でしょう directly follows 
 
 # Vocabulary
 ## Nouns
-### [お腹](Vocabulary/お腹.md)
-### [足](Vocabulary/足.md)
-### [歯](Vocabulary/歯.md)
-### [インフルエンザ](Vocabulary/インフルエンザ.md)
-### [風邪](Vocabulary/風邪.md)
-### [二日酔い](Vocabulary/二日酔い.md)
-### [ホームシック](Vocabulary/ホームシック.md)
-### [アレルギー](Vocabulary/アレルギー.md)
-### [ジュース](Vocabulary/ジュース.md)
-### [卵](Vocabulary/卵.md)
-### [服](Vocabulary/服.md)
-### [もの](Vocabulary/もの.md)
-### [プレゼント](Vocabulary/プレゼント.md)
-### [切符](Vocabulary/切符.md)
-### [代](Vocabulary/代.md)
-### [用事](Vocabulary/用事.md)
-### [お手洗い](Vocabulary/お手洗い.md)
-### [試合](Vocabulary/試合.md)
-### [政治](Vocabulary/政治.md)
-### [成績](Vocabulary/成績.md)
-### [彼女](Vocabulary/彼女.md)
-### [彼](Vocabulary/彼.md)
-### [彼氏](Vocabulary/彼氏.md)
-### [意味](Vocabulary/意味.md)
-### [アレルギー](Vocabulary/アレルギー.md)
-### [切符](Vocabulary/切符.md)
+### [お腹](../Vocabulary/お腹.md)
+### [足](../Vocabulary/足.md)
+### [歯](../Vocabulary/歯.md)
+### [インフルエンザ](../Vocabulary/インフルエンザ.md)
+### [風邪](../Vocabulary/風邪.md)
+### [二日酔い](../Vocabulary/二日酔い.md)
+### [ホームシック](../Vocabulary/ホームシック.md)
+### [アレルギー](../Vocabulary/アレルギー.md)
+### [ジュース](../Vocabulary/ジュース.md)
+### [卵](../Vocabulary/卵.md)
+### [服](../Vocabulary/服.md)
+### [もの](../Vocabulary/もの.md)
+### [プレゼント](../Vocabulary/プレゼント.md)
+### [切符](../Vocabulary/切符.md)
+### [代](../Vocabulary/代.md)
+### [用事](../Vocabulary/用事.md)
+### [お手洗い](../Vocabulary/お手洗い.md)
+### [試合](../Vocabulary/試合.md)
+### [政治](../Vocabulary/政治.md)
+### [成績](../Vocabulary/成績.md)
+### [彼女](../Vocabulary/彼女.md)
+### [彼](../Vocabulary/彼.md)
+### [彼氏](../Vocabulary/彼氏.md)
+### [意味](../Vocabulary/意味.md)
+### [アレルギー](../Vocabulary/アレルギー.md)
+### [切符](../Vocabulary/切符.md)
 ### [代](Vocabulary/Nouns/代)
 
 ## Adverbs
-### [狭い](Vocabulary/狭い.md)
-### [広い](Vocabulary/広い.md)
-### [悪い](Vocabulary/悪い.md)
-### [痛い](Vocabulary/痛い.md)
-### [甘い](Vocabulary/甘い.md)
-### [多い](Vocabulary/多い.md)
-### [素敵](Vocabulary/素敵.md)
-### [それに](Vocabulary/それに.md)
+### [狭い](../Vocabulary/狭い.md)
+### [広い](../Vocabulary/広い.md)
+### [悪い](../Vocabulary/悪い.md)
+### [痛い](../Vocabulary/痛い.md)
+### [甘い](../Vocabulary/甘い.md)
+### [多い](../Vocabulary/多い.md)
+### [素敵](../Vocabulary/素敵.md)
+### [それに](../Vocabulary/それに.md)
 ## Verbs
-### [歩く](Vocabulary/歩く.md)
-### [風邪をひく](Vocabulary/風邪をひく.md)
-### [熱がある](Vocabulary/熱がある.md)
-### [喉が渇く](Vocabulary/喉が渇く.md)
-### [払う](Vocabulary/払う.md)
-### [なくす](Vocabulary/なくす.md)
-### [興味がある](Vocabulary/興味がある.md)
-### [咳が出る](Vocabulary/咳が出る.md)
-### [別れる](Vocabulary/別れる.md)
-### [緊張する](Vocabulary/緊張する.md)
-### [心配する](Vocabulary/心配する.md)
-### [お大事に](Vocabulary/お大事に.md)
-### [元気がない](Vocabulary/元気がない.md)
-### [できるだけ](Vocabulary/できるだけ.md)
-### [多分](Vocabulary/多分.md)
-### [もうすぐ](Vocabulary/もうすぐ.md)
-### [初めて](Vocabulary/初めて.md)
-### [二三日](Vocabulary/二三日.md)
-### [それに](Vocabulary/それに.md)
-### [同じ](Vocabulary/同じ.md)
-### [都合が悪い](Vocabulary/都合が悪い.md)
+### [歩く](../Vocabulary/歩く.md)
+### [風邪をひく](../Vocabulary/風邪をひく.md)
+### [熱がある](../Vocabulary/熱がある.md)
+### [喉が渇く](../Vocabulary/喉が渇く.md)
+### [払う](../Vocabulary/払う.md)
+### [なくす](../Vocabulary/なくす.md)
+### [興味がある](../Vocabulary/興味がある.md)
+### [咳が出る](../Vocabulary/咳が出る.md)
+### [別れる](../Vocabulary/別れる.md)
+### [緊張する](../Vocabulary/緊張する.md)
+### [心配する](../Vocabulary/心配する.md)
+### [お大事に](../Vocabulary/お大事に.md)
+### [元気がない](../Vocabulary/元気がない.md)
+### [できるだけ](../Vocabulary/できるだけ.md)
+### [多分](../Vocabulary/多分.md)
+### [もうすぐ](../Vocabulary/もうすぐ.md)
+### [初めて](../Vocabulary/初めて.md)
+### [二三日](../Vocabulary/二三日.md)
+### [それに](../Vocabulary/それに.md)
+### [同じ](../Vocabulary/同じ.md)
+### [都合が悪い](../Vocabulary/都合が悪い.md)
 
 
-[曇り](Vocabulary/曇り.md)
+[曇り](../Vocabulary/曇り.md)
 
 
 
@@ -269,130 +269,130 @@ It may also follow な-adjective bases and nouns. でしょう directly follows 
 old times
 むかし
 
-### [昔話](Vocabulary/昔話.md)
+### [昔話](../Vocabulary/昔話.md)
 old tale
 むかしばなし
 
-### [大昔](Vocabulary/大昔.md)
+### [大昔](../Vocabulary/大昔.md)
 ancient times
 おおむかし
 
-### [昔々](Vocabulary/昔々.md)
+### [昔々](../Vocabulary/昔々.md)
 once upon a time
 むかしむかし
 
-### [色々](Vocabulary/色々.md)
+### [色々](../Vocabulary/色々.md)
 various
 ないろいろ
 
-### [神さま](Vocabulary/神さま.md)
+### [神さま](../Vocabulary/神さま.md)
 God
 かみさま
 
-### [神道](Vocabulary/神道.md)
+### [神道](../Vocabulary/神道.md)
 Shinto
 しんとう
 
-### [神戸市](Vocabulary/神戸市.md)
+### [神戸市](../Vocabulary/神戸市.md)
 Kobe City
 こうべし
 
-### [早起きする](Vocabulary/早起きする.md)
+### [早起きする](../Vocabulary/早起きする.md)
 to get up early
 はやおきする
 
-### [早朝](Vocabulary/早朝.md)
+### [早朝](../Vocabulary/早朝.md)
 early morning
 そうちょう
 
-### [起こす](Vocabulary/起こす.md)
+### [起こす](../Vocabulary/起こす.md)
 to wake someone up
 おこす
 
-### [再起動](Vocabulary/再起動.md)
+### [再起動](../Vocabulary/再起動.md)
 reboot
 さいきどう
 
-### [牛肉](Vocabulary/牛肉.md)
+### [牛肉](../Vocabulary/牛肉.md)
 beef
 ぎゅうにく
 
-### [子牛](Vocabulary/子牛.md)
+### [子牛](../Vocabulary/子牛.md)
 calf; veal
 こうし
 
-### [大使](Vocabulary/大使.md)
+### [大使](../Vocabulary/大使.md)
 ambassador
 たいし
 
-### [使用中](Vocabulary/使用中.md)
+### [使用中](../Vocabulary/使用中.md)
 "Occupied"
 しようちゅう
 
-### [お使い](Vocabulary/お使い.md)
+### [お使い](../Vocabulary/お使い.md)
 errand
 おつかい
 
-### [連れて帰る](Vocabulary/連れて帰る.md)
+### [連れて帰る](../Vocabulary/連れて帰る.md)
 to bring (a person) back
 つれてかえる
 
-### [国連](Vocabulary/国連.md)
+### [国連](../Vocabulary/国連.md)
 United Nations
 こくれん
 
-### [連休](Vocabulary/連休.md)
+### [連休](../Vocabulary/連休.md)
 consecutive holidays
 れんきゅう
 
-### [別れる](Vocabulary/別れる.md)
+### [別れる](../Vocabulary/別れる.md)
 to separate 
 わかれる
 
-### [特別な](Vocabulary/特別な.md)
+### [特別な](../Vocabulary/特別な.md)
 special
 とくべつな
 
-### [差別](Vocabulary/差別.md)
+### [差別](../Vocabulary/差別.md)
 discrimination
 さべつ
 
-### [別々に](Vocabulary/別々に.md)
+### [別々に](../Vocabulary/別々に.md)
 separately
 べつべつに
 
-### [一度](Vocabulary/一度.md)
+### [一度](../Vocabulary/一度.md)
 once
 いちど
 
-### [態度](Vocabulary/態度.md)
+### [態度](../Vocabulary/態度.md)
 attitude
 たいど
 
-### [赤道](Vocabulary/赤道.md)
+### [赤道](../Vocabulary/赤道.md)
 the equator
 せきどう
 
-### [赤十字](Vocabulary/赤十字.md)
+### [赤十字](../Vocabulary/赤十字.md)
 the Red Cross
 せきじゅうじ
 
-### [青年](Vocabulary/青年.md)
+### [青年](../Vocabulary/青年.md)
 youth
 せいねん
 
-### [青空](Vocabulary/青空.md)
+### [青空](../Vocabulary/青空.md)
 blue sky
 あおぞら
 
-### [青信号](Vocabulary/青信号.md)
+### [青信号](../Vocabulary/青信号.md)
 green light
 あおしんごう
 
-### [景色](Vocabulary/景色.md)
+### [景色](../Vocabulary/景色.md)
 scenery
 けしき
 
-### [特色](Vocabulary/特色.md)
+### [特色](../Vocabulary/特色.md)
 characteristic
 とくしょく
