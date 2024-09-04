@@ -1,0 +1,17 @@
+# Vocabulary 
+
+## [一](Vocabulary/Nouns/一)
+## [ニ](Vocabulary/Nouns/ニ)
+## [三](Vocabulary/Nouns/三)
+## [時](Vocabulary/Nouns/時)
+## [今](Vocabulary/Nouns/今)
+## [すみません](Vocabulary/すみません.md)
+## [空港](Vocabulary/空港.md)
+## [地下鉄](Vocabulary/地下鉄.md)
+## [切符](Vocabulary/切符.md)
+## [地図](Vocabulary/地図.md)
+## [スマホ](Vocabulary/スマホ.md)
+## [パスポート](Vocabulary/パスポート.md)
+## [田中](Vocabulary/田中.md)
+## [山口](Vocabulary/山口.md)
+## [中山](Vocabulary/中山.md)

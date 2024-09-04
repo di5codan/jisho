@@ -1,0 +1,6 @@
+# 七夕
+Tanabata (Japanese: たなばた or 七夕, meaning "Evening of the seventh"), also known as the Star Festival (星祭り, Hoshimatsuri), is a Japanese festival originating from the Chinese Qixi Festival. It celebrates the meeting of the deities Orihime and Hikoboshi (represented by the stars Vega and Altair respectively). According to legend, the Milky Way separates these lovers, and they are allowed to meet only once a year on the seventh day of the seventh lunar month of the lunisolar calendar. The date of Tanabata varies by region of the country, but the first festivities begin on 7 July of the Gregorian calendar. The celebration is held at various days between July and August. 
+
+The festival gained widespread popularity amongst the general public by the early Edo period,  when it became mixed with various Obon or Bon traditions (because Bon was held on 15th of the seventh month then), and developed into the modern Tanabata festival. Popular customs relating to the festival varied by region of the country,  but generally, girls wished for better sewing and craftsmanship, and boys wished for better handwriting by writing wishes on strips of paper. At this time, the custom was to use dew left on taro leaves to create the ink used to write wishes.
+
+https://en.wikipedia.org/wiki/Tanabata

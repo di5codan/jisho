@@ -1,0 +1,1 @@
+![4c](Kanji/kanji-colorize/4c.svg)

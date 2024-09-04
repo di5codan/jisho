@@ -1,0 +1,12 @@
+# Kanji
+## [歳](Vocabulary/歳.md)
+## [阪](Kanji/kanji-dict/阪.md)
+## [外](Vocabulary/外.md)
+## [国](Vocabulary/国.md)
+## [人](Vocabulary/人.md)
+## [留](Kanji/kanji-dict/留.md)
+## [健](Kanji/temp-kanji/健.md)
+## [太](Kanji/kanji-dict/太.md)
+## [直](Kanji/temp-kanji/直.md)
+## [美](Kanji/kanji-dict/美.md)
+## [個](Kanji/temp-kanji/個.md)

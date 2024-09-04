@@ -1,0 +1,3 @@
+Kumadori (隈取) is the stage makeup worn by kabuki actors, mostly when performing kabuki plays in the aragoto style. The term also applies to a painting method in which two brushes are used simultaneously, one for the color and the other used to create shading or other details.
+
+Kumadori makeup generally consists of brightly coloured stripes or patterns over a white foundation, the colours and patterns symbolising aspects of the character. Though kumadori was originated and developed extensively by members of the Ichikawa Danjūrō family of actors, some conventions are creations of the Onoe Kikugorō line. 
