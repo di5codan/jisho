@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "封筒.md",
+                "file": "Vocabulary/封筒.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "封筒.md",
+                "file": "Vocabulary/封筒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "封筒.md",
+                "file": "Vocabulary/封筒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "封筒.md"
+                "file": "Vocabulary/封筒.md"
               }
             }
           }
@@ -175,10 +175,10 @@
   },
   "active": "f63536d105f172ee",
   "lastOpenFiles": [
-    "Kanji/kanji-dict/筒.md",
-    "封筒.md",
-    "Kanji/kanji-dict/封.md",
     "JLPT/N5.md",
+    "Vocabulary/封筒.md",
+    "Kanji/kanji-dict/筒.md",
+    "Kanji/kanji-dict/封.md",
     "交差点.md",
     "Vocabulary/いくつ.md",
     "Vocabulary/薄い.md",
