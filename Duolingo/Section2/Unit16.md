@@ -12,7 +12,7 @@
 ## [左](../../Vocabulary/左.md)
 ## [右](../../Vocabulary/右.md)
 ## [下](../../Vocabulary/下.md)
-## [横](../../Kanji/temp-kanji/横.md)
+## [横](../../Kanji/kanji-dict/横.md)
 ## [隣](../../Vocabulary/隣.md)
 ## [冊](../../Kanji/temp-kanji/冊.md)
 ## [棚](../../Kanji/temp-kanji/棚.md)

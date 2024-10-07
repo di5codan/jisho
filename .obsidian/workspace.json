@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3e70c173a12ab74",
+            "id": "62eb5fa2e53d79c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Genki/Chapter-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f63536d105f172ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "封筒.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b7f8b3473720b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genki/Chapter-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Lose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "封筒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "封筒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "封筒.md"
               }
             }
           }
@@ -148,15 +173,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3e70c173a12ab74",
+  "active": "f63536d105f172ee",
   "lastOpenFiles": [
-    "Kanji/Practice.excalidraw.md",
-    "Music/真夜中のドア.md",
-    "Music/Suzumiya Haruhi Ending Credits.md",
-    "Resources.md",
-    "Places.md",
-    "Nature.md",
-    "Kanken.md",
-    "hi-native.md"
+    "Kanji/kanji-dict/筒.md",
+    "封筒.md",
+    "Kanji/kanji-dict/封.md",
+    "JLPT/N5.md",
+    "交差点.md",
+    "Vocabulary/いくつ.md",
+    "Vocabulary/薄い.md",
+    "Kanji/kanji-dict/薄.md",
+    "字引.md",
+    "Vocabulary/グラム.md",
+    "Vocabulary/上着.md",
+    "Vocabulary/横.md",
+    "Kanji/kanji-dict/横.md",
+    "Vocabulary/生徒.md",
+    "徒.md",
+    "並べる.md",
+    "Vocabulary/大勢.md",
+    "Vocabulary/洋服.md",
+    "Kanji/kanji-dict/洋.md",
+    "Vocabulary/弱い.md",
+    "Kanji/kanji-dict/弱.md",
+    "Vocabulary/二十日.md",
+    "Vocabulary/鳴く.md",
+    "Kanji/kanji-dict/鳴.md",
+    "Vocabulary/厚い.md",
+    "Kanji/kanji-dict/厚.md"
   ]
 }

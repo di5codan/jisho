@@ -144,7 +144,7 @@ Note: The ても clause itself does not have tense. It can be followed either by
 ### [同情する](同情する)
 ### [答える](答える)
 ### [チェックする](チェックする)
-### [カンニングする](カンニングする)
+### [カンニングする](../Vocabulary/カンニングする)
 ### [離れる](離れる)
 ### ～[顔をする](顔をする)
 ### [がっかりする](がっかりする)
@@ -153,7 +153,7 @@ Note: The ても clause itself does not have tense. It can be followed either by
 ### [そうそう](そうそう)
 ### ～[ために](ために)
 ### [そろそろ](そろそろ)
-### [元気でね](元気でね)
+### [元気でね](../Vocabulary/元気でね)
 ### [そんな](そんな)～
 ### [ものすごく](ものすごく)
 ### [最後に](../Vocabulary/最後に.md)

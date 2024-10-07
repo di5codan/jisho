@@ -4,6 +4,8 @@
 
 We use special verbs to describe the actions of people whom you respect.
 
+Note: the る in honorific verbs using しゃる + さる turn into います
+
 |      | Honorific Verbs | Irregular Conjugations |
 | ---- | --------------- | ---------------------- |
 | いる   | ↓               | ↓                      |
@@ -29,13 +31,16 @@ We use honorific verbs when we talk about what is done by somebody higher up in 
 | 先生は十時ごろお休みになるそうです     | I hear that the professor (graciously) goes to bed around 10       | 寝るそうです          |
 | 社長はニュースをご覧になっています     | The president is (graciously) watching the news                    | 見ています           |
 
-In cases in which we lack honorific verbs, we use ～ていらっしゃいます or お+verb stem+になる.
+In cases in which we lack honorific verbs, we use
+
+1: ～ていらっしゃいます 
 
 |                   |           |                                                              |
 | ----------------- | --------- | ------------------------------------------------------------ |
 | 先生は電話で話していらっしゃいます | 話しています    | The professor is (graciously) talking on the phone           |
 | 部長は疲れ地らっしゃるみたいです  | 疲れいるみたいです | It appears that the department manager is (graciously) tired |
 
+2: お+verb stem+になる.
 
 |                     |                                                  |             |
 | ------------------- | ------------------------------------------------ | ----------- |
@@ -101,6 +106,17 @@ You can turn はずです into the past tense to describe something that was sup
 |                            |                                                                |
 | -------------------------- | -------------------------------------------------------------- |
 | 先週電話をもらうはずでしたが、電話がありませんでした | I was supposed to receive a phone call last week, but I didn't |
+
+Rules
+
+|               |            |          |
+| ------------- | ---------- | -------- |
+| Verbs         | short form | 来るはずです   |
+| i adjectives  | -          | 面白いはずです  |
+| na adjectives | add な      | 元気なはずです  |
+| nouns         | add の      | 日本人のはずです |
+TODO add てしまう + はずでした section
+i.e I was supposed to (はずでした), but instead (てしまった)
 
 # Vocabulary
 ## Nouns

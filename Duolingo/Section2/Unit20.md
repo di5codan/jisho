@@ -17,4 +17,4 @@
 ## [雪](../../Vocabulary/雪.md)
 ## [暗](../../Kanji/temp-kanji/暗.md)
 ## [方](../../Kanji/kanji-dict/方.md)
-## [弱](../../Kanji/temp-kanji/弱.md)
+## [弱](../../Kanji/kanji-dict/弱.md)

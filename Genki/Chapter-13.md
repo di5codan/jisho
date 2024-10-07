@@ -142,8 +142,6 @@ Thus in present tense sentences,  だ appears with な-adjectives and nouns, but
 | noun + です    | 学生だし |
 
 ## 3. ~そうです
-rough equivalent of "looks like (someone or something) is going to"
-
 When そうです is added to い and な adjective bases, it indicates that something "seemingly" has those properties
 
 ~そうです is a guess of what something is like on the basis of one's own impressions.

@@ -1,5 +1,5 @@
 # Grammar
-## 1. てくれ/てあげる/てまらう
+## 1. てくれる/てあげる/てもらう
 
 The verbs くれる、あげる、and もらう descirbe transactions of things. When these verbs follow the te-form fo a verb, they describe the giving and receiving of services.
 

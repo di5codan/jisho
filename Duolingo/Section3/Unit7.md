@@ -4,7 +4,7 @@
 [教](../../Kanji/kanji-dict/教.md)
 [科](../../Kanji/kanji-dict/科.md)
 [難](../../Kanji/kanji-dict/難.md)
-[易](../../Vocabulary/易.md)
+[易](../../Kanji/kanji-dict/易.md)
 [漢](../../Kanji/kanji-dict/漢.md)
 [字](../../Kanji/kanji-dict/字.md)
 [葉](../../Kanji/temp-kanji/葉.md)
