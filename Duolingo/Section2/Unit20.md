@@ -3,7 +3,7 @@
 ## [園](../../Kanji/kanji-dict/園.md)
 ## [緒](../../Kanji/kanji-dict/緒.md)
 ## [館](../../Kanji/kanji-dict/館.md)
-## [再](../../Kanji/temp-kanji/再.md)
+## [再](../../Kanji/kanji-dict/再.md)
 ## [練](../../Kanji/kanji-dict/練.md)
 ## [習](../../Kanji/kanji-dict/習.md)
 ## [料](../../Kanji/kanji-dict/料.md)

@@ -210,19 +210,6 @@ When you want to say you don’t want them to do something, you can negate ほ�
 | 私は日本人の友達に英語で話さないでほしいです | I don't want my Japanese friends to speak in English    |
 
 
-## ～のに
-
-のに connects two facts, A and B, which hold in spite of the expectation that if A is the case, B is not the case. “AのにB,” therefore means “A, but contrary to expectations B, too” or “B, despite the fact A.”
-
-このかいしゃはおかねがあるのに、きゅうりょうはひくいです。
-
-This company is rich, but it’s workers’ salaries are low.
-
-The predicate in the part A is in the short form. When A ends with a な-adjective or with a noun+です, it appears as な, just like in teh exlanatory んです construction.
-
-たなかさんはしんせつなのに、やまださんはたなかさんがきらいです。
-
-Ms. Tanaka is nice, but Ms. Yamada does not like her.
 
 # Vocabulary
 ## Nouns

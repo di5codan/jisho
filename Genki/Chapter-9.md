@@ -221,7 +221,7 @@ explanation から, situation.
 ### [一つ](../Vocabulary/Counters/一つ.md)
 ### [二つ](../Vocabulary/Counters/二つ.md)
 ### [三つ](../Vocabulary/Counters/三つ.md)
-### [四つ](四つ)
+### [四つ](../Vocabulary/四つ.md)
 ### [五つ](../Vocabulary/Counters/五つ.md)
 ### [六つ](../Vocabulary/Counters/六つ.md)
 ### [七つ](../Vocabulary/Counters/七つ.md)
@@ -241,7 +241,7 @@ explanation から, situation.
 | [一つ](../Vocabulary/Counters/一つ.md) | １つ  | ひとつ  |
 | [二つ](../Vocabulary/Counters/二つ.md) | ２つ  | につ   |
 | [三つ](../Vocabulary/Counters/三つ.md) | ３つ  | みっつ  |
-| [四つ](四つ) | ４つ  | よっつ  |
+| [四つ](../Vocabulary/四つ.md) | ４つ  | よっつ  |
 | [五つ](../Vocabulary/Counters/五つ.md) | ５つ  | いつつ  |
 | [六つ](../Vocabulary/Counters/六つ.md) | ６つ  | むっつ  |
 | [七つ](../Vocabulary/Counters/七つ.md) | ７つ  | ななつ  |

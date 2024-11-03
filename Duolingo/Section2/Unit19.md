@@ -16,7 +16,7 @@
 ## [遅](../../Kanji/kanji-dict/遅.md)
 ## [白](../../Kanji/kanji-dict/白.md)
 ## [赤](../../Kanji/kanji-dict/赤.md)
-## [黄](../../Kanji/temp-kanji/黄.md)
+## [黄](../../Kanji/kanji-dict/黄.md)
 ## [色](../../Vocabulary/色.md)
 ## [靴](../../Vocabulary/靴.md)
 ## [青](../../Kanji/kanji-dict/青.md)

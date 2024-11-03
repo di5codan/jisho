@@ -306,8 +306,90 @@ https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/particle-w
 ### [ええ](../Vocabulary/ええ.md)
 
 
+## Kanji Vocab
+[一](../Vocabulary/一.md)
+[一時](../Vocabulary/一時.md)
+[一年生](../Vocabulary/一年生.md)
+[一分](../Vocabulary/一分.md)
+[一つ](../Vocabulary/Counters/一つ.md)
+[一月](../Vocabulary/一月.md)
+
+[二](../Vocabulary/二.md)
+[二時](../Vocabulary/二時.md)
+[二年生](../Vocabulary/二年生.md)
+[二つ](../Vocabulary/Counters/二つ.md)
+[二日間](../Vocabulary/二日間.md)
+[二月](../Vocabulary/二月.md)
+
+[三](../Vocabulary/三.md)
+[三時](../Vocabulary/三時.md)
+[三年生](../Vocabulary/三年生.md)
+[三月](../Vocabulary/三月.md)
+[三つ](../Vocabulary/Counters/三つ.md)
+
+[四](../Vocabulary/四.md)
+[四時](../Vocabulary/四時.md)
+[四年生](../Vocabulary/四年生.md)
+[四月](../Vocabulary/四月.md)
+[四つ](../Vocabulary/四つ.md)
+
+[五](../Vocabulary/五.md)
+[五時](../Vocabulary/五時.md)
+[五月](../Vocabulary/五月.md)
+[五歳](../Vocabulary/五歳.md)
+[五つ](../Vocabulary/Counters/五つ.md)
+
+[六](../Vocabulary/六.md)
+[六時](../Vocabulary/六時.md)
+[六百](../Vocabulary/六百.md)
+[六分](../Vocabulary/六分.md)
+[六つ](../Vocabulary/Counters/六つ.md)
+
+[七](../Vocabulary/七.md)
+[七時](../Vocabulary/七時.md)
+[七月](../Vocabulary/七月.md)
+[七つ](../Vocabulary/Counters/七つ.md)
+[七人](../Vocabulary/七人.md)
+
+[八](../Vocabulary/八.md)
+[八時](../Vocabulary/八時.md)
+[八百](../Vocabulary/八百.md)
+[八歳](../Vocabulary/八歳.md)
+[八つ](../Vocabulary/Counters/八つ.md)
+
+[九](../Vocabulary/九.md)
+[九時](../Vocabulary/九時.md)
+[九月](../Vocabulary/九月.md)
+[九歳](../Vocabulary/九歳.md)
+[九つ](../Vocabulary/Counters/九つ.md)
+
+[十](../Vocabulary/十.md)
+[十時](../Vocabulary/十時.md)
+[十月](../Vocabulary/十月.md)
+[十歳](../Vocabulary/十歳.md)
+
+[百](../Vocabulary/百.md)
+[三百](../Vocabulary/三百.md)
+[六百](../Vocabulary/六百.md)
+[八百](../Vocabulary/八百.md)
+
+[千](../Vocabulary/千.md)
+[三千](../Vocabulary/三千.md)
+[八千](../Vocabulary/八千.md)
+[千円](../Vocabulary/千円.md)
 
 
+[一万](../Vocabulary/一万.md)
+[十万](../Vocabulary/十万.md)
+[百万](../Vocabulary/百万.md)
+[百円](../百円.md)
+[円](../Vocabulary/円.md)
+[[円高]]
+[円い](../円い.md)
+[一時](../Vocabulary/一時.md)
+[時間](../Vocabulary/時間.md)
+[時々](../Vocabulary/時々.md)
+[時計](../Vocabulary/時計.md)
 # Learning Resources
 https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/
 

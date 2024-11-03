@@ -13,7 +13,7 @@
 ## [週](../../Kanji/kanji-dict/週.md)
 ## [末](../../Kanji/kanji-dict/末.md)
 ## [洗](../../Kanji/kanji-dict/洗.md)
-## [濯](../../Kanji/temp-kanji/濯.md)
+## [濯](../../Kanji/kanji-dict/濯.md)
 ## [掃](../../Kanji/temp-kanji/掃.md)
 ## [除](../../Kanji/temp-kanji/除.md)
 ## [電](../../Kanji/kanji-dict/電.md)

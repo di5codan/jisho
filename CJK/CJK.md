@@ -98,7 +98,7 @@ e.g. book, film, composition, etc.
 ### 利用 【이용 iyong】
 
 ## Effect
-### [効果](効果) 【こうか kouka】
+### [効果](../Vocabulary/効果.md) 【こうか kouka】
 ### 效果 【xiàoguǒ】
 ### 效果 【효과 hyogwa】
 

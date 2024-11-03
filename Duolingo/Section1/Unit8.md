@@ -32,7 +32,7 @@ Tie
 ## [いくら](../../Vocabulary/いくら.md)
 How much 
 
-## [Vocabulary/Nouns/千](Vocabulary/Nouns/千)
+## [../../Vocabulary/千](../../Vocabulary/千.md)
 Thousand
 せん
 

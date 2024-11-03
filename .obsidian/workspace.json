@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62eb5fa2e53d79c7",
+            "id": "2b7f8b3473720b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genki/Chapter-3.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter-3"
+            }
+          },
+          {
+            "id": "ccd8444eef682d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genki/Chapter-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter-22"
+            }
+          },
+          {
+            "id": "93434b4f50b6b85e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,35 +44,12 @@
                 "file": "Genki/Chapter-21.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f63536d105f172ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/封筒.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b7f8b3473720b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genki/Chapter-18.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter-21"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -73,13 +80,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lose",
+                "query": "雑誌",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,15 +96,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32d09945b000a13f",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/封筒.md",
+                "file": "Genki/Chapter-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter-22"
             }
           },
           {
@@ -128,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/封筒.md",
+                "file": "Genki/Chapter-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter-22"
             }
           },
           {
@@ -142,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -151,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/封筒.md"
-              }
+                "file": "Genki/Chapter-22.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter-22"
             }
           }
         ]
@@ -173,33 +192,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f63536d105f172ee",
+  "active": "2b7f8b3473720b07",
   "lastOpenFiles": [
-    "JLPT/N5.md",
-    "Vocabulary/封筒.md",
-    "Kanji/kanji-dict/筒.md",
-    "Kanji/kanji-dict/封.md",
-    "交差点.md",
-    "Vocabulary/いくつ.md",
-    "Vocabulary/薄い.md",
-    "Kanji/kanji-dict/薄.md",
-    "字引.md",
-    "Vocabulary/グラム.md",
-    "Vocabulary/上着.md",
-    "Vocabulary/横.md",
-    "Kanji/kanji-dict/横.md",
-    "Vocabulary/生徒.md",
-    "徒.md",
-    "並べる.md",
-    "Vocabulary/大勢.md",
-    "Vocabulary/洋服.md",
-    "Kanji/kanji-dict/洋.md",
-    "Vocabulary/弱い.md",
-    "Kanji/kanji-dict/弱.md",
-    "Vocabulary/二十日.md",
-    "Vocabulary/鳴く.md",
-    "Kanji/kanji-dict/鳴.md",
-    "Vocabulary/厚い.md",
-    "Kanji/kanji-dict/厚.md"
+    "Genki/Chapter-23.md",
+    "Kanji/kanji-dict/別.md",
+    "Kanji/kanji-dict/刀.md",
+    "Vocabulary/別荘.md",
+    "Genki/Chapter-22.md",
+    "Genki/Chapter-21.md",
+    "Anime/subtitle-sync.md",
+    "Tobiara/第3課.md",
+    "Vocabulary/合格.md",
+    "Kanji/kanji-dict/格.md",
+    "Vocabulary/載る.md",
+    "Kanji/kanji-dict/載.md",
+    "Vocabulary/効果.md",
+    "Kanji/kanji-dict/効.md",
+    "Vocabulary/お祝い.md",
+    "Kanji/kanji-dict/祝.md",
+    "Vocabulary/手術.md",
+    "Kanji/kanji-dict/術.md",
+    "Vocabulary/理解.md",
+    "Kanji/kanji-dict/解.md",
+    "Tobiara/第1課.md",
+    "Vocabulary/大陸.md",
+    "Kanji/kanji-dict/陸.md",
+    "Vocabulary/田舎.md",
+    "Kanji/kanji-dict/門.md",
+    "Vocabulary/専門.md",
+    "Vocabulary/Nouns",
+    "v"
   ]
 }
