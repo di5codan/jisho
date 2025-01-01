@@ -1,5 +1,5 @@
 
-## [階](../../Kanji/temp-kanji/階.md)
+## [階](../../Kanji/kanji-dict/階.md)
 
 ## [書](../../Kanji/kanji-dict/書.md)
 

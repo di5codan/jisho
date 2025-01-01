@@ -176,7 +176,7 @@ verb A + てから verb B : A, and then B. / B after A.
 ### [ひげ](../Vocabulary/ひげ.md)
 ### [ブーツ](../Vocabulary/ブーツ.md)
 ### [残業](../Vocabulary/残業.md)
-### [紙](../Kanji/temp-kanji/紙.md)
+### [紙](../Kanji/kanji-dict/紙.md)
 ### [給料](../Vocabulary/給料.md)
 ### [コンタクト](../Vocabulary/コンタクト.md)（レンズ）
 ### [首相](../Vocabulary/首相.md)

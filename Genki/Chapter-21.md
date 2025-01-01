@@ -277,7 +277,7 @@ When you want to say you don’t want them to do something, you can negate ほ�
 ### [昼寝をする](../Vocabulary/昼寝をする.md)
 ### [間違える](../Vocabulary/間違える.md)
 ### [いじめる](../Vocabulary/いじめる.md)
-### [比べる](比べる)
+### [比べる](../Vocabulary/比べる.md)
 ### [ほめる](../Vocabulary/ほめる.md)
 ### [びっくり](../Vocabulary/びっくり.md)
 

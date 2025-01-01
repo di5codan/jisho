@@ -7,7 +7,7 @@
 [易](../../Kanji/kanji-dict/易.md)
 [漢](../../Kanji/kanji-dict/漢.md)
 [字](../../Kanji/kanji-dict/字.md)
-[葉](../../Kanji/temp-kanji/葉.md)
+[葉](../../Kanji/kanji-dict/葉.md)
 [意](../../Kanji/kanji-dict/意.md)
 [味](../../Kanji/kanji-dict/味.md)
 [辞](../../Kanji/kanji-dict/辞.md)

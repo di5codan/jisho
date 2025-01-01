@@ -9,7 +9,7 @@
 ## [蔵](../../Kanji/temp-kanji/蔵.md)
 ## [庫](../../Kanji/temp-kanji/庫.md)
 ## [鏡](../../Kanji/kanji-dict/鏡.md)
-## [平](../../Kanji/temp-kanji/平.md)
+## [平](../../Kanji/kanji-dict/平.md)
 ## [週](../../Kanji/kanji-dict/週.md)
 ## [末](../../Kanji/kanji-dict/末.md)
 ## [洗](../../Kanji/kanji-dict/洗.md)

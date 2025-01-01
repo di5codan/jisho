@@ -1,5 +1,5 @@
 
-寿限無
+[寿](../Kanji/kanji-dict/寿.md)[限](../Kanji/kanji-dict/限.md)[無](../Kanji/kanji-dict/無.md)
 じゅげむ　
 
 寿限無
@@ -38,3 +38,7 @@
 
 長久命の長助
 ちょうきゅうめいのちょうすけ
+
+
+---
+# Kanji

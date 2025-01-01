@@ -185,6 +185,7 @@ https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/mashoka-ge
 ### [連れてくる](../Vocabulary/連れてくる.md)
 ## [結構](../Vocabulary/結構.md)
 
+## [降りる](../降りる.md)
 
 ## Kanji Practice
 

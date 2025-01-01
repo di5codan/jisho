@@ -153,7 +153,7 @@ Qualifier sentences in these examples tell us what kind of book we are talking a
 ### [ペット](../Vocabulary/ペット.md)
 ### [地震](../Vocabulary/地震.md)
 ### [ジャケット](../Vocabulary/ジャケット.md)
-### [絵](../Nouns/絵.md)
+### [絵](../Vocabulary/絵.md)
 ### [インターネット](../Vocabulary/インターネット.md)
 ### [外国人](../Vocabulary/外国人.md)
 ### [電池](../Vocabulary/電池.md)

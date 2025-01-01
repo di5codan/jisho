@@ -150,6 +150,21 @@ Loose idea:
 ば: absolutely an if then relationship, i.e first must/will be fulfilled  (must be favorable outcome)
 ても
 
+Clause A ば (-ba) Clause B - then ば (-ba) would be “as long as” making the condition the focus of the sentence.
+
+|                                                   |
+| ------------------------------------------------- |
+| 今すぐ行けば、間に合うだろう。(Ima sugu ikeba, ma ni au darō.)   |
+| 今すぐ行ったら、間に合うだろう。(Ima sugu ittara, ma ni au darō.) |
+
+Both of these sentences mean “If you go right now, you would make it on time.” As Clause B can only happen if Clause A occurs, たら (-tara) is alright. 
+
+However, if the focus of your sentence is the condition, “if you go right now,” then it would be more natural to use ば (-ba).
+
+There’s a difference in nuance, but in many cases, you can use both ば (-ba) and たら (-tara) to mean “if.” But, there is a case where you can use only たら (-tara).
+
+If Clause B is an order, recommendation, request, prohibition, wish or volition, only たら (-tara) can be used.
+
 ## 3. ～ことにする
 
 ことにする means “decide to do ….” It follows the short form present tense of a verb. The verb can be negated.

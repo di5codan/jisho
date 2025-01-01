@@ -22,7 +22,7 @@ https://808cjk.com/
 ### 世界 【세계 segye】
 
 
-### [以上](以上) 【いじょう ijou】
+### [以上](../Vocabulary/以上.md) 【いじょう ijou】
 ### 以上 【yǐshàng】
 ### 以上 【이상 isang】
 
@@ -43,7 +43,7 @@ e.g. book, film, composition, etc.
 ### 作品 【작품 jakpum】
 
 ## Necessary
-### [必要](必要) 【ひつよう hitsuyou】
+### [必要](../Vocabulary/必要.md) 【ひつよう hitsuyou】
 ### 必要 【bìyào】
 ### 必要 【필요 piryo】
 
@@ -103,7 +103,7 @@ e.g. book, film, composition, etc.
 ### 效果 【효과 hyogwa】
 
 ## Portion, Section, Part
-### [部分](部分) 【ぶぶん bubun】
+### [部分](../Vocabulary/部分.md) 【ぶぶん bubun】
 ### 部分 【bùfen】
 ### 部分 【부분 bubun】
 
@@ -123,7 +123,7 @@ e.g. book, film, composition, etc.
 ### 情報 【정보 jeongbo】
 
 
-### [特別](特別) 【とくべつ tokubetsu】
+### [特別](../Vocabulary/特別.md) 【とくべつ tokubetsu】
 ### 特别 【tèbié】
 ### 特別 【특별 teukbyeol】
 

@@ -4,6 +4,22 @@
 # Genki Online Exercices
 https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/
 
+
+
+## To Review
+0-3: easy
+4-9: lil bit
+10-12: lil bit+
+
+13-14: lil bit+
+
+15: lil bit++
+
+
+
+
+---
+
 ## To Review
 ### Lesson 0 
 [Katakana: Additional Combos](https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/lesson-0/katakana-4/)

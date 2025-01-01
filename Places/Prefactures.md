@@ -1,4 +1,4 @@
-# [奈](奈)[良](../Kanji/kanji-dict/良.md)[県](../Kanji/temp-kanji/県.md)
+# [奈](奈)[良](../Kanji/kanji-dict/良.md)[県](../Kanji/kanji-dict/県.md)
 Nara 
 
 Where you can feed the deers

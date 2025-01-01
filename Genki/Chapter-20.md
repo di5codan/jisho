@@ -299,7 +299,7 @@ Note that 〜やすい/〜にくい tend to focus on the psychological ease/diff
 ### [また](また)
 ### [誠に](../Vocabulary/誠に.md)
 ### [失礼しました](../Vocabulary/失礼しました.md)
-### ～[階](../Kanji/temp-kanji/階.md)
+### ～[階](../Kanji/kanji-dict/階.md)
 ### [できれば](../Vocabulary/できれば.md)
 ### [それでは](../Vocabulary/それでは.md)
 ### [さあ](../Vocabulary/さあ.md)

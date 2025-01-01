@@ -5,7 +5,7 @@
 ## [勉](../../Kanji/kanji-dict/勉.md)
 ## [強](../../Kanji/kanji-dict/強.md)
 ## [友](../../Kanji/kanji-dict/友.md)
-## [達](../../Kanji/temp-kanji/達.md)
+## [達](../../Kanji/kanji-dict/達.md)
 ## [明](../../Kanji/kanji-dict/明.md)
 ## [忙](../../Kanji/kanji-dict/忙.md)
 ## [上](../../Vocabulary/上.md)
