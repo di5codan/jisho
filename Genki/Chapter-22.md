@@ -142,7 +142,7 @@ To describe an action which is "done in the same way as A", or a characteristic 
 ### [[風]]
 ### [お嬢さん](../Vocabulary/お嬢さん.md)
 ### [神様](../Vocabulary/神様.md)
-### [受付](受付)
+### [受付](../Vocabulary/受付.md)
 ### [無駄遣い](../Vocabulary/無駄遣い.md)
 ### [ヨーロッパ](../Vocabulary/ヨーロッパ.md)
 ### [先輩](../Vocabulary/先輩.md)
@@ -174,7 +174,7 @@ To describe an action which is "done in the same way as A", or a characteristic 
 ## Ru-verbs and Irregular Verbs
 ### [徹夜する](徹夜する)
 ### [負ける](負ける)
-### [お願いする](お願いする)
+### [お願いする](../Vocabulary/お願いする.md)
 ### [計画を立てる](../Vocabulary/計画を立てる.md)
 ### [受ける](../Vocabulary/受ける.md)
 ### [失敗する](../Vocabulary/失敗する.md)

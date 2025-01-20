@@ -246,7 +246,7 @@ Note that 〜やすい/〜にくい tend to focus on the psychological ease/diff
 ### [係の者](../Vocabulary/係の者.md)
 ### [アニメ](../Vocabulary/アニメ.md)
 ### [扇子](../Vocabulary/扇子.md)
-### [動物](動物)
+### [動物](../Vocabulary/動物.md)
 ### [月](../Vocabulary/月.md)
 ### [あちら](../Vocabulary/あちら.md)
 ### [宇宙人](../Vocabulary/宇宙人.md)

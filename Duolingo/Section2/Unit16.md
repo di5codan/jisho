@@ -1,5 +1,5 @@
 # Kanji
-## [仕](../../Kanji/temp-kanji/仕.md)
+## [仕](../../Kanji/kanji-dict/仕.md)
 ## [事](../../Vocabulary/事.md)
 ## [昨](../../Kanji/kanji-dict/昨.md)
 ## [勉](../../Kanji/kanji-dict/勉.md)

@@ -32,7 +32,7 @@ https://808cjk.com/
 ### 商品 【상품 sangpum】
 
 ## Era
-### [時代](時代) 【じだい jidai】
+### [時代](../Vocabulary/時代.md) 【じだい jidai】
 ### 时代 【shídài】
 ### 時代 【시대 sidae】
 
@@ -68,7 +68,7 @@ e.g. book, film, composition, etc.
 ### 生活 【생활 saenghwal】
 
 ## Problem
-### [問題](問題) 【もんだい mondai】
+### [問題](../Vocabulary/問題.md) 【もんだい mondai】
 ### 问题 【wèntí】
 ### 問題 【문제 munje】
 
@@ -78,7 +78,7 @@ e.g. book, film, composition, etc.
 ### 可能 【가능 ganeung】
 
 ## Relation
-### [関係](関係) 【かんけい kankei】
+### [関係](../Vocabulary/関係.md) 【かんけい kankei】
 ### 关系 【guānxi】
 ### 關係 【관계 gwangye】
 
@@ -138,7 +138,7 @@ e.g. book, film, composition, etc.
 ### 文化 【문화 munhwa】
 
 
-### [技術](技術) 【ぎじゅつ gijutsu】
+### [技術](../Vocabulary/技術.md) 【ぎじゅつ gijutsu】
 ### 技术 【jìshù】
 ### 技術 【기술 gisul】
 
@@ -1054,7 +1054,7 @@ e.g. book, film, composition, etc.
 ### 公開 【공개 gonggae】
 
 
-### [事故](事故) 【じこ jiko】
+### [事故](../Vocabulary/事故.md) 【じこ jiko】
 ### 事故 【shìgù】
 ### 事故 【사고 sago】
 
@@ -1079,7 +1079,7 @@ e.g. book, film, composition, etc.
 ### 移動 【이동 idong】
 
 
-### [動物](動物) 【どうぶつ doubutsu】
+### [動物](../Vocabulary/動物.md) 【どうぶつ doubutsu】
 ### 动物 【dòngwù】
 ### 動物 【동물 dongmul】
 
@@ -1114,7 +1114,7 @@ e.g. book, film, composition, etc.
 ### 數字 【숫자 sutja】
 
 
-### [工業](工業) 【こうぎょう kougyou】
+### [工業](../Vocabulary/工業.md) 【こうぎょう kougyou】
 ### 工业 【gōngyè】
 ### 工業 【공업 gongeop】
 
@@ -1150,7 +1150,7 @@ e.g. book, film, composition, etc.
 ### 理想 【이상 isang】
 
 ## Opportunity
-### [機会](機会) 【きかい kikai】
+### [機会](../Vocabulary/機会.md) 【きかい kikai】
 ### 机会 【jīhuì】
 ### 機會 【기회 gihoe】
 

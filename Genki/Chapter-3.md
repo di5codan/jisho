@@ -385,7 +385,7 @@ https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/particle-w
 [百円](../百円.md)
 [円](../Vocabulary/円.md)
 [[円高]]
-[円い](../円い.md)
+[円い](../Vocabulary/円い.md)
 [一時](../Vocabulary/一時.md)
 [時間](../Vocabulary/時間.md)
 [時々](../Vocabulary/時々.md)
