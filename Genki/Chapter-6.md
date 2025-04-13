@@ -187,149 +187,44 @@ https://wp.stolaf.edu/japanese/grammar-index/genki-i-ii-grammar-index/mashoka-ge
 
 ## [降りる](../降りる.md)
 
-## Kanji Practice
+## Kanji Vocabulary
+[東](../Vocabulary/東.md)
+[東口](../Vocabulary/東口.md)
+[東洋](../Vocabulary/東洋.md)
+[西](../Vocabulary/西.md)
+[西口](../Vocabulary/西口.md)
+[北西](../Vocabulary/北西.md)
+[西洋](../Vocabulary/西洋.md)
+[南](../Vocabulary/南.md)
+[南口](../Vocabulary/南口.md)
+[南東](../Vocabulary/南東.md)
+[南極](../Vocabulary/南極.md)
+[東南アジア](../Vocabulary/東南アジア.md)
 
-### [東口](../Vocabulary/東口.md)
-east exit 
-ひがしぐち
+[北](../Vocabulary/北.md)
+[北口](../Vocabulary/北口.md)
+[北極](../Vocabulary/北極.md)
+[人口](../Vocabulary/人口.md)
+[入り口](../Vocabulary/入り口.md)
+[出口](../Vocabulary/出口.md)
+[出席](../Vocabulary/出席.md)
+[輸出](../Vocabulary/輸出.md)
+[輸入](../Vocabulary/輸入.md)
 
-### [関東](../Vocabulary/関東.md)
-Kanto area 
-かんとう
+[右折](../Vocabulary/右折.md)
+[左右](../Vocabulary/左右.md)
+[右手](../Vocabulary/右手.md)
+[右側](../Vocabulary/右側.md)
+[左折](../Vocabulary/左折.md)
+[左手](../Vocabulary/左手.md)
+[左利き](../Vocabulary/左利き.md)
+[分ける](../Vocabulary/分ける.md)
 
-### [東洋](../Vocabulary/東洋.md)
-the East  
-とうよう
+[先に](../Vocabulary/先に.md)
+[一生に一度](../Vocabulary/一生に一度.md)
+[大使館](../Vocabulary/大使館.md)
 
-### [西口](../Vocabulary/西口.md)
-west exit 
-にしぐち
-
-### [北西](../Vocabulary/北西.md)
-northwest 
-ほくせい
- 
-### [関西](../Vocabulary/関西.md)
-Kansai area
-かんさい
-
-### [西洋](../Vocabulary/西洋.md)
-the West 
-せいよう
-
-### [南口](../Vocabulary/南口.md)
-south exit 
-みなみぐち
- 
-### [南東](../Vocabulary/南東.md)
-southeast
-なんとう
-
-### [南極](../Vocabulary/南極.md)
-Antarctica  
-なんきょく
-
-### [東南](../Vocabulary/東南.md)
-Southeast Asia  
-アジアとうなんアジア
-
-### [北口](../Vocabulary/北口.md)
-north exit  
-きたぐち
-
-### [東北](../Vocabulary/東北.md)
-Tohoku area  
-とうほく
-
-### [北極](../Vocabulary/北極.md)
-North Pole  
-ほっきょく
-
-### [北海道](../Vocabulary/北海道.md)
- 
-### [人口](../Vocabulary/人口.md)
-population 
-じんこう
-
-### [出す](../Vocabulary/出す.md)
-to take something out  
-だす
-
-### [出席](../Vocabulary/出席.md)
-attendance  
-しゅっせき
-  
-### [輸出](../Vocabulary/輸出.md)
-export
-ゆしゅつ
- 
-### [右折](../Vocabulary/右折.md)
-right turn 
-うせつ
-
-### [左右](../Vocabulary/左右.md)
-right and left  
-さゆう
-
-### [右手](../Vocabulary/右手.md)
-right hand 
-みぎて
-
-### [右側](../Vocabulary/右側.md)
-right side 
-みぎがわ
-
-### [左折](../Vocabulary/左折.md)
-left turn 
-させつ
-
-### [左手](../Vocabulary/左手.md)
-left hand 
-ひだりて
-
-### [左利](../Vocabulary/左利.md)
-left-handed 
-きひだりきき
-  
-### [自分](../Vocabulary/自分.md)
-oneself
-じぶん
-
-### [分ける](../Vocabulary/分ける.md)
-to divide  
-わける
-  
-### [先に](../Vocabulary/先に.md)
-ahead
-さきに
-
-### [先輩](../Vocabulary/先輩.md)
-senior member  
-せんぱい
-
-### [生まれる](../Vocabulary/生まれる.md)
-to be born  
-うまれる
-
-### [一生に一度](../Vocabulary/一生に一度.md)
-once in a life time  
-いっしょうにいちど
-
-
-### [大人](../Vocabulary/大人.md) 
-
-### [大使館](../Vocabulary/大使館.md)
-embassy
-たいしかん
-
-### [学ぶ](../Vocabulary/学ぶ.md)
-to study  
-まなぶ
-
-### [学部](../Vocabulary/学部.md)
-department; faculty  
-がくぶ
-  
-### [海外](../Vocabulary/海外.md)
-overseas
-かいがい
+[学ぶ](../Vocabulary/学ぶ.md)
+[学部](../Vocabulary/学部.md)
+[海外](../Vocabulary/海外.md)
+[国会](../Vocabulary/国会.md)

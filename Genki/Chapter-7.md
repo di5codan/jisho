@@ -239,87 +239,18 @@ short hair/tall
 | 9人  | 九人  | nine...     |
 | 10人 | 十人  | ten...      |
 
-## Kanji words  
-### [京子](../Vocabulary/京子.md)
-Kyoko
-きょうこ
+## Kanji Vocab  
+[京子](../Vocabulary/京子.md)
+[上京する](../Vocabulary/上京する.md)
+[女子学生](../Vocabulary/女子学生.md)
 
-### [上京する](../Vocabulary/上京する.md)
-to go to the capital  
-じょうきょうする
+[教会](../Vocabulary/教会.md)
+[入社](../Vocabulary/入社.md)
+[[父母]]
+[[祖父]]
 
-### [女子学生](../Vocabulary/女子学生.md)
-femae student  
-じょしがくせい
+[母語](../Vocabulary/母語.md)
+[祖母](../Vocabulary/祖母.md)
 
-### [小学校](../Vocabulary/小学校.md)
-elementary school  
-しょうがっこう
-
-### [小学生](../Vocabulary/小学生.md)
-elementary school student  
-しょうがくせい
-  
-### [会議](../Vocabulary/会議.md)
-meeting
-かいぎ
-  
-### [教会](../Vocabulary/教会.md)
-church
-きょうかい
-  
-### [社会](../Vocabulary/社会.md)
-society
-しゃかい
-
-### [入社](../Vocabulary/入社.md)
-entry to a company  
-にゅうしゃ
-
-### [母語](../Vocabulary/母語.md)
-mother tongue 
-ぼご
-  
-### [祖母](../Vocabulary/祖母.md)
-grandmother
-そぼ
-
-### [最高](../Vocabulary/最高.md)
-the best  
-さいこう
-
-### [中学校](../Vocabulary/中学校.md)
-junior high school 
-ちゅうがっこう
-
-### [敬語](../Vocabulary/敬語.md)
-honorific expressions  
-けいご
-
-### [文字](../Vocabulary/文字.md)
-letter; character 
-もじ
-
-### [文化](../Vocabulary/文化.md)
-culture 
-ぶんか
-  
-### [文法](../Vocabulary/文法.md)
-grammar
-ぶんぽう
-
-### [帰国](../Vocabulary/帰国.md)
-returning to one's country 
-きこく
-
-### [帰宅](../Vocabulary/帰宅.md)
-returning home 
-きたく
-
-### [入れる](../Vocabulary/入れる.md)
-to put something in 
-いれる
-  
-### [輸入](../Vocabulary/輸入.md)
-import
-ゆにゅう
+[帰国](../Vocabulary/帰国.md)
+[帰宅](../Vocabulary/帰宅.md)

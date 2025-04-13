@@ -242,7 +242,7 @@ Note that 〜やすい/〜にくい tend to focus on the psychological ease/diff
 ### [スニーカー](スニーカー)
 ### [小説](../Vocabulary/小説.md)
 ### [趣味](../Vocabulary/趣味.md)
-### [おにぎり](おにぎり)
+### [おにぎり](../Vocabulary/おにぎり.md)
 ### [係の者](../Vocabulary/係の者.md)
 ### [アニメ](../Vocabulary/アニメ.md)
 ### [扇子](../Vocabulary/扇子.md)

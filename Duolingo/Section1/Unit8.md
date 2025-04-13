@@ -40,7 +40,7 @@ Thousand
 Shop
 みせ
 
-## [黒](../../Kanji/temp-kanji/黒.md)い
+## [黒](../../Kanji/kanji-dict/黒.md)い
 Black
 くろい
 

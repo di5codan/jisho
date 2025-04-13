@@ -7,6 +7,6 @@
 ## [留](../../Kanji/kanji-dict/留.md)
 ## [健](../../Kanji/kanji-dict/健.md)
 ## [太](../../Kanji/kanji-dict/太.md)
-## [直](../../Kanji/temp-kanji/直.md)
+## [直](../../Kanji/kanji-dict/直.md)
 ## [美](../../Kanji/kanji-dict/美.md)
-## [個](../../Kanji/temp-kanji/個.md)
+## [個](../../Kanji/kanji-dict/個.md)

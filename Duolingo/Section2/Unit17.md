@@ -3,7 +3,7 @@
 ## [団](../../Kanji/temp-kanji/団.md)
 ## [隅](../../Kanji/temp-kanji/隅.md)
 ## [長](../../Kanji/kanji-dict/長.md)
-## [片](../../Kanji/temp-kanji/片.md)
+## [片](../../Kanji/kanji-dict/片.md)
 ## [低](../../Kanji/kanji-dict/低.md)
 ## [汚](../../Kanji/temp-kanji/汚.md)
 ## [蔵](../../Kanji/temp-kanji/蔵.md)

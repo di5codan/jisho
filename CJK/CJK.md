@@ -27,7 +27,7 @@ https://808cjk.com/
 ### 以上 【이상 isang】
 
 ## Commodity
-### [商品](商品) 【しょうひん shouhin】
+### [商品](../Vocabulary/商品.md) 【しょうひん shouhin】
 ### 商品 【shāngpǐn】
 ### 商品 【상품 sangpum】
 
@@ -83,7 +83,7 @@ e.g. book, film, composition, etc.
 ### 關係 【관계 gwangye】
 
 ## The Present
-### [現在](現在) 【げんざい genzai】
+### [現在](../Vocabulary/現在.md) 【げんざい genzai】
 ### 现在 【xiànzài】
 ### 現在 【현재 hyeonjae】
 
@@ -108,7 +108,7 @@ e.g. book, film, composition, etc.
 ### 部分 【부분 bubun】
 
 ## Method
-### [方法](方法) 【ほうほう houhou】
+### [方法](../Vocabulary/方法.md) 【ほうほう houhou】
 ### 方法 【fāngfǎ】
 ### 方法 【방법 bangbeop】
 
@@ -128,7 +128,7 @@ e.g. book, film, composition, etc.
 ### 特別 【특별 teukbyeol】
 
 
-### [希望](希望) 【きぼう kibou】
+### [希望](../Vocabulary/希望.md) 【きぼう kibou】
 ### 希望 【xīwàng】
 ### 希望 【희망 huimang】
 
@@ -143,7 +143,7 @@ e.g. book, film, composition, etc.
 ### 技術 【기술 gisul】
 
 
-### [基本](基本) 【きほん kihon】
+### [基本](../Vocabulary/基本.md) 【きほん kihon】
 ### 基本 【jīběn】
 ### 基本 【기본 gibon】
 
@@ -1089,12 +1089,12 @@ e.g. book, film, composition, etc.
 ### 不足 【부족 bujok】
 
 
-### [科学](科学) 【かがく kagaku】
+### [科学](../Vocabulary/科学.md) 【かがく kagaku】
 ### 科学 【kēxué】
 ### 科學 【과학 gwahak】
 
 
-### [太陽](太陽) 【たいよう taiyou】
+### [太陽](../Vocabulary/太陽.md) 【たいよう taiyou】
 ### 太阳 【tàiyáng】
 ### 太陽 【태양 taeyang】
 
@@ -1109,7 +1109,7 @@ e.g. book, film, composition, etc.
 ### 工夫 【공부 gongbu】
 
 
-### [数字](数字) 【すうじ suuji】
+### [数字](../Vocabulary/数字.md) 【すうじ suuji】
 ### 数字 【shùzì】
 ### 數字 【숫자 sutja】
 
@@ -1165,7 +1165,7 @@ e.g. book, film, composition, etc.
 ### 植物 【식물 singmul】
 
 ## Tofu
-### [豆腐](豆腐) 【dòufu】
+### [豆腐](../Vocabulary/豆腐.md) 【dòufu】
 ### 豆腐 【とうふ toufu】
 ### 豆腐 【두부 dubu】
 
@@ -1221,7 +1221,7 @@ e.g. book, film, composition, etc.
 ### 自己 【자기 jagi】
 
 
-### [少女](少女) 【しょうじょ shoujo】
+### [少女](../Vocabulary/少女.md) 【しょうじょ shoujo】
 ### 少女 【zhīshi】
 ### 少女 【소녀 sonyeo】
 

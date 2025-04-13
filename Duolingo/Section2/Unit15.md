@@ -7,7 +7,7 @@
 ## [弟](../../Vocabulary/弟.md)
 ## [兄](../../Vocabulary/兄.md)
 ## [供](../../Kanji/kanji-dict/供.md)
-## [両](../../Kanji/temp-kanji/両.md)
+## [両](../../Kanji/kanji-dict/両.md)
 ## [親](../../Vocabulary/親.md)
 ## [族](../../Kanji/kanji-dict/族.md)
 ## [万](../../Kanji/kanji-dict/万.md)

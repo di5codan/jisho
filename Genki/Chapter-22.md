@@ -147,7 +147,7 @@ To describe an action which is "done in the same way as A", or a characteristic 
 ### [ヨーロッパ](../Vocabulary/ヨーロッパ.md)
 ### [先輩](../Vocabulary/先輩.md)
 ### [一人暮らし](../Vocabulary/一人暮らし.md)
-### [後輩](後輩)
+### [後輩](../Vocabulary/後輩.md)
 ### [プロジェクト](../Vocabulary/プロジェクト.md)
 ### [書類](../Vocabulary/書類.md)
 ### [家事](家事)
@@ -161,7 +161,7 @@ To describe an action which is "done in the same way as A", or a characteristic 
 ### [ぺらぺら](../Vocabulary/ぺらぺら.md)（な）
 ### [心配](../Vocabulary/心配.md)
 ### [楽](../Vocabulary/楽.md)
-### [勝つ](勝つ)
+### [勝つ](../Vocabulary/勝つ.md)
 ### [変](../Vocabulary/変.md)
 ### [風が吹く](風が吹く)
 ### [放っておく](../Vocabulary/放っておく.md)
@@ -173,7 +173,7 @@ To describe an action which is "done in the same way as A", or a characteristic 
 
 ## Ru-verbs and Irregular Verbs
 ### [徹夜する](徹夜する)
-### [負ける](負ける)
+### [負ける](../Vocabulary/負ける.md)
 ### [お願いする](../Vocabulary/お願いする.md)
 ### [計画を立てる](../Vocabulary/計画を立てる.md)
 ### [受ける](../Vocabulary/受ける.md)

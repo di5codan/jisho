@@ -232,108 +232,27 @@ When 何か/何も are used in situations where は,が,and を are used, they o
 ### [黒板](../Vocabulary/黒板.md)
 ### どう
 
-## Extra Kanji + Vocab
+## Kanji Vocab
+[店員](../Vocabulary/店員.md)
+[会員](../Vocabulary/会員.md)
+[新鮮](../Vocabulary/新鮮.md)
 
-### [店員](../Vocabulary/店員.md)
-store clerk  
-てんいん
-  
-### [会員](../Vocabulary/会員.md)
-member
-かいいん
+[作品](../Vocabulary/作品.md)
+[作者](../Vocabulary/作者.md)
+[[仕返し]]
+[仕える](../Vocabulary/仕える.md)
 
-### [駅員](../Vocabulary/駅員.md)
-station attendant  
-えきいん
-  
-### [新鮮](../Vocabulary/新鮮.md)
-fresh
-なしんせんな
+[車いす](../Vocabulary/車いす.md)
+[駐車場](../Vocabulary/駐車場.md)
 
-### [聞こえる](../Vocabulary/聞こえる.md)
-can be heard  
-きこえる
+[[休日]]
+[言語学](../Vocabulary/言語学.md)
+[方言](../Vocabulary/方言.md)
+[読書](../Vocabulary/読書.md)
+[読み物](../Vocabulary/読み物.md)
 
-### [作品](../Vocabulary/作品.md)
-artistic piece 
-さくひん
-  
-### [作者](../Vocabulary/作者.md)
-author
-さくしゃ
-  
-### [仕返](../Vocabulary/仕返.md)
-revenge
-ししかえし
-
-### [仕える](../Vocabulary/仕える.md)
-to serve; to work under 
-つかえる
-  
-### [事](../Vocabulary/事.md)
-thing
-こと
-
-### [火事](../Vocabulary/火事.md)
-fire (disaster) 
-かじ
-  
-### [食事](../Vocabulary/食事.md)
-meal
-しょくじ
-  
-### [返事](../Vocabulary/返事.md)
-reply
-へんじ
-  
-### [電池](../Vocabulary/電池.md)
-battery
-でんち
-
-### [電子](../Vocabulary/電子.md)
-microwave oven 
-レンジでんしレンジ
-  
-### [車いす](../Vocabulary/車いす.md)
-wheelchair
-くるまいす
-
-### [駐車場](../Vocabulary/駐車場.md)
-parking lot 
-ちゅうしゃじょう
-  
-### [言語学](../Vocabulary/言語学.md)
-linguistics
-げんごがく
-  
-### [方言](../Vocabulary/方言.md)
-dialect
-ほうげん
- 
-### [読書](../Vocabulary/読書.md)
-reading (books)
-どくしょ
-
-### [読み物](../Vocabulary/読み物.md)
-reading matter; reading material 
-よみもの
-  
-### [不思議](../Vocabulary/不思議.md)
-mysterious
-なふしぎな
-  
-### [思い出](../Vocabulary/思い出.md)
-to recall; to remember
-すおもいだす
- 
-### [次女](../Vocabulary/次女.md)
-second daughter
-じじょ
-  
-### [目次](../Vocabulary/目次.md)
-table of contents
-もくじ
-  
-### [次回](../Vocabulary/次回.md)
-next time
-じかい
+[不思議](../Vocabulary/不思議.md)
+[思い出す](../Vocabulary/思い出す.md)
+[次女](../Vocabulary/次女.md)
+[目次](../Vocabulary/目次.md)
+[次回](../Vocabulary/次回.md)

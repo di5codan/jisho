@@ -137,7 +137,7 @@ i.e I was supposed to (はずでした), but instead (てしまった)
 ### [悩み](../Vocabulary/悩み.md)
 ### [恥ずかしがり屋](../Vocabulary/恥ずかしがり屋.md)
 ### [間違い](../Vocabulary/間違い.md)
-### [まじめ](../Vocabulary/まじめ.md)（な）
+### [まじめな](../Vocabulary/まじめな.md)（な）
 ### [性格](../Vocabulary/性格.md)
 ### [怠け者](../Vocabulary/怠け者.md)
 ### [文化](../Vocabulary/文化.md)

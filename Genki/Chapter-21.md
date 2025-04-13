@@ -222,7 +222,7 @@ When you want to say you don’t want them to do something, you can negate ほ�
 ### [会議](../Vocabulary/会議.md)
 ### [スピーチ](../Vocabulary/スピーチ.md)
 ### [ガソリン](../Vocabulary/ガソリン.md)
-### [留守](留守)
+### [留守](../Vocabulary/留守.md)
 ### [泥棒](../Vocabulary/泥棒.md)
 ### [警察](../Vocabulary/警察.md)
 ### [誘拐](../Vocabulary/誘拐.md)
@@ -283,7 +283,7 @@ When you want to say you don’t want them to do something, you can negate ほ�
 
 ### [準備する](../Vocabulary/準備する.md)
 ### [つける](../Vocabulary/つける.md)
-### [殺す](../殺す.md)
+### [殺す](../Vocabulary/殺す.md)
 
 ## Adverbs and Expressions
 ### [ころ](ころ)

@@ -224,26 +224,7 @@ Activities
 ### [間](../Vocabulary/間.md)
 ### [と](../Kana/kana-characters/と.md)
 
-## Kanji Vocab
-### [お土産](../Vocabulary/お土産.md)
-### [母の日](../Vocabulary/母の日.md)  
-### [日記](../Vocabulary/日記.md)  
-### [火山](../Vocabulary/火山.md)  
-### [花火](../Vocabulary/花火.md)  
-### [火星](../Vocabulary/火星.md)  
-### [月](../Vocabulary/月.md)
-### [火](../Vocabulary/火.md)  
-### [水泳](../Vocabulary/水泳.md)
-### [水道](../Vocabulary/水道.md)
-### [水着](../Vocabulary/水着.md) 
-### [土](../Vocabulary/土.md) 
-### [土地](../Vocabulary/土地.md)  
-### [粘土](../Vocabulary/粘土.md)
-### [上る](../Vocabulary/上る.md)
-### [中学](../Vocabulary/中学.md)
-### [一年中](../Vocabulary/一年中.md)
-### [半年](../Vocabulary/半年.md)
-### [半額](../Vocabulary/半額.md)
+
 # Numbers
 ## Months
 月
@@ -301,3 +282,19 @@ Activities
 | ３１日 | さんじゅういちにち |
 
 
+## Kanji Vocab
+[一か月](../Vocabulary/一か月.md)
+[火星](../Vocabulary/火星.md)
+[水泳](../Vocabulary/水泳.md)
+[水道](../Vocabulary/水道.md)
+[水着](../Vocabulary/水着.md)
+[木村さん](../Vocabulary/木村さん.md)
+[料金](../Vocabulary/料金.md)
+[土](../Vocabulary/土.md)
+[土地](../Vocabulary/土地.md)
+[粘土](../Vocabulary/粘土.md)
+[曜日](../Vocabulary/曜日.md)
+[屋上](../Vocabulary/屋上.md)
+[一年中](../Vocabulary/一年中.md)
+[半年](../Vocabulary/半年.md)
+[半額](../Vocabulary/半額.md)

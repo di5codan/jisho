@@ -158,22 +158,22 @@
 [[大体]]	generally	大[だい]体[たい]	ダイタイ
 [[大分]]	greatly / considerably	大[だい]分[ぶ]	ダイブ
 [[倒れる]] / 倒れて / 倒れます	to break down / to collapse	倒[たお]れる / 倒[たお]れて / 倒[たお]れます	
-[[確か]]	sure / certain / definite	確[たし]か	タꜜシカ
+[[../Vocabulary/確か]]	sure / certain / definite	確[たし]か	タꜜシカ
 [[足す]] / 足して / 足します	to add numbers	足[た]す / 足[た]して / 足[た]します	
 [[訪ねる]] / 訪ねて / 訪ねます	to visit	訪[たず]ねる / 訪[たず]ねて / 訪[たず]ねます (not 尋ねる)	
 [[尋ねる]] / 尋ねて / 尋ねます	to ask / to inquire	尋[たず]ねる / 尋[たず]ねて / 尋[たず]ねます (not 訪ねる)	
 [[正しい]]	correct	正[ただ]しい	タダシꜜイ
 [[畳]]	Japanese straw mat	畳[たたみ]	タタミ
 "[[立てる]] / 立てて / 立てます (not ""can stand up"")"	to stand something up	"立[た]てる / 立[た]てて / 立[た]てます (not 建てる or ""can stand up"")"	
-[[建てる]] / 建てて / 建てます	to build	建[た]てる / 建[た]てて / 建[た]てます (not 立てる)	
-[[棚]]	shelf	棚[たな]	タナ
+[[../Vocabulary/建てる]] / 建てて / 建てます	to build	建[た]てる / 建[た]てて / 建[た]てます (not 立てる)	
+[[../Kanji/kanji-dict/棚]]	shelf	棚[たな]	タナ
 [[楽しみ]]	joy	楽[たの]しみ	タノシꜜミ  ***  タノシミꜜ  ***  タノシミ
 [[楽しむ]] / 楽しんで / 楽しみます	to enjoy oneself	楽[たの]しむ / 楽[たの]しんで / 楽[たの]しみます	
 [[偶に]]	occasionally	偶[たま]に	
-[[為]]	in order to	為[ため]	タメꜜ
+[[../Kanji/kanji-dict/為]]	in order to	為[ため]	タメꜜ
 [[男性]]	male / masculine gender	男[だん]性[せい]	ダンセイ
 [[暖房]]	heating	暖[だん]房[ぼう]	ダンボー
-[[血]]	blood	血[ち]	チ
+[[../Kanji/kanji-dict/血]]	blood	血[ち]	チ
 [[チェックする]]	to check	チェックする	
 [[力]]	strength / power	力[ちから]	チカラꜜ
 [[ちゃん]]	a hypocoristic suffix	ちゃん	
@@ -184,7 +184,7 @@
 [[付く]] / 付いて / 付きます	to be attached	付[つ]く / 付[つ]いて / 付[つ]きます (not 着く or 点く)	
 [[漬ける]] / 漬けて / 漬けます	to soak / to pickle	漬[つ]ける / 漬[つ]けて / 漬[つ]けます (not 点ける)	
 [[都合]]	circumstances	都[つ]合[ごう]	ツꜜコ°ー  ***  ツコ°ー
-[[続く]] / 続いて / 続きます	to be continued	続[つづ]く / 続[つづ]いて / 続[つづ]きます	
+[[../Vocabulary/続く]] / 続いて / 続きます	to be continued	続[つづ]く / 続[つづ]いて / 続[つづ]きます	
 [[積もり]]	intention	積[つ]もり	
 [[釣る]] / 釣って / 釣ります	to fish	釣[つ]る / 釣[つ]って / 釣[つ]ります	
 [[適当]]	suitability	適[てき]当[とう]	テキトー
@@ -194,7 +194,7 @@
 [[電報]]	telegram	電[でん]報[ぽう]	デンポー
 [[展覧会]]	exhibition	展[てん]覧[らん]会[かい]	テンラꜜンカイ
 [[都]]	metropolis / metropolitan	都[と]	トꜜ  ***  ミヤコ
-[[道具]]	tool / means	道[どう]具[ぐ]	ドーク°ꜜ
+[[../Vocabulary/道具]]	tool / means	道[どう]具[ぐ]	ドーク°ꜜ
 [[到頭]]	finally	到[とう]頭[とう]	トꜜートー
 [[通る]] / 通って / 通ります	to go through	通[とお]る / 通[とお]って / 通[とお]ります	
 [[特に]]	particularly / especially	特[とく]に	トꜜクニ
@@ -205,13 +205,13 @@
 [[直る]] / 直って / 直ります	to be fixed / to be repaired	直[なお]る / 直[なお]って / 直[なお]ります (not 治る)	
 [[治る]] / 治って / 治ります	to be cured / to be healed	治[なお]る / 治[なお]って / 治[なお]ります (not 直る)	
 [[亡く成る]] / 亡く成って / 亡く成ります	to die (not 死ぬ)	亡[な]く 成[な]る / 亡[な]く 成[な]って / 亡[な]く 成[な]ります (not 無く成る)	
-[[投げる]] / 投げて / 投げます	to throw / to cast away	投[な]げる / 投[な]げて / 投[な]げます	
-[[鳴る]] / 鳴って/ 鳴ります	to sound / to resound / to rumble	鳴[な]る / 鳴[な]って/ 鳴[な]ります (not 成る)	
+[[../Vocabulary/投げる]] / 投げて / 投げます	to throw / to cast away	投[な]げる / 投[な]げて / 投[な]げます	
+[[../Vocabulary/鳴る]] / 鳴って/ 鳴ります	to sound / to resound / to rumble	鳴[な]る / 鳴[な]って/ 鳴[な]ります (not 成る)	
 [[なる程]]	now I understand / I see	なる 程[ほど]	
 [[苦い]]	bitter	苦[にが]い	ニカ°ꜜイ
 [[二階建て]]	two storied	二[に]階[かい]建[だ]て	
 [[何奴も此奴も]]	everybody / every last one of them	何[ど]奴[いつ]も 此[こ]奴[いつ]も	
-[[逃げる]] / 逃げて / 逃げます	to escape	逃[に]げる / 逃[に]げて / 逃[に]げます	
+[[../Vocabulary/逃げる]] / 逃げて / 逃げます	to escape	逃[に]げる / 逃[に]げて / 逃[に]げます	
 [[入院]]	hospitalisation	入[にゅう]院[いん]	ニューイン
 [[入院する]]	to hospitalise	入[にゅう]院[いん]する	
 [[../Vocabulary/入学]]	entry to school or university / matriculation / enrolment	入[にゅう]学[がく]	ニューカ°ク
@@ -220,7 +220,7 @@
 [[人形]]	doll / figure	人[にん]形[ぎょう]	ニンキ°ョー  ***  ヒトカ°タ
 [[塗る]] / 塗って / 塗ります	to paint / to colour / to plaster	塗[ぬ]る / 塗[ぬ]って / 塗[ぬ]ります	
 [[濡れる]] / 濡れて / 濡れます	to get wet	濡[ぬ]れる / 濡[ぬ]れて / 濡[ぬ]れます	
-[[値段]]	price	値[ね]段[だん]	ネダン
+[[../Vocabulary/値段]]	price	値[ね]段[だん]	ネダン
 [[熱]]	fever	熱[ねつ]	ネツꜜ
 [[寝坊]]	sleeping in late	寝[ね]坊[ぼう]	ネボー
 [[眠る]] / 眠って / 眠ります	to sleep (not necessarily lying down)	眠[ねむ]る / 眠[ねむ]って / 眠[ねむ]ります	
@@ -229,13 +229,13 @@
 [[乗り物]]	vehicle	乗[の]り 物[もの]	ノリモノ
 [[葉]]	leaf	葉[は] (not 歯)	ハ  ***  ヨꜜー
 [[場合]]	situation	場[ば]合[あい]	バアイ
-[[倍]]	double	倍[ばい]	バイ  ***  バꜜイ
+[[../Kanji/kanji-dict/倍]]	double	倍[ばい]	バイ  ***  バꜜイ
 [[拝見する]]	(humble) to look at	拝[はい]見[けん]する	
 [[筈]]	it should be so / bound to be / expected to be	筈[はず]	ハズ
 [[はっきり]]	clearly / plainly	はっきり	ハッキꜜリ
 [[花見]]	cherry-blossom viewing	花[はな]見[み]	ハナミꜜ
 [[林]]	woods / forest	林[はやし]	ハヤシ  ***  ハヤシꜜ
-[[反対]]	opposition	反[はん]対[たい]	ハンタイ
+[[../Vocabulary/反対]]	opposition	反[はん]対[たい]	ハンタイ
 [[火]]	fire / flame	火[ひ] (not 日)	ヒꜜ
 [[冷える]] / 冷えて / 冷えます	to grow cold / to cool down	冷[ひ]える / 冷[ひ]えて / 冷[ひ]えます	
 [[光]]	light (the phenomenon)	光[ひかり]	ヒカリꜜ
@@ -246,8 +246,8 @@
 [[必要]]	necessary / indispensable / essential	必[ひつ]要[よう]	ヒツヨー
 [[昼間]]	daytime / during the day	昼[ひる]間[ま]	チューカン  ***  ヒルマꜜ
 [[昼休み]]	noon break	昼[ひる]休[やす]み	ヒルヤꜜスミ
-[[増える]] / 増えて / 増えます	to increase	増[ふ]える / 増[ふ]えて / 増[ふ]えます	
-[[深い]]	deep	深[ふか]い	フカꜜイ
+[[../Vocabulary/増える]] / 増えて / 増えます	to increase	増[ふ]える / 増[ふ]えて / 増[ふ]えます	
+[[../Vocabulary/深い]]	deep	深[ふか]い	フカꜜイ
 [[複雑]]	complexity / complication	複[ふく]雑[ざつ]	フクザツ
 [[葡萄]]	grapes	葡[ぶ]萄[どう]	ブドー
 [[布団]]	Japanese bedding / futon	布[ふ]団[とん]	フトン
@@ -257,12 +257,12 @@
 [[返事]]	reply	返[へん]事[じ]	ヘンジꜜ
 [[貿易]]	trade	貿[ぼう]易[えき]	ボーエキ
 [[法律]]	law	法[ほう]律[りつ]	ホーリツ
-[[星]]	star	星[ほし]	ホシ
+[[../Kanji/kanji-dict/星]]	star	星[ほし]	ホシ
 [[殆ど]]	mostly	殆[ほとん]ど	ホトꜜンド
 [[翻訳]]	translation (noun)	翻[ほん]訳[やく]	ホンヤク
 [[又は]]	or / otherwise	又[また]は	
 [[周り]]	surroundings / vincinity	周[まわ]り	マワリ
-[[回る]] / 回って / 回ります	to go around	回[まわ]る / 回[まわ]って / 回[まわ]ります	
+[[../Vocabulary/回る]] / 回って / 回ります	to go around	回[まわ]る / 回[まわ]って / 回[まわ]ります	
 [[真中]]	middle	真[まん]中[なか]	
 [[味噌]]	soybean paste / miso	味[み]噌[そ]	ミꜜソ
 [[見付かる]] / 見付かって / 見付かります	to be discovered	見[み]付[つ]かる / 見[み]付[つ]かって / 見[み]付[つ]かります	
@@ -284,18 +284,18 @@
 [[柔らかい]]	soft	柔[やわ]らかい	ヤワラカꜜイ
 [[揺れる]] / 揺れて / 揺れます	to shake / to sway	揺[ゆ]れる / 揺[ゆ]れて / 揺[ゆ]れます	
 [[用]]	use (noun)	用[よう]	ヨꜜー
-[[用意]]	preparation (not 支度)	用[よう]意[い] (not 容易)	ヨꜜーイ
-[[喜ぶ]] / 喜んで / 喜びます	to be delighted	喜[よろこ]ぶ / 喜[よろこ]んで / 喜[よろこ]びます	
+[[../Vocabulary/用意]]	preparation (not 支度)	用[よう]意[い] (not 容易)	ヨꜜーイ
+[[../Vocabulary/喜ぶ]] / 喜んで / 喜びます	to be delighted	喜[よろこ]ぶ / 喜[よろこ]んで / 喜[よろこ]びます	
 [理由](../Vocabulary/理由.md)
 [[利用]]	utilization / application	利[り]用[よう]	リヨー
-[[両方]]	both sides	両[りょう]方[ほう]	リョーホꜜー  ***  リョーホー
+[[../Vocabulary/両方]]	both sides	両[りょう]方[ほう]	リョーホꜜー  ***  リョーホー
 [[冷房]]	air conditioning	冷[れい]房[ぼう]	レイボー
 [連絡](../Vocabulary/連絡.md)
 [沸かす](../Vocabulary/沸かす.md)
 [沸く](../Vocabulary/沸く.md)
 [[訳]]	conclusion from reasoning / reason	訳[わけ]	ヤꜜク  ***  ワꜜケ
 [[忘れ物]]	something forgotten / lost property	忘[わす]れ 物[もの]	ワスレモノ
-[[割合]]	proportion / rate / ratio / percentage	割[わり]合[あい]	ワリアイ
+[[../Vocabulary/割合]]	proportion / rate / ratio / percentage	割[わり]合[あい]	ワリアイ
 [[割れる]] / 割れて / 割れます	"to break (meaning ""be broken"")"	割[わ]れる / 割[わ]れて / 割[わ]れます	
 [[アジア]]	Asia	アジア	
 [[アクセサリー]]	accessory	アクセサリー	アꜜクセサリー  ***  アクセꜜサリー

@@ -21,6 +21,6 @@
 ## [靴](../../Vocabulary/靴.md)
 ## [青](../../Kanji/kanji-dict/青.md)
 ## [服](../../Vocabulary/服.md)
-## [黒](../../Kanji/temp-kanji/黒.md)
+## [黒](../../Kanji/kanji-dict/黒.md)
 ## [帽](../../Kanji/kanji-dict/帽.md)
 ## [欲](../../Kanji/temp-kanji/欲.md)

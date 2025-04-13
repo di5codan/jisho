@@ -5,7 +5,7 @@
 | T   | [タ](kana-characters/タ.md) | [チ](kana-characters/チ.md) | [ツ](kana-characters/ツ.md) | [テ](kana-characters/テ.md) | [ト](kana-characters/ト.md) |
 | N   | [ナ](kana-characters/ナ.md) | [ニ](../Vocabulary/ニ.md) | [ヌ](kana-characters/ヌ.md) | [ネ](../Kanji/kanji-dict/ネ.md) | [ノ](../Kanji/kanji-dict/ノ.md) |
 | H   | [ハ](kana-characters/ハ.md) | [ヒ](kana-characters/ヒ.md) | [フ](kana-characters/フ.md) | [ヘ](kana-characters/ヘ.md) | [ホ](../Kanji/kanji-dict/ホ.md) |
-| M   | [マ](../Kanji/kanji-dict/マ.md) | [ミ](kana-characters/ミ.md) | [ム](../Kanji/kanji-dict/ム.md) | [メ](../Kanji/temp-kanji/メ.md) | [モ](kana-characters/モ.md) |
+| M   | [マ](../Kanji/kanji-dict/マ.md) | [ミ](kana-characters/ミ.md) | [ム](../Kanji/kanji-dict/ム.md) | [メ](../Kanji/kanji-dict/メ.md) | [モ](kana-characters/モ.md) |
 | Y   | [ヤ](kana-characters/ヤ.md) |       | [ユ](kana-characters/ユ.md) |       | [ヨ](kana-characters/ヨ.md) |
 | R   | [ラ](kana-characters/ラ.md) | [リ](kana-characters/リ.md) | [ル](kana-characters/ル.md) | [レ](kana-characters/レ.md) | [ロ](kana-characters/ロ.md) |
 |     |       |       |       |       |       |

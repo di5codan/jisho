@@ -4,53 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "7b28d03cebc8a8d8",
+        "id": "3e90610ef882ed2c",
         "type": "tabs",
         "children": [
           {
-            "id": "47e9e5416b4ec2ee",
+            "id": "15c66fd278a1d905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genki/Chapter-22.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanji/kanji-dict/鳴.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Chapter-22"
-            }
-          },
-          {
-            "id": "58c9285aafc84f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genki/Chapter-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter-14"
-            }
-          },
-          {
-            "id": "7da27642bdde2212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tobiara/第3課.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第3課"
+              "title": "鳴"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "しか",
+                "query": "file:鳴",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32d09945b000a13f",
@@ -193,34 +175,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7da27642bdde2212",
+  "active": "15c66fd278a1d905",
   "lastOpenFiles": [
-    "Vocabulary/リサーチ.md",
-    "Tobiara/第3課.md",
-    "Vocabulary/感謝する.md",
-    "Vocabulary/演奏する.md",
-    "Vocabulary/活躍する.md",
-    "Vocabulary/手術する.md",
-    "Vocabulary/感謝.md",
-    "Vocabulary/カーソル.md",
-    "Vocabulary/記事.md",
-    "Kanji/kanji-dict/記.md",
-    "Vocabulary/年代.md",
-    "Vocabulary/リサーチする.md",
-    "Vocabulary/なるほど.md",
-    "Vocabulary/運転免許.md",
-    "Vocabulary/アメリカンコーヒー.md",
-    "Vocabulary/和製英語.md",
-    "Kanji/kanji-dict/語.md",
-    "Kanji/kanji-dict/英.md",
-    "Kanji/kanji-dict/製.md",
-    "Kanji/kanji-dict/衣.md",
-    "Kanji/kanji-dict/制.md",
-    "Vocabulary/カーナビ.md",
-    "Vocabulary/バックミラー.md",
-    "Vocabulary/ハンドル.md",
-    "Vocabulary/ちょっとよろしいでしょうか.md",
-    "Vocabulary/発表する.md",
+    "Kanji/kanji-dict/哲.md",
+    "Kanji/kanji-dict/傾.md",
+    "Vocabulary/傾向.md",
+    "Kanji/kanji-dict/適.md",
+    "Vocabulary/協調性.md",
+    "Kanji/kanji-dict/協.md",
+    "Kanji/kanji-dict/第.md",
+    "Kanji/kanji-dict/次.md",
+    "Vocabulary/次.md",
+    "Vocabulary/放送.md",
+    "Kanji/kanji-dict/挙.md",
+    "Vocabulary/おおらかな.md",
+    "Vocabulary/悲観的な.md",
+    "Vocabulary/適当な.md",
+    "Vocabulary/苦情.md",
+    "Kanji/kanji-dict/浮.md",
+    "Vocabulary/原作.md",
+    "Vocabulary/出版.md",
+    "Kanji/kanji-dict/版.md",
+    "Vocabulary/翻訳する.md",
+    "Vocabulary/魅力.md",
+    "Kanji/kanji-dict/翻.md",
+    "Kanji/kanji-dict/響.md",
+    "Vocabulary/影響.md",
+    "Kanji/kanji-dict/影.md",
+    "Kanji/kanji-dict/確.md",
+    "Pasted image 20250316214045.png",
     "vocaw",
     "Vocabulary/Nouns",
     "v"
