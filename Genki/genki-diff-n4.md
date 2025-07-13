@@ -146,7 +146,7 @@
 [[すり]]	pickpocket	すり	スꜜリ
 [[すると]]	then / thereupon	すると	スルト
 [[生産する]]	to produce	生[せい]産[さん]する	
-[[生産]]	production	生[せい]産[さん]	セイサン
+[[../Vocabulary/生産]]	production	生[せい]産[さん]	セイサン
 [[西洋]]	western countries	西[せい]洋[よう]	セꜜイヨー
 [[席]]	seat	席[せき] (not 咳)	セꜜキ
 [[説明]]	explanation / instruction	説[せつ]明[めい]	セツメイ
@@ -163,11 +163,11 @@
 [[訪ねる]] / 訪ねて / 訪ねます	to visit	訪[たず]ねる / 訪[たず]ねて / 訪[たず]ねます (not 尋ねる)	
 [[尋ねる]] / 尋ねて / 尋ねます	to ask / to inquire	尋[たず]ねる / 尋[たず]ねて / 尋[たず]ねます (not 訪ねる)	
 [[正しい]]	correct	正[ただ]しい	タダシꜜイ
-[[畳]]	Japanese straw mat	畳[たたみ]	タタミ
+[[../Vocabulary/畳]]	Japanese straw mat	畳[たたみ]	タタミ
 "[[立てる]] / 立てて / 立てます (not ""can stand up"")"	to stand something up	"立[た]てる / 立[た]てて / 立[た]てます (not 建てる or ""can stand up"")"	
 [[../Vocabulary/建てる]] / 建てて / 建てます	to build	建[た]てる / 建[た]てて / 建[た]てます (not 立てる)	
 [[../Kanji/kanji-dict/棚]]	shelf	棚[たな]	タナ
-[[楽しみ]]	joy	楽[たの]しみ	タノシꜜミ  ***  タノシミꜜ  ***  タノシミ
+[[../Vocabulary/楽しみ]]	joy	楽[たの]しみ	タノシꜜミ  ***  タノシミꜜ  ***  タノシミ
 [[楽しむ]] / 楽しんで / 楽しみます	to enjoy oneself	楽[たの]しむ / 楽[たの]しんで / 楽[たの]しみます	
 [[偶に]]	occasionally	偶[たま]に	
 [[../Kanji/kanji-dict/為]]	in order to	為[ため]	タメꜜ
@@ -196,14 +196,14 @@
 [[都]]	metropolis / metropolitan	都[と]	トꜜ  ***  ミヤコ
 [[../Vocabulary/道具]]	tool / means	道[どう]具[ぐ]	ドーク°ꜜ
 [[到頭]]	finally	到[とう]頭[とう]	トꜜートー
-[[通る]] / 通って / 通ります	to go through	通[とお]る / 通[とお]って / 通[とお]ります	
+[[../Vocabulary/通る]] / 通って / 通ります	to go through	通[とお]る / 通[とお]って / 通[とお]ります	
 [[特に]]	particularly / especially	特[とく]に	トꜜクニ
 [[特別]]	special	特[とく]別[べつ]	トクベツ
 [[途中]]	on the way / en route	途[と]中[ちゅう]	トチュー
 [[../Vocabulary/届ける]] / 届けて / 届けます	to send / to deliver / to report	届[とど]ける / 届[とど]けて / 届[とど]けます	
 [[どんどん]]	more and more	どんどん	ドꜜンドン
 [[直る]] / 直って / 直ります	to be fixed / to be repaired	直[なお]る / 直[なお]って / 直[なお]ります (not 治る)	
-[[治る]] / 治って / 治ります	to be cured / to be healed	治[なお]る / 治[なお]って / 治[なお]ります (not 直る)	
+[[../Vocabulary/治る]] / 治って / 治ります	to be cured / to be healed	治[なお]る / 治[なお]って / 治[なお]ります (not 直る)	
 [[亡く成る]] / 亡く成って / 亡く成ります	to die (not 死ぬ)	亡[な]く 成[な]る / 亡[な]く 成[な]って / 亡[な]く 成[な]ります (not 無く成る)	
 [[../Vocabulary/投げる]] / 投げて / 投げます	to throw / to cast away	投[な]げる / 投[な]げて / 投[な]げます	
 [[../Vocabulary/鳴る]] / 鳴って/ 鳴ります	to sound / to resound / to rumble	鳴[な]る / 鳴[な]って/ 鳴[な]ります (not 成る)	
@@ -212,14 +212,14 @@
 [[二階建て]]	two storied	二[に]階[かい]建[だ]て	
 [[何奴も此奴も]]	everybody / every last one of them	何[ど]奴[いつ]も 此[こ]奴[いつ]も	
 [[../Vocabulary/逃げる]] / 逃げて / 逃げます	to escape	逃[に]げる / 逃[に]げて / 逃[に]げます	
-[[入院]]	hospitalisation	入[にゅう]院[いん]	ニューイン
+[[../Vocabulary/入院]]	hospitalisation	入[にゅう]院[いん]	ニューイン
 [[入院する]]	to hospitalise	入[にゅう]院[いん]する	
 [[../Vocabulary/入学]]	entry to school or university / matriculation / enrolment	入[にゅう]学[がく]	ニューカ°ク
 [[../Vocabulary/入学する]]	to enter school or university	入[にゅう]学[がく]する	
-[[似る]] / 似て / 似ます	to be similar	似[に]る / 似[に]て / 似[に]ます	
+[[../Vocabulary/似る]] / 似て / 似ます	to be similar	似[に]る / 似[に]て / 似[に]ます	
 [[人形]]	doll / figure	人[にん]形[ぎょう]	ニンキ°ョー  ***  ヒトカ°タ
 [[塗る]] / 塗って / 塗ります	to paint / to colour / to plaster	塗[ぬ]る / 塗[ぬ]って / 塗[ぬ]ります	
-[[濡れる]] / 濡れて / 濡れます	to get wet	濡[ぬ]れる / 濡[ぬ]れて / 濡[ぬ]れます	
+[[../Vocabulary/濡れる]] / 濡れて / 濡れます	to get wet	濡[ぬ]れる / 濡[ぬ]れて / 濡[ぬ]れます	
 [[../Vocabulary/値段]]	price	値[ね]段[だん]	ネダン
 [[熱]]	fever	熱[ねつ]	ネツꜜ
 [[寝坊]]	sleeping in late	寝[ね]坊[ぼう]	ネボー
@@ -255,8 +255,8 @@
 [[降り出す]] / 降り出して / 降り出します	to start to rain	降[ふ]り 出[だ]す / 降[ふ]り 出[だ]して / 降[ふ]り 出[だ]します	
 [[別]]	different / distinction / difference	別[べつ]	ベツ
 [[返事]]	reply	返[へん]事[じ]	ヘンジꜜ
-[[貿易]]	trade	貿[ぼう]易[えき]	ボーエキ
-[[法律]]	law	法[ほう]律[りつ]	ホーリツ
+[[../Vocabulary/貿易]]	trade	貿[ぼう]易[えき]	ボーエキ
+[[../Vocabulary/法律]]	law	法[ほう]律[りつ]	ホーリツ
 [[../Kanji/kanji-dict/星]]	star	星[ほし]	ホシ
 [[殆ど]]	mostly	殆[ほとん]ど	ホトꜜンド
 [[翻訳]]	translation (noun)	翻[ほん]訳[やく]	ホンヤク
@@ -287,7 +287,7 @@
 [[../Vocabulary/用意]]	preparation (not 支度)	用[よう]意[い] (not 容易)	ヨꜜーイ
 [[../Vocabulary/喜ぶ]] / 喜んで / 喜びます	to be delighted	喜[よろこ]ぶ / 喜[よろこ]んで / 喜[よろこ]びます	
 [理由](../Vocabulary/理由.md)
-[[利用]]	utilization / application	利[り]用[よう]	リヨー
+[[../Vocabulary/利用]]	utilization / application	利[り]用[よう]	リヨー
 [[../Vocabulary/両方]]	both sides	両[りょう]方[ほう]	リョーホꜜー  ***  リョーホー
 [[冷房]]	air conditioning	冷[れい]房[ぼう]	レイボー
 [連絡](../Vocabulary/連絡.md)
@@ -320,7 +320,7 @@
 [[ビル]]	building / bill	ビル	ビꜜル
 [[ファックス]]	fax	ファックス	ファꜜックス
 [[ベル]]	bell	ベル	ベꜜル
-[[レジ]]	register	レジ	レꜜジ
+[[../Vocabulary/レジ]]	register	レジ	レꜜジ
 [[ワープロ]]	word processor	ワープロ	ワープロ
 [[折り紙]]	origami	折[お]り 紙[がみ]	オリꜜカ°ミ  ***  オリカ°ミ
 [食事](../Vocabulary/食事.md)	meal (not rice, only meal)	食[しょく]事[じ]	ショクジ

@@ -93,7 +93,7 @@ e.g. book, film, composition, etc.
 ### 大學 【대학 daehak】
 
 ## Use
-### [利用](利用) 【りよう riyou】
+### [利用](../Vocabulary/利用.md) 【りよう riyou】
 ### 利用 【lìyòng】
 ### 利用 【이용 iyong】
 
@@ -118,7 +118,7 @@ e.g. book, film, composition, etc.
 ### 營業 【영업 yeongeop】
 
 
-### [情報](情報) 【じょうほう jouhou】
+### [情報](../Vocabulary/情報.md) 【じょうほう jouhou】
 ### 情报 【qíngbào】
 ### 情報 【정보 jeongbo】
 
@@ -155,7 +155,7 @@ e.g. book, film, composition, etc.
 
 
 ## Automatic
-### [自動](自動) 【じどう jidou】
+### [自動](../Vocabulary/自動.md) 【じどう jidou】
 ### 自动 【zìdòng】
 ### 自動 【자동 jadong】
 
@@ -1170,7 +1170,7 @@ e.g. book, film, composition, etc.
 ### 豆腐 【두부 dubu】
 
 ## Record
-### [記録](記録) 【きろく kiroku】
+### [記録](../Vocabulary/記録.md) 【きろく kiroku】
 ### 记录 【jìlù】
 ### 記錄 【기록 girok】
 

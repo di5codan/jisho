@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quartet/第2課.md",
+                "file": "Tobira/第12課.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "第2課"
+              "title": "第12課"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "32d09945b000a13f",
@@ -176,32 +177,33 @@
   },
   "active": "15c66fd278a1d905",
   "lastOpenFiles": [
-    "Quartet/第3課.md",
-    "Vocabulary/ガイド.md",
-    "Vocabulary/登山する.md",
-    "Quartet/第2課.md",
-    "Vocabulary/登山.md",
-    "Vocabulary/敬具.md",
-    "Vocabulary/佐藤.md",
-    "Vocabulary/大切にする.md",
-    "Vocabulary/では.md",
-    "Vocabulary/気に入る.md",
-    "Vocabulary/つまらないものですが.md",
-    "Vocabulary/活動.md",
-    "Vocabulary/別の.md",
-    "Vocabulary/ボランティア.md",
-    "Vocabulary/居酒屋.md",
-    "Vocabulary/発見する.md",
-    "Vocabulary/発見.md",
-    "Vocabulary/深まる.md",
-    "Vocabulary/異なる.md",
-    "Vocabulary/期間.md",
-    "Vocabulary/その節.md",
-    "Vocabulary/無事に.md",
-    "Vocabulary/先日.md",
-    "Vocabulary/全て.md",
-    "サマーコース.md",
-    "過ごす.md",
+    "Vocabulary/手作り.md",
+    "Tobira/第12課.md",
+    "Vocabulary/糊.md",
+    "Vocabulary/日数.md",
+    "Vocabulary/乾く.md",
+    "Vocabulary/貼る.md",
+    "Vocabulary/とめる.md",
+    "Vocabulary/状態.md",
+    "Vocabulary/挟む.md",
+    "Vocabulary/茎.md",
+    "ハサミ.md",
+    "Vocabulary/ティッシュ.md",
+    "Vocabulary/ボール紙.md",
+    "Vocabulary/栞.md",
+    "Vocabulary/草花.md",
+    "Vocabulary/四葉のクローバー.md",
+    "Vocabulary/葉.md",
+    "Vocabulary/紅葉.md",
+    "Vocabulary/スミレ.md",
+    "Vocabulary/押し花.md",
+    "Vocabulary/死亡.md",
+    "Vocabulary/発症.md",
+    "Vocabulary/被爆.md",
+    "Vocabulary/原爆症.md",
+    "Vocabulary/小さな.md",
+    "Vocabulary/病室.md",
+    "(飲み物",
     "Quartet",
     "Pasted image 20250316214045.png",
     "vocaw",
