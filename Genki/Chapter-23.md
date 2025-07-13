@@ -322,7 +322,7 @@ Compound する verbs take the following form
 ## Adverbs and Expressions
 ### [そうそう](そうそう)
 ### ～[ために](ために)
-### [そろそろ](そろそろ)
+### [そろそろ](../Vocabulary/そろそろ.md)
 ### [元気でね](../Vocabulary/元気でね)
 ### [そんな](../Vocabulary/そんな.md)～
 ### [ものすごく](../Vocabulary/ものすごく.md)

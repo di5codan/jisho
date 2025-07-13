@@ -130,11 +130,11 @@ To be good/bad at something is が上手です　が下手です
 | ロバートさんは料理を作るのが上手です | Robert is good at cooking meals          |
 | たけしさんは英語を話すのが下手です  | Takeshi is not a good speaker of English |
 
-To describe your own skills, use が[得意](../Vocabulary/得意.md)です, or が[苦手](../Vocabulary/苦手.md)です
+To describe your own skills, use が[得意な](../Vocabulary/得意な.md)です, or が[苦手](../Vocabulary/苦手.md)です
 
 |                    |                                                 |
 | ------------------ | ----------------------------------------------- |
-| 私は日本語を話すのが[得意](../Vocabulary/得意.md)です | I am good at/comftorable with speaking Japanese |
+| 私は日本語を話すのが[得意な](../Vocabulary/得意な.md)です | I am good at/comftorable with speaking Japanese |
 
 ## 7. The Subject Particle が
 が is a way of introducing new information to others that don’t know. For instance, Bill knows that Robert went to Okinawa, but Sally doesn’t. Bill would say to Sally:

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanji/kanji-dict/鳴.md",
-                "mode": "preview",
+                "file": "Quartet/第2課.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "鳴"
+              "title": "第2課"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:鳴",
+                "query": "file:向け",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,32 +176,33 @@
   },
   "active": "15c66fd278a1d905",
   "lastOpenFiles": [
-    "Kanji/kanji-dict/哲.md",
-    "Kanji/kanji-dict/傾.md",
-    "Vocabulary/傾向.md",
-    "Kanji/kanji-dict/適.md",
-    "Vocabulary/協調性.md",
-    "Kanji/kanji-dict/協.md",
-    "Kanji/kanji-dict/第.md",
-    "Kanji/kanji-dict/次.md",
-    "Vocabulary/次.md",
-    "Vocabulary/放送.md",
-    "Kanji/kanji-dict/挙.md",
-    "Vocabulary/おおらかな.md",
-    "Vocabulary/悲観的な.md",
-    "Vocabulary/適当な.md",
-    "Vocabulary/苦情.md",
-    "Kanji/kanji-dict/浮.md",
-    "Vocabulary/原作.md",
-    "Vocabulary/出版.md",
-    "Kanji/kanji-dict/版.md",
-    "Vocabulary/翻訳する.md",
-    "Vocabulary/魅力.md",
-    "Kanji/kanji-dict/翻.md",
-    "Kanji/kanji-dict/響.md",
-    "Vocabulary/影響.md",
-    "Kanji/kanji-dict/影.md",
-    "Kanji/kanji-dict/確.md",
+    "Quartet/第3課.md",
+    "Vocabulary/ガイド.md",
+    "Vocabulary/登山する.md",
+    "Quartet/第2課.md",
+    "Vocabulary/登山.md",
+    "Vocabulary/敬具.md",
+    "Vocabulary/佐藤.md",
+    "Vocabulary/大切にする.md",
+    "Vocabulary/では.md",
+    "Vocabulary/気に入る.md",
+    "Vocabulary/つまらないものですが.md",
+    "Vocabulary/活動.md",
+    "Vocabulary/別の.md",
+    "Vocabulary/ボランティア.md",
+    "Vocabulary/居酒屋.md",
+    "Vocabulary/発見する.md",
+    "Vocabulary/発見.md",
+    "Vocabulary/深まる.md",
+    "Vocabulary/異なる.md",
+    "Vocabulary/期間.md",
+    "Vocabulary/その節.md",
+    "Vocabulary/無事に.md",
+    "Vocabulary/先日.md",
+    "Vocabulary/全て.md",
+    "サマーコース.md",
+    "過ごす.md",
+    "Quartet",
     "Pasted image 20250316214045.png",
     "vocaw",
     "Vocabulary/Nouns",

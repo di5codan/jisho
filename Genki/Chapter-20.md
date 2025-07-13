@@ -296,7 +296,7 @@ Note that 〜やすい/〜にくい tend to focus on the psychological ease/diff
 ### [かしこまりました](../Vocabulary/かしこまりました.md)
 ### [申し訳ありません](../Vocabulary/申し訳ありません.md)
 ### [よろしかったら](../Vocabulary/よろしかったら.md)
-### [また](また)
+### [また](../Vocabulary/また.md)
 ### [誠に](../Vocabulary/誠に.md)
 ### [失礼しました](../Vocabulary/失礼しました.md)
 ### ～[階](../Kanji/kanji-dict/階.md)

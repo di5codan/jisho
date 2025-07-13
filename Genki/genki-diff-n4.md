@@ -200,7 +200,7 @@
 [[特に]]	particularly / especially	特[とく]に	トꜜクニ
 [[特別]]	special	特[とく]別[べつ]	トクベツ
 [[途中]]	on the way / en route	途[と]中[ちゅう]	トチュー
-[[届ける]] / 届けて / 届けます	to send / to deliver / to report	届[とど]ける / 届[とど]けて / 届[とど]けます	
+[[../Vocabulary/届ける]] / 届けて / 届けます	to send / to deliver / to report	届[とど]ける / 届[とど]けて / 届[とど]けます	
 [[どんどん]]	more and more	どんどん	ドꜜンドン
 [[直る]] / 直って / 直ります	to be fixed / to be repaired	直[なお]る / 直[なお]って / 直[なお]ります (not 治る)	
 [[治る]] / 治って / 治ります	to be cured / to be healed	治[なお]る / 治[なお]って / 治[なお]ります (not 直る)	
@@ -277,11 +277,11 @@
 [[もし]]	if	もし	モꜜシ
 [[木綿]]	cotton	木綿[もめん]	モメン
 [[森]]	forest	森[もり]	モリ
-[[役に立つ]] / 役に立って / 役に立ちます	to be helpful	役[やく]に 立[た]つ / 役[やく]に 立[た]って / 役[やく]に 立[た]ちます	
+[[../Vocabulary/役に立つ]] / 役に立って / 役に立ちます	to be helpful	役[やく]に 立[た]つ / 役[やく]に 立[た]って / 役[やく]に 立[た]ちます	
 [[焼ける]] / 焼けて / 焼けます	to burn / to be roasted	焼[や]ける / 焼[や]けて / 焼[や]けます	
-[[優しい]]	tender / kind / gentle	優[やさ]しい (not 易しい)	ヤサシイ
+[[../Vocabulary/優しい]]	tender / kind / gentle	優[やさ]しい (not 易しい)	ヤサシイ
 [[やっと]]	at last	やっと	ヤット  ***  ヤットꜜ
-[[柔らかい]]	soft	柔[やわ]らかい	ヤワラカꜜイ
+[[../Vocabulary/柔らかい]]	soft	柔[やわ]らかい	ヤワラカꜜイ
 [[揺れる]] / 揺れて / 揺れます	to shake / to sway	揺[ゆ]れる / 揺[ゆ]れて / 揺[ゆ]れます	
 [[用]]	use (noun)	用[よう]	ヨꜜー
 [[../Vocabulary/用意]]	preparation (not 支度)	用[よう]意[い] (not 容易)	ヨꜜーイ
