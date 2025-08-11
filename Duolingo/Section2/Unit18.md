@@ -21,5 +21,5 @@
 ## [在](../../Kanji/kanji-dict/在.md)
 ## [宅](../../Kanji/temp-kanji/宅.md)
 ## [祖](../../Kanji/kanji-dict/祖.md)
-## [奥](../../Kanji/temp-kanji/奥.md)
+## [奥](../../Kanji/kanji-dict/奥.md)
 ## [主](../../Kanji/kanji-dict/主.md)

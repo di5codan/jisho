@@ -145,7 +145,7 @@
 [[煙草]]	tobacco	煙草[たばこ]	タバコ
 [[すり]]	pickpocket	すり	スꜜリ
 [[すると]]	then / thereupon	すると	スルト
-[[生産する]]	to produce	生[せい]産[さん]する	
+[[../Vocabulary/生産する]]	to produce	生[せい]産[さん]する	
 [[../Vocabulary/生産]]	production	生[せい]産[さん]	セイサン
 [[西洋]]	western countries	西[せい]洋[よう]	セꜜイヨー
 [[席]]	seat	席[せき] (not 咳)	セꜜキ
@@ -213,7 +213,7 @@
 [[何奴も此奴も]]	everybody / every last one of them	何[ど]奴[いつ]も 此[こ]奴[いつ]も	
 [[../Vocabulary/逃げる]] / 逃げて / 逃げます	to escape	逃[に]げる / 逃[に]げて / 逃[に]げます	
 [[../Vocabulary/入院]]	hospitalisation	入[にゅう]院[いん]	ニューイン
-[[入院する]]	to hospitalise	入[にゅう]院[いん]する	
+[[../Vocabulary/入院する]]	to hospitalise	入[にゅう]院[いん]する	
 [[../Vocabulary/入学]]	entry to school or university / matriculation / enrolment	入[にゅう]学[がく]	ニューカ°ク
 [[../Vocabulary/入学する]]	to enter school or university	入[にゅう]学[がく]する	
 [[../Vocabulary/似る]] / 似て / 似ます	to be similar	似[に]る / 似[に]て / 似[に]ます	
